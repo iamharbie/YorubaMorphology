@@ -63,22 +63,6 @@ def syllabicator_r(word):
     return syllabicator_r(word) + syllable
 
 
-def syllabicateR(word):
-    syllable = ''
-    while len(word) >= 1:
-        if len(word) > 3:
-            if word[-4:-2] in D and word[-2:] in Vn:  # DVn
-                syllable = word + ' ' + syllable
-                word = word[0:4]
-            else:
-
-                word = word[0:-3]
-
-
-
-
-
-
 
 print(syllabicator_r('la'))
 print(syllabicator_r('gba'))
@@ -87,5 +71,4 @@ print(syllabicator_r('gbafun'))
 
 print(syllabicator_r('tẹtan'))
 print(syllabicator_r('sunkanmi'))
-print(syllabicator_r('kalokalo'))
 
