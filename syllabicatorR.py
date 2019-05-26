@@ -1,7 +1,7 @@
-V = ['a', 'e', 'ẹ', 'i', 'o', 'ọ', 'u']
-Vn = ['an', 'ẹn', 'in', 'ọn', 'un']
-N = ['m', 'n']
-C = ['b', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'r', 's', 's', 't', 'w', 'y']
+V = ['a', 'e', 'ẹ', 'i', 'o', 'ọ', 'u', 'à', 'è', '̀ẹ', 'ì', 'ò', '̀ọ', 'ù', 'á', 'é', '́ẹ', 'í', 'ó', '́ọ', 'ú']
+Vn = ['an', 'ẹn', 'in', 'ọn', 'un', 'àn', '̀ẹn', 'ìn', '̀ọn', 'ùn', 'án', '́ẹn', 'ín', '́ọn', 'ún']
+N = ['m', 'n', '̀m', '̀n', '́m', '́n']
+C = ['b', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'r', 's', 'ṣ', 't', 'w', 'y']
 D = ['gb']
 
 
@@ -15,7 +15,7 @@ def syllabicator(word):
                 word = word[0:4]
             else:
                 if word[-3:-1] in D and word[-1] in V:  # DV Structure
-                    syllable = word + ' ' + syllable
+                    syllable =  word[-3:]+ ' ' + syllable
                     word = word[0:-3]
 
                 elif word[-3] in C and word[-2:] in Vn:  # CVn Structure
@@ -104,5 +104,10 @@ print(syllabicator('gbafun'))
 
 print(syllabicator('tẹtan'))
 print(syllabicator('sunkanmi'))
-print(syllabicator('kalokalo'))
+print(syllabicator('ọkùnrin'))
+print(syllabicator('agbára'))
+# print(syllabicator('mẹ̀wàá'))
+print(syllabicator('mọkànlá'))
+
+
 
