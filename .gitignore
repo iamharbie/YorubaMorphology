@@ -7,3 +7,4 @@ pred.txt
 store.txt
 venv/*
 test.py
+split.py

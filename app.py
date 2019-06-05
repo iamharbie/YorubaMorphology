@@ -40,7 +40,7 @@ except ValueError:
 
 
 
-print(syllabicator_i.syllabicate('ọ̀dàlẹ́'))
+print(syllabicator_i.syllabicate('àlàáfíà'))
 
 
 
