@@ -9,7 +9,7 @@ def pre_process_word(sentence):
     return sentence.strip()
 
 
-file = 'lagos_nwu.txt'
+file = 'news_site.txt'
 
 r = open(file, 'r')
 w = open(file.replace('.', '_syllables.'), 'w')

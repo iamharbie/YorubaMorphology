@@ -11,7 +11,7 @@ Nigeria - Ni ge ri a
 àti - à ti 
 àṣẹ - à ṣẹ 
 lòrí - lò rí 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ti - ti 
 ẹ - ẹ 
 Ọladele - Ọ la de le 
@@ -19,7 +19,7 @@ ti - ti
 Awọlumatẹẹ - A wọ lu ma tẹ ẹ 
 Adesoye - A de so ye 
 Ọmọlasoye - Ọ mọ la so ye 
-Ẹnikẹ̀ni - Ẹ ni k̀ẹ ni 
+Ẹnikẹ̀ni - Ẹ ni kẹ̀ ni 
 kò - kò 
 gbọdò - gbọ dò 
 da - da 
@@ -34,18 +34,18 @@ yàtò - yà tò
 fún - fún 
 ìlò - ì lò 
 ara - a ra 
-tirẹ̀ - ti r̀ẹ 
+tirẹ̀ - ti rẹ̀ 
 nìkan - nì kan 
 láì - lá ì 
 gba - gba 
 àṣẹ - à ṣẹ 
 fún - fún 
 ṣíṣe - ṣí ṣe 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 láti - lá ti 
 ọwọ - ọ wọ 
 àwọn - à wọn 
-olùṣẹ̀wé - o lù ṣ̀ẹ wé 
+olùṣẹ̀wé - o lù ṣẹ̀ wé 
 Nigeria - Ni ge ri a 
 Ní - Ní 
 ọdún - ọ dún 
@@ -67,11 +67,11 @@ O - O
 ṢÀNGÚÒTÒYÉ - ṢÀN GÚ Ò TÒ YÉ 
 Ékùrò - É kù rò 
 lalábàákú - la lá bà á kú 
-ẹ̀wà - ̀ẹ wà 
+ẹ̀wà - ẹ̀ wà 
 a - a 
 Ẹgàn - Ẹ gàn 
 ni - ni 
-hẹ̀ẹ̀ - h̀ẹ ̀ẹ 
+hẹ̀ẹ̀ - hẹ̀ ẹ̀ 
 Taa - Ta a 
 lokùn - lo kùn 
 taa - ta a 
@@ -81,12 +81,12 @@ kan - kan
 ìjà - ì jà 
 kàn - kàn 
 KìÍ - Kì Í 
-ṣẹ̀bi - ṣ̀ẹ bi 
+ṣẹ̀bi - ṣẹ̀ bi 
 wọn - wọn 
 n - n 
-Ilẹ̀ - I l̀ẹ 
+Ilẹ̀ - I lẹ̀ 
 ú - ú 
-jẹ̀nìyàn - j̀ẹ nì yàn 
+jẹ̀nìyàn - jẹ̀ nì yàn 
 Ọmọ - Ọ mọ 
 mi - mi 
 nù - nù 
@@ -94,11 +94,11 @@ nù - nù
 Àṣọ - À ṣọ 
 nlá - n lá 
 kọ - kọ 
-lẹ̀òyàn - l̀ẹ ò yàn 
+lẹ̀òyàn - lẹ̀ ò yàn 
 rìlá - rì lá 
 Ìwà - Ì wà 
 lẹwà - lẹ wà 
-Òmúlẹ̀mòfo - Ò mú l̀ẹ mò fo 
+Òmúlẹ̀mòfo - Ò mú lẹ̀ mò fo 
 Àtubòtán - À tu bò tán 
 Abínúẹni - A bí nú ẹ ni 
 Ìfura - Ì fu ra 
@@ -108,7 +108,7 @@ lòògùn - lò ò gùn
 Àtijẹ - À ti jẹ 
 Àwọn - À wọn 
 atúnnidá - a tún ni dá 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 Òjòwúbìnrin - Ò jò wú bìn rin 
 Ọré - Ọ ré 
 òtítọ - ò tí tọ 
@@ -126,7 +126,7 @@ SI - SI
 Rìbá - Rì bá 
 Wọòbìà - Wọ ò bì à 
 Ìrìn - Ì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 Ikú - I kú 
 Awéléwò - A wé lé wò 
 Taa - Ta a 
@@ -147,7 +147,7 @@ keji - ke ji
 ẹni - ẹ ni 
 tí - tí 
 orúkọ - o rú kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 n - n 
 pòwe - pò we 
 kì - kì 
@@ -155,16 +155,16 @@ kì - kì
 ṣe - ṣe 
 oníwẹé - o ní wẹ é 
 bòòkù - bò ò kù 
-Lẹ̀yìn - L̀ẹ yìn 
+Lẹ̀yìn - Lẹ̀ yìn 
 ti - ti 
 jáde - já de 
 ìwé - ì wé 
 mẹfà - mẹ fà 
 ní - ní 
 iléìwé - i lé ì wé 
-alákòọbẹ̀rẹ̀ - a lá kò ọ b̀ẹ r̀ẹ 
+alákòọbẹ̀rẹ̀ - a lá kò ọ bẹ̀ rẹ̀ 
 wọ - wọ 
-ìléẹ̀kọ - ì lé ̀ẹ kọ 
+ìléẹ̀kọ - ì lé ẹ̀ kọ 
 girama - gi ra ma 
 àìsí - à ì sí 
 owo - o wo 
@@ -174,9 +174,9 @@ jẹ - jẹ
 kí - kí 
 parí - pa rí 
 ìwé - ì wé 
-mẹ̀wàá - m̀ẹ wà á 
+mẹ̀wàá - mẹ̀ wà á 
 Léyìn - Lé yìn 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 lo - lo 
 wá - wá 
 iṣẹ - i ṣẹ 
@@ -188,13 +188,13 @@ oníweé - o ní we é
 bòọkù - bò ọ kù 
 ni - ni 
 ọpọlọ - ọ pọ lọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 fakíki - fa kí ki 
 Òun - Ò u Òun 
 kì - kì 
 í - í 
 ṣe - ṣe 
-màjẹ̀ṣin - mà j̀ẹ ṣin 
+màjẹ̀ṣin - mà jẹ̀ ṣin 
 nínú - ní nú 
 kéwìkéwì - ké wì ké wì 
 Òun - Ò u Òun 
@@ -203,17 +203,17 @@ ni - ni
 ewì - e wì 
 mọkànlá - mọ kàn lá 
 tí - tí 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 ti - ti 
-Ṣangòtéyẹ̀ - Ṣan gò té ỳẹ 
+Ṣangòtéyẹ̀ - Ṣan gò té yẹ̀ 
 Ẹni - Ẹ ni 
 tí - tí 
 ni - ni 
 ewì - e wì 
-mẹ̀wàá - m̀ẹ wà á 
+mẹ̀wàá - mẹ̀ wà á 
 tí - tí 
 Ò - Ò 
-gbẹ̀yìn - gb̀ẹ yìn 
+gbẹ̀yìn - gbẹ̀ yìn 
 nínú - ní nú 
 ìwé - ì wé 
 yìí - yì í 
@@ -233,7 +233,7 @@ nínú - ní nú
 ọgbà - ọ gbà 
 wa - wa 
 níbí - ní bí 
-Édẹ̀ - É d̀ẹ 
+Édẹ̀ - É dẹ̀ 
 Yorùbá - Yo rù bá 
 àti - à ti 
 Ẹkò - Ẹ kò 
@@ -242,7 +242,7 @@ rì - rì
 ko - ko 
 Kí - Kí 
 wọ - wọ 
-iléẹ̀kò - i lé ̀ẹ kò 
+iléẹ̀kò - i lé ẹ̀ kò 
 yìí - yì í 
 ti - ti 
 fi - fi 
@@ -250,7 +250,7 @@ kéwì - ké wì
 kàn - kàn 
 tún - tún 
 wáá - wá á 
-jinlẹ̀ - jin l̀ẹ 
+jinlẹ̀ - jin lẹ̀ 
 nínú - ní nú 
 ewì - e wì 
 sí - sí 
@@ -279,18 +279,18 @@ tí - tí
 rajaja - ra ja ja 
 Bi - Bi 
 o - o 
-tilẹ̀ - ti l̀ẹ 
+tilẹ̀ - ti lẹ̀ 
 pé - pé 
 onirúurú - o ni rú u rú 
 nìkan - nì kan 
 ni - ni 
 àwọn - à wọn 
 akéwì - a ké wì 
-mẹtẹ̀ẹ̀ta - mẹ t̀ẹ ̀ẹ ta 
+mẹtẹ̀ẹ̀ta - mẹ tẹ̀ ẹ̀ ta 
 wònyi - wò wòn yi 
 kewi - ke wi 
 lé - lé 
-sibẹ̀ - si b̀ẹ 
+sibẹ̀ - si bẹ̀ 
 a - a 
 gbà - gbà 
 pé - pé 
@@ -324,7 +324,7 @@ wọn - wọn
 ni - ni 
 Ààrò - À à rò 
 Mẹta - Mẹ ta 
-ẹ̀yin - ̀ẹ yin 
+ẹ̀yin - ẹ̀ yin 
 àgbà - à gbà 
 náà - ná à 
 lò - lò 
@@ -336,13 +336,13 @@ pé - pé
 ki - ki 
 i - i 
 da - da 
-ọbẹ̀ - ọ b̀ẹ 
+ọbẹ̀ - ọ bẹ̀ 
 nù - nù 
 Yàtò - Yà tò 
 si - si 
 pòrúkọ - pò rú kọ 
 yii - yi i 
-ẹ̀yi - ̀ẹ yi 
+ẹ̀yi - ẹ̀ yi 
 n - n 
 kò - kò 
 wọpò - wọ pò 
@@ -393,13 +393,13 @@ mu - mu
 ni - ni 
 mọ - mọ 
 ẹni - ẹ ni 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 ní - ní 
 í - í 
 mu - mu 
 ni - ni 
 mọ - mọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 ìdí - ì dí 
 nìyí - nì yí 
 tí - tí 
@@ -446,9 +446,9 @@ tàbí - tà bí
 ìwé - ì wé 
 ìtàn - ì tàn 
 àròsọ - à rò sọ 
-ọlẹ̀rò - ọ l̀ẹ rò 
+ọlẹ̀rò - ọ lẹ̀ rò 
 geere - ge e re 
-tirẹ̀ - ti r̀ẹ 
+tirẹ̀ - ti rẹ̀ 
 gbé - gbé 
 jáde - já de 
 ni - ni 
@@ -486,10 +486,10 @@ o - o
 fi - fi 
 wáá - wá á 
 kọ - kọ 
-ẹ̀dẹ̀ - ̀ẹ d̀ẹ 
+ẹ̀dẹ̀ - ẹ̀ dẹ̀ 
 Yorùbá - Yo rù bá 
 àti - à ti 
-ẹ̀kẹìtàn - ̀ẹ kẹ ì tàn 
+ẹ̀kẹìtàn - ẹ̀ kẹ ì tàn 
 nínú - ní nú 
 ọgbà - ọ gbà 
 yìí - yì í 
@@ -505,7 +505,7 @@ lé - lé
 ti - ti 
 máa - má a 
 rì - rì 
-pẹ̀dẹ̀ - p̀ẹ d̀ẹ 
+pẹ̀dẹ̀ - pẹ̀ dẹ̀ 
 gidi - gi di 
 olòrin - o lò rin 
 ni - ni 
@@ -516,7 +516,7 @@ Báyi - Bá yi
 ti - ti 
 di - di 
 àgbà - à gbà 
-ẹjẹ̀ - ẹ j̀ẹ 
+ẹjẹ̀ - ẹ jẹ̀ 
 ninú - ni nú 
 kéwìkéwì - ké wì ké wì 
 Bi - Bi 
@@ -526,7 +526,7 @@ fi - fi
 kòwé - kò wé 
 léwé - lé wé 
 báiÍ - bá i Í 
-ẹ̀kọ - ̀ẹ kọ 
+ẹ̀kọ - ẹ̀ kọ 
 giga - gi ga 
 Yunifásiti - Yu ni fá si ti 
 ti - ti 
@@ -535,37 +535,37 @@ ilù - i lù
 lò - lò 
 ti - ti 
 kẹ - kẹ 
-òdẹ̀ - ò d̀ẹ 
+òdẹ̀ - ò dẹ̀ 
 Yorùbá - Yo rù bá 
 lọwò - lọ wò 
 O - O 
 tẹ - tẹ 
 siwA - si wA 
 jù - jù 
-lẹ̀yìn - l̀ẹ yìn 
+lẹ̀yìn - lẹ̀ yìn 
 ti - ti 
 jade - ja de 
 nibi - ni bi 
 Ọdun - Ọ dun 
-ẹ̀tò - ̀ẹ tò 
-ẹ̀kò - ̀ẹ kò 
+ẹ̀tò - ẹ̀ tò 
+ẹ̀kò - ẹ̀ kò 
 yii - yi i 
 ni - ni 
 yòò - yò ò 
 si - si 
 jáde - já de 
-mẹtẹ̀ẹ̀ta - mẹ t̀ẹ ̀ẹ ta 
+mẹtẹ̀ẹ̀ta - mẹ tẹ̀ ẹ̀ ta 
 Bákan - Bá kan 
 náà - ná à 
 ni - ni 
 àwọn - à wọn 
-métẹ̀ẹ̀ta - mé t̀ẹ ̀ẹ ta 
+métẹ̀ẹ̀ta - mé tẹ̀ ẹ̀ ta 
 ṣe - ṣe 
 wúwo - wú wo 
 sí - sí 
 lọwọ - lọ wọ 
 mi - mi 
-ẹ̀mi - ̀ẹ mi 
+ẹ̀mi - ẹ̀ mi 
 kò - kò 
 ní - ní 
 ẹnì - ẹ nì 
@@ -588,16 +588,16 @@ fún - fún
 àkéjọpò - à ké jọ pò 
 ewì - e wì 
 yìí - yì í 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 má - má 
 ṣe - ṣe 
 jẹ - jẹ 
 kí - kí 
 àwọn - à wọn 
-ẹ̀nìyàn - ̀ẹ nì yàn 
-tẹ̀tẹ̀ - t̀ẹ t̀ẹ 
+ẹ̀nìyàn - ẹ̀ nì yàn 
+tẹ̀tẹ̀ - tẹ̀ tẹ̀ 
 mọ - mọ 
-ẹ̀ka - ̀ẹ ka 
+ẹ̀ka - ẹ̀ ka 
 lítírésò - lí tí ré sò 
 tí - tí 
 í - í 
@@ -605,7 +605,7 @@ tí - tí
 Eyí - E yí 
 le - le 
 rí - rí 
-bẹ̀ẹ̀ - b̀ẹ ̀ẹ 
+bẹ̀ẹ̀ - bẹ̀ ẹ̀ 
 bí - bí 
 bá - bá 
 ṣe - ṣe 
@@ -625,7 +625,7 @@ yìi - yì i
 ni - ni 
 rí - rí 
 ní - ní 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 ìwé - ì wé 
 tí - tí 
 wọn - wọn 
@@ -641,7 +641,7 @@ tiwa - ti wa
 ni - ni 
 pé - pé 
 àìmọ - à ì mọ 
-ẹ̀ka - ̀ẹ ka 
+ẹ̀ka - ẹ̀ ka 
 lítíréṣò - lí tí ré ṣò 
 tí - tí 
 fi - fi 
@@ -660,7 +660,7 @@ le - le
 ni - ni 
 irú - i rú 
 ìwé - ì wé 
-bẹ̀ẹ̀ - b̀ẹ ̀ẹ 
+bẹ̀ẹ̀ - bẹ̀ ẹ̀ 
 Bákan - Bá kan 
 náà - ná à 
 ni - ni 
@@ -670,7 +670,7 @@ ní - ní
 sí - sí 
 ìdúrò - ì dú rò 
 tàbí - tà bí 
-ìbẹ̀rẹ̀ - ì b̀ẹ r̀ẹ 
+ìbẹ̀rẹ̀ - ì bẹ̀ rẹ̀ 
 fún - fún 
 ẹni - ẹ ni 
 tí - tí 
@@ -685,7 +685,7 @@ ilé - i lé
 ìtàwé - ì tà wé 
 tàbí - tà bí 
 lọwọ - lọ wọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 títí - tí tí 
 yoo - yo o 
 fi - fi 
@@ -734,8 +734,8 @@ láti - lá ti
 ka - ka 
 ewì - e wì 
 akéwì - a ké wì 
-métẹ̀ẹ̀ta - mé t̀ẹ ̀ẹ ta 
-ẹ̀yí - ̀ẹ yí 
+métẹ̀ẹ̀ta - mé tẹ̀ ẹ̀ ta 
+ẹ̀yí - ẹ̀ yí 
 tí - tí 
 yéò - yé ò 
 mú - mú 
@@ -812,17 +812,17 @@ ni - ni
 Ikú - I kú 
 Awéòlọwò - A wé ò lọ wò 
 ti - ti 
-méjẹ̀òji - mé j̀ẹ ò ji 
+méjẹ̀òji - mé jẹ̀ ò ji 
 si - si 
 ewi - e wi 
 ìdárò - ì dá rò 
 lòri - lò ri 
 ikú - i kú 
 Oloògbé - O lo ò gbé 
-Olòyẹ̀ - O lò ỳẹ 
+Olòyẹ̀ - O lò yẹ̀ 
 Ọbáfémi - Ọ bá fé mi 
 Awòlòwò - A wò lò wò 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 si - si 
 ni - ni 
 àwọn - à wọn 
@@ -840,12 +840,12 @@ wé - wé
 ara - a ra 
 wọn - wọn 
 nínú - ní nú 
-àròjinlẹ̀ninú - à rò jin l̀ẹ ni nú 
+àròjinlẹ̀ninú - à rò jin lẹ̀ ni nú 
 òrò - ò rò 
 àti - à ti 
 ninú - ni nú 
 ilò - i lò 
-ẹ̀dẹ̀ - ̀ẹ d̀ẹ 
+ẹ̀dẹ̀ - ẹ̀ dẹ̀ 
 Éyi - É yi 
 sì - sì 
 rọrùn - rọ rùn 
@@ -893,7 +893,7 @@ fún - fún
 àṣejáde - à ṣe já de 
 yálà - yá là 
 ti - ti 
-ìpínlẹ̀ - ì pín l̀ẹ 
+ìpínlẹ̀ - ì pín lẹ̀ 
 ni - ni 
 o - o 
 tàbí - tà bí 
@@ -945,7 +945,7 @@ sòrò - sò rò
 lé - lé 
 Bí - Bí 
 o - o 
-tilẹ̀ - ti l̀ẹ 
+tilẹ̀ - ti lẹ̀ 
 jé - jé 
 pé - pé 
 àwọn - à wọn 
@@ -964,10 +964,10 @@ lẹwà - lẹ wà
 Òjòwúbìnrin - Ò jò wú bìn rin 
 Tọkọtaya - Tọ kọ ta ya 
 àti - à ti 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 bẹẹ - bẹ ẹ 
 lọ - lọ 
-sibẹ̀ - si b̀ẹ 
+sibẹ̀ - si bẹ̀ 
 a - a 
 kò - kò 
 ṣaláìsòrò - ṣa lá ì sò rò 
@@ -981,7 +981,7 @@ ni - ni
 kan - kan 
 ìjà - ì jà 
 kàn - kàn 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 sì - sì 
 ni - ni 
 lára - lá ra 
@@ -989,9 +989,9 @@ lára - lá ra
 ewì - e wì 
 ìdárò - ì dá rò 
 ni - ni 
-Ilẹ̀ - I l̀ẹ 
+Ilẹ̀ - I lẹ̀ 
 rú - rú 
-jẹ̀nìyàn - j̀ẹ nì yàn 
+jẹ̀nìyàn - jẹ̀ nì yàn 
 Iku - I ku 
 Awélẹwò - A wé lẹ wò 
 Ipàdé - I pà dé 
@@ -1003,10 +1003,10 @@ ewì - e wì
 lara - la ra 
 irú - i rú 
 ewi - e wi 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 ni - ni 
 Ọgbọn - Ọ gbọn 
-àtìjẹ̀ - à tì j̀ẹ 
+àtìjẹ̀ - à tì jẹ̀ 
 ati - a ti 
 Taa - Ta a 
 lé - lé 
@@ -1016,7 +1016,7 @@ kò - kò
 sì - sì 
 ṣaláìní - ṣa lá ì ní 
 ewì - e wì 
-ìÌfẹ̀ - ì Ì f̀ẹ 
+ìÌfẹ̀ - ì Ì fẹ̀ 
 bíi - bí i 
 mélòò - mé lò ò 
 kan - kan 
@@ -1024,7 +1024,7 @@ lára - lá ra
 ni - ni 
 Ékùré - É kù ré 
 lalábàákú - la lá bà á kú 
-ẹ̀wà - ̀ẹ wà 
+ẹ̀wà - ẹ̀ wà 
 Taa - Ta a 
 lokùn - lo kùn 
 taa - ta a 
@@ -1038,8 +1038,8 @@ nínú - ní nú
 ewì - e wì 
 kòòkan - kò ò kan 
 àti - à ti 
-ìbéẹ̀rẹ̀ - ì bé ̀ẹ r̀ẹ 
-diẹ̀ - di ̀ẹ 
+ìbéẹ̀rẹ̀ - ì bé ẹ̀ rẹ̀ 
+diẹ̀ - di ẹ̀ 
 lori - lo ri 
 ewì - e wì 
 náà - ná à 
@@ -1047,7 +1047,7 @@ ni - ni
 a - a 
 kòjọ - kò jọ 
 sí - sí 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 ìwé - ì wé 
 yìí - yì í 
 A - A 
@@ -1077,18 +1077,18 @@ fún - fún
 tí - tí 
 rì - rì 
 ko - ko 
-òdẹ̀ - ò d̀ẹ 
+òdẹ̀ - ò dẹ̀ 
 Yorùbá - Yo rù bá 
 ní - ní 
 ilé - i lé 
-ẹ̀kò - ̀ẹ kò 
+ẹ̀kò - ẹ̀ kò 
 giga - gi ga 
 láti - lá ti 
-gboyẹ̀ - gbo ỳẹ 
+gboyẹ̀ - gbo yẹ̀ 
 tàbí - tà bí 
-oyẹ̀ - o ỳẹ 
+oyẹ̀ - o yẹ̀ 
 Bi - Bi 
-Eẹ̀ - E ̀ẹ 
+Eẹ̀ - E ẹ̀ 
 Yàtò - Yà tò 
 si - si 
 àwọn - à wọn 
@@ -1102,7 +1102,7 @@ si - si
 ẹni - ẹ ni 
 tí - tí 
 gbò - gbò 
-ẹ̀ae - ̀ẹ a e 
+ẹ̀ae - ẹ̀ a e 
 ọmọ - ọ mọ 
 Oòduà - O ò du à 
 dunra - dun ra 
@@ -1116,9 +1116,9 @@ tí - tí
 kò - kò 
 ní - ní 
 gbádùn - gbá dùn 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Tòò - Tò ò 
-ẹ̀yin - ̀ẹ yin 
+ẹ̀yin - ẹ̀ yin 
 ọmọ - ọ mọ 
 adáríhunrun - a dá rí hun run 
 Ààrò - À à rò 
@@ -1127,7 +1127,7 @@ nìyí - nì yí
 Ẹ - Ẹ 
 má - má 
 ṣe - ṣe 
-jẹ̀bẹ̀ẹ - j̀ẹ b̀ẹ ẹ 
+jẹ̀bẹ̀ẹ - jẹ̀ bẹ̀ ẹ 
 rẹ - rẹ 
 yídànù - yí dà nù 
 Ẹyin - Ẹ yin 
@@ -1137,9 +1137,9 @@ bOlúgbọn - bO lú gbọn
 Ẹyin - Ẹ yin 
 tẹẹ - tẹ ẹ 
 tA - tA 
-rẹ̀sà - r̀ẹ sà 
+rẹ̀sà - rẹ̀ sà 
 lẹyìn - lẹ yìn 
-ẹ̀yin - ̀ẹ yin 
+ẹ̀yin - ẹ̀ yin 
 teẹ - te ẹ 
 ṣonígbòwọ - ṣo ní gbò wọ 
 fÒlúkòso - fÒ lú kò so 
@@ -1150,7 +1150,7 @@ lẹnu - lẹ nu
 àwa - à wa 
 kò - kò 
 dorin - do rin 
-Égbẹ̀ - É gb̀ẹ 
+Égbẹ̀ - É gbẹ̀ 
 kúkú - kú kú 
 lorin - lo rin 
 àlejò - à le jò 
@@ -1178,7 +1178,7 @@ yin - yin
 porongodo - po ro n go do 
 Mo - Mo 
 tún - tún 
-bẹ̀rẹ̀ - b̀ẹ r̀ẹ 
+bẹ̀rẹ̀ - bẹ̀ rẹ̀ 
 sí - sí 
 i - i 
 lu - lu 
@@ -1186,10 +1186,10 @@ lu - lu
 ewì - e wì 
 wàyí - wà yí 
 Ẹ - Ẹ 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 mi - mi 
-pẹ̀lú - p̀ẹ lú 
-làákàyẹ̀ - là á kà ỳẹ 
+pẹ̀lú - pẹ̀ lú 
+làákàyẹ̀ - là á kà yẹ̀ 
 Mo - Mo 
 mò - mò 
 pé - pé 
@@ -1215,7 +1215,7 @@ Torí - To rí
 ki - ki 
 gbogbo - gbo gbo 
 olùwòran - o lù wò ran 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 Kò - Kò 
 máà - má à 
 mò - mò 
@@ -1225,7 +1225,7 @@ ri - ri
 lùlù - lù lù 
 Ṣé - Ṣé 
 àpéjọpò - à pé jọ pò 
-òpẹ̀ - ò p̀ẹ 
+òpẹ̀ - ò pẹ̀ 
 ní - ní 
 í - í 
 pòtá - pò tá 
@@ -1243,7 +1243,7 @@ nìkan - nì kan
 kò - kò 
 ni - ni 
 kan - kan 
-ẹ̀tẹ - ̀ẹ tẹ 
+ẹ̀tẹ - ẹ̀ tẹ 
 Àbùkù - À bù kù 
 tò - tò 
 bá - bá 
@@ -1259,18 +1259,18 @@ agbo - a gbo
 bi - bi 
 ẹ - ẹ 
 bá - bá 
-fẹ̀lẹ̀ - f̀ẹ l̀ẹ 
+fẹ̀lẹ̀ - fẹ̀ lẹ̀ 
 júlù - jú lù 
 Ò - Ò 
 dájú - dá jú 
 ẹ - ẹ 
 ò - ò 
 níí - ní í 
-ṣisẹ̀ - ṣi s̀ẹ 
+ṣisẹ̀ - ṣi sẹ̀ 
 gbé - gbé 
 Àṣirí - À ṣi rí 
 àwa - à wa 
-méjẹ̀ẹ̀jì - mé j̀ẹ ̀ẹ jì 
+méjẹ̀ẹ̀jì - mé jẹ̀ ẹ̀ jì 
 kò - kò 
 sì - sì 
 ní - ní 
@@ -1284,7 +1284,7 @@ léjú - lé jú
 ayé - a yé 
 Nítorí - Ní to rí 
 pé - pé 
-àìfẹ̀lẹ̀ - à ì f̀ẹ l̀ẹ 
+àìfẹ̀lẹ̀ - à ì fẹ̀ lẹ̀ 
 ké - ké 
 ìbòòsí - ì bò ò sí 
 Ni - Ni 
@@ -1306,7 +1306,7 @@ ní - ní
 ṣàì - ṣà ì 
 rí - rí 
 ìfun - ì fun 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 mú - mú 
 Bí - Bí 
 mo - mo 
@@ -1399,7 +1399,7 @@ kúkú - kú kú
 ṣe - ṣe 
 Bí - Bí 
 mo - mo 
-wẹ̀yìn - ẁẹ yìn 
+wẹ̀yìn - wẹ̀ yìn 
 bí - bí 
 u - u 
 kò - kò 
@@ -1414,7 +1414,7 @@ bá - bá
 ti - ti 
 rí - rí 
 ewì - e wì 
-onítẹ̀mi - o ní t̀ẹ mi 
+onítẹ̀mi - o ní tẹ̀ mi 
 àbùṣe - à bù ṣe 
 bùṣe - bù ṣe 
 Ma - Ma 
@@ -1422,9 +1422,9 @@ fà - fà
 á - á 
 múdò - mú dò 
 ma - ma 
-fẹ̀tẹ̀ - f̀ẹ t̀ẹ 
+fẹ̀tẹ̀ - fẹ̀ tẹ̀ 
 kò - kò 
-létẹ̀ - lé t̀ẹ 
+létẹ̀ - lé tẹ̀ 
 Ma - Ma 
 ní - ní 
 ìyàwú - ì yà wú 
@@ -1445,7 +1445,7 @@ ti - ti
 bá - bá 
 ewì - e wì 
 ṣe - ṣe 
-ìmùlẹ̀ - ì mù l̀ẹ 
+ìmùlẹ̀ - ì mù lẹ̀ 
 Débíi - Dé bí i 
 pé - pé 
 kò - kò 
@@ -1472,20 +1472,20 @@ O - O
 le - le 
 fi - fi 
 mí - mí 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 láì - lá ì 
-wẹ̀yìn - ẁẹ yìn 
+wẹ̀yìn - wẹ̀ yìn 
 wò - wò 
 Ṣùgbúòn - Ṣù gbú ò n 
 ewi - e wi 
 ré - ré 
-onítẹ̀mi - o ní t̀ẹ mi 
+onítẹ̀mi - o ní tẹ̀ mi 
 Bí - Bí 
 ìgbín - ì gbín 
 fà - fà 
 ìkarahun - ì ka ra hun 
 a - a 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 e - e 
 ni - ni 
 ibi - i bi 
@@ -1495,7 +1495,7 @@ bá - bá
 rì - rì 
 lọ - lọ 
 pátá - pá tá 
-Tẹ̀mi - T̀ẹ mi 
+Tẹ̀mi - Tẹ̀ mi 
 tewì - te wì 
 la - la 
 jọ - jọ 
@@ -1515,7 +1515,7 @@ Bí - Bí
 ti - ti 
 di - di 
 ìyekan - ì ye kan 
-òòbẹ̀ - ò ò b̀ẹ 
+òòbẹ̀ - ò ò bẹ̀ 
 látọjọ - lá tọ jọ 
 láéláé - lá é lá é 
 wá - wá 
@@ -1525,12 +1525,12 @@ di - di
 alábàárò - a lá bà á rò 
 ọdẹ - ọ dẹ 
 aperin - a pe rin 
-Bẹ̀ẹ̀ - B̀ẹ ̀ẹ 
+Bẹ̀ẹ̀ - Bẹ̀ ẹ̀ 
 ni - ni 
 ìyàwò - ì yà wò 
 mi - mi 
 àtàtà - à tà tà 
-onítẹ̀mi - o ní t̀ẹ mi 
+onítẹ̀mi - o ní tẹ̀ mi 
 àpé - à pé 
 Amékọwúgbọ - A mé kọ wú gbọ 
 gbogbo - gbo gbo 
@@ -1541,18 +1541,18 @@ Ko - Ko
 jé - jé 
 fi - fi 
 mí - mí 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 nígbà - ní gbà 
 kan - kan 
 ṣoṣo - ṣo ṣo 
 Ìwọ - Ì wọ 
 ni - ni 
-ẹ̀kò - ̀ẹ kò 
+ẹ̀kò - ẹ̀ kò 
 àtàtà - à tà tà 
 wúlò - wú lò 
 púpò - pú pò 
 Tí - Tí 
-diẹ̀ - di ̀ẹ 
+diẹ̀ - di ẹ̀ 
 nínú - ní nú 
 Yorùbá - Yo rù bá 
 rí - rí 
@@ -1595,7 +1595,7 @@ kí - kí
 wa - wa 
 le - le 
 túbò - tú bò 
-jinlẹ̀ - jin l̀ẹ 
+jinlẹ̀ - jin lẹ̀ 
 Torí - To rí 
 kí - kí 
 o - o 
@@ -1603,7 +1603,7 @@ má - má
 bàa - bà a 
 kò - kò 
 mí - mí 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 títí - tí tí 
 láé - lá é 
 Àbí - À bí 
@@ -1615,8 +1615,8 @@ fò - fò
 lésì - lé sì 
 Báyé - Bá yé 
 bá - bá 
-bẹ̀ẹ̀rẹ̀ - b̀ẹ ̀ẹ r̀ẹ 
-olélùfẹ̀ẹ̀ - o lé lù f̀ẹ ̀ẹ 
+bẹ̀ẹ̀rẹ̀ - bẹ̀ ẹ̀ rẹ̀ 
+olélùfẹ̀ẹ̀ - o lé lù fẹ̀ ẹ̀ 
 mi - mi 
 ẸGÀN - Ẹ GÀN 
 NI - NI 
@@ -1635,12 +1635,12 @@ fogún - fo gún
 ọdún - ọ dún 
 ràbàtà - rà bà tà 
 Kò - Kò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 tori - to ri 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 kò - kò 
 dòdodo - dò do do 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 a - a 
 ò - ò 
 le - le 
@@ -1675,22 +1675,22 @@ to - to
 sunwon - sun wo n 
 táa - tá a 
 sòrò - sò rò 
-Tẹ̀tàn - T̀ẹ tàn 
+Tẹ̀tàn - Tẹ̀ tàn 
 kọ - kọ 
 tàsọdùn - tà sọ dùn 
 kọ - kọ 
 À - À 
 rì - rì 
 gbéṣẹ - gbé ṣẹ 
-Olòdùmarẹ̀ - O lò dù ma r̀ẹ 
+Olòdùmarẹ̀ - O lò dù ma rẹ̀ 
 ga - ga 
 ni - ni 
 À - À 
 fì - fì 
 fiyìn - fi yìn 
 feba - fe ba 
-aṣẹ̀dá - a ṣ̀ẹ dá 
-ẹ̀òyàn - ̀ẹ ò yàn 
+aṣẹ̀dá - a ṣẹ̀ dá 
+ẹ̀òyàn - ẹ̀ ò yàn 
 Ẹni - Ẹ ni 
 tò - tò 
 dá - dá 
@@ -1708,7 +1708,7 @@ náà - ná à
 dárẹwà - dá rẹ wà 
 tí - tí 
 n - n 
-ẹ̀gàn - ̀ẹ gàn 
+ẹ̀gàn - ẹ̀ gàn 
 ni - ni 
 bẹẹ - bẹ ẹ 
 Ọmọwálé - Ọ mọ wá lé 
@@ -1716,17 +1716,17 @@ sunwòn - sun wò n
 láwùjọ - lá wù jọ 
 abo - a bo 
 o - o 
-Édùmàrẹ̀ - É dù mà r̀ẹ 
+Édùmàrẹ̀ - É dù mà rẹ̀ 
 Ọba - Ọ ba 
 ìké - ì ké 
-ìgẹ̀ - ì g̀ẹ 
+ìgẹ̀ - ì gẹ̀ 
 Ọba - Ọ ba 
 tí - tí 
 í - í 
 ṣohun - ṣo hun 
 gbogbo - gbo gbo 
 ní - ní 
-mẹ̀lọmẹ̀lọ - m̀ẹ lọ m̀ẹ lọ 
+mẹ̀lọmẹ̀lọ - mẹ̀ lọ mẹ̀ lọ 
 Ọba - Ọ ba 
 tò - tò 
 dá - dá 
@@ -1756,10 +1756,10 @@ iyán - i yán
 déni - dé ni 
 ròbọtọ - rò bọ tọ 
 bí - bí 
-oṣẹ̀ - o ṣ̀ẹ 
+oṣẹ̀ - o ṣẹ̀ 
 níjù - ní jù 
 Àní - À ní 
-Elédùmarẹ̀ - E lé dù ma r̀ẹ 
+Elédùmarẹ̀ - E lé dù ma rẹ̀ 
 tí - tí 
 í - í 
 dá - dá 
@@ -1771,11 +1771,11 @@ Tí - Tí
 un - un 
 dá - dá 
 agùntáṣọọlò - a gùn tá ṣọ ọ lò 
-ẹ̀nìyàn - ̀ẹ nì yàn 
-Ẹlẹ̀bùrú - Ẹ l̀ẹ bù rú 
+ẹ̀nìyàn - ẹ̀ nì yàn 
+Ẹlẹ̀bùrú - Ẹ lẹ̀ bù rú 
 ìkẹ - ì kẹ 
 mo - mo 
-ṣẹ̀bà - ṣ̀ẹ bà 
+ṣẹ̀bà - ṣẹ̀ bà 
 ÒgáÒgo - Ò gá Ò go 
 Ìwọ - Ì wọ 
 tò - tò 
@@ -1809,13 +1809,13 @@ má - má
 fòrò - fò rò 
 sábé - sá bé 
 ahòn - a hò n 
-Bòsẹ̀dé - Bò s̀ẹ dé 
+Bòsẹ̀dé - Bò sẹ̀ dé 
 dára - dá ra 
 lẹwà - lẹ wà 
 wuyì - wu yì 
 níwà - ní wà 
 léjú - lé jú 
-ẹ̀mi - ̀ẹ mi 
+ẹ̀mi - ẹ̀ mi 
 Emi - E mi 
 o - o 
 kúkú - kú kú 
@@ -1837,7 +1837,7 @@ rẹ - rẹ
 ti - ti 
 tò - tò 
 mí - mí 
-désàlẹ̀ - dé sà l̀ẹ 
+désàlẹ̀ - dé sà lẹ̀ 
 ara - a ra 
 Nṣe - N ṣe 
 lò - lò 
@@ -1865,8 +1865,8 @@ o - o
 Ti - Ti 
 mo - mo 
 fi - fi 
-bẹ̀ẹ̀rẹ̀ - b̀ẹ ̀ẹ r̀ẹ 
-ìpínlẹ̀ - ì pín l̀ẹ 
+bẹ̀ẹ̀rẹ̀ - bẹ̀ ẹ̀ rẹ̀ 
+ìpínlẹ̀ - ì pín lẹ̀ 
 rẹ - rẹ 
 rẹ - rẹ 
 Ni - Ni 
@@ -1875,10 +1875,10 @@ ti - ti
 n - n 
 yin - yin 
 Olùgbàlà - O lù gbà là 
-lòkẹ̀ - lò k̀ẹ 
+lòkẹ̀ - lò kẹ̀ 
 Fun - Fun 
 fifi - fi fi 
-pẹ̀lé - p̀ẹ lé 
+pẹ̀lé - pẹ̀ lé 
 ṣe - ṣe 
 sùúrù - sù ú rù 
 Lásìkò - Lá sì kò 
@@ -1894,8 +1894,8 @@ fi - fi
 ránṣé - rán ṣé 
 sáyé - sá yé 
 bí - bí 
-ẹ̀dá - ̀ẹ dá 
-atẹ̀yìntò - a t̀ẹ yìn tò 
+ẹ̀dá - ẹ̀ dá 
+atẹ̀yìntò - a tẹ̀ yìn tò 
 Eyin - E yin 
 funfun - fun fun 
 bí - bí 
@@ -1908,14 +1908,14 @@ ni - ni
 Àbí - À bí 
 tojú - to jú 
 to - to 
-mújẹ̀ - mú j̀ẹ 
+mújẹ̀ - mú jẹ̀ 
 gaara - ga a ra 
 bí - bí 
 omi - o mi 
-ẹ̀gbé - ̀ẹ gbé 
-òkẹ̀ - ò k̀ẹ 
+ẹ̀gbé - ẹ̀ gbé 
+òkẹ̀ - ò kẹ̀ 
 Ṣé - Ṣé 
-tẹ̀té - t̀ẹ té 
+tẹ̀té - tẹ̀ té 
 pọn - pọn 
 bí - bí 
 inú - i nú 
@@ -1930,17 +1930,17 @@ orí - o rí
 bíi - bí i 
 iṣin - i ṣin 
 Ọrùn - Ọ rùn 
-Àbẹ̀gbé - À b̀ẹ gbé 
+Àbẹ̀gbé - À bẹ̀ gbé 
 kò - kò 
 gùn - gùn 
 nààrì - nà à rì 
 bíi - bí i 
 tàgbánréré - tà gbán ré ré 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 kò - kò 
 kúrú - kú rú 
 bíi - bí i 
-tìrẹ̀ - tì r̀ẹ 
+tìrẹ̀ - tì rẹ̀ 
 Ṣe - Ṣe 
 lò - lò 
 mọ - mọ 
@@ -1959,12 +1959,12 @@ tàgéré - tà gé ré
 sì - sì 
 kúrú - kú rú 
 bí - bí 
-ẹ̀ṣù - ̀ẹ ṣù 
+ẹ̀ṣù - ẹ̀ ṣù 
 kékeré - ké ke ré 
 òde - ò de 
 Ihò - I hò 
 imú - i mú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 dá - dá 
 ni - ni 
 lọrùn - lọ rùn 
@@ -1978,9 +1978,9 @@ tọmọ - tọ mọ
 tuntun - tun tun 
 Ni - Ni 
 kúkúrú - kú kú rú 
-Dẹ̀bòrà - D̀ẹ bò rà 
+Dẹ̀bòrà - Dẹ̀ bò rà 
 sunwòn - sun wò n 
-léòdẹ̀ - lé ò d̀ẹ 
+léòdẹ̀ - lé ò dẹ̀ 
 dùn - dùn 
 ún - ún 
 bá - bá 
@@ -2000,7 +2000,7 @@ gbé - gbé
 ìbànújé - ì bà nú jé 
 fò - fò 
 Kò - Kò 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
 lo - lo 
 Kú - Kú 
 láwò - lá wò 
@@ -2024,14 +2024,14 @@ kí - kí
 lọ - lọ 
 pa - pa 
 bọrí - bọ rí 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Kò - Kò 
 dúpé - dú pé 
 ti - ti 
 ṣoríire - ṣo rí i re 
 láyé - lá yé 
 Ẹni - Ẹ ni 
-Àbẹ̀gbé - À b̀ẹ gbé 
+Àbẹ̀gbé - À bẹ̀ gbé 
 bá - bá 
 mọ - mọ 
 wàyí - wà yí 
@@ -2089,7 +2089,7 @@ rin - rin
 kìléòmítà - kì lé ò mí tà 
 sí - sí 
 yàrá - yà rá 
-ẹ̀kò - ̀ẹ kò 
+ẹ̀kò - ẹ̀ kò 
 Àròyé - À rò yé 
 olùkò - o lù kò 
 ní - ní 
@@ -2108,17 +2108,17 @@ kì - kì
 í - í 
 ṣeré - ṣe ré 
 Orí - O rí 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 pé - pé 
 bíi - bí i 
 ti - ti 
 kààsínìkan - kà à sí nì kan 
 ni - ni 
-Pẹ̀lé - P̀ẹ lé 
+Pẹ̀lé - Pẹ̀ lé 
 ọmọ - ọ mọ 
 bíbí - bí bí 
 inú - i nú 
-Àbẹ̀ké - À b̀ẹ ké 
+Àbẹ̀ké - À bẹ̀ ké 
 Ọmọ - Ọ mọ 
 Òpémúlérò - Ò pé mú lé rò 
 Mọjaàlekàn - Mọ ja à le kàn 
@@ -2137,7 +2137,7 @@ n - n
 fò - fò 
 ọmọ - ọ mọ 
 odù - o dù 
-emùrẹ̀ - e mù r̀ẹ 
+emùrẹ̀ - e mù rẹ̀ 
 Òdú - Ò dú 
 ò - ò 
 nínú - ní nú 
@@ -2153,7 +2153,7 @@ ní - ní
 í - í 
 ṣe - ṣe 
 ìkọrànsí - ì kọ ràn sí 
-ẹ̀we - ̀ẹ we 
+ẹ̀we - ẹ̀ we 
 Ikùn - I kùn 
 ni - ni 
 ìkẹrànsí - ì kẹ ràn sí 
@@ -2173,14 +2173,14 @@ orúkọ - o rú kọ
 rẹ - rẹ 
 Ẹni - Ẹ ni 
 tí - tí 
-ìbẹ̀rẹ̀ - ì b̀ẹ r̀ẹ 
+ìbẹ̀rẹ̀ - ì bẹ̀ rẹ̀ 
 rẹ - rẹ 
 lásán - lá sán 
 le - le 
 mú - mú 
 òpò - ò pò 
-ṣiwòrẹ̀ - ṣi wò r̀ẹ 
-Tẹ̀gàn - T̀ẹ gàn 
+ṣiwòrẹ̀ - ṣi wò rẹ̀ 
+Tẹ̀gàn - Tẹ̀ gàn 
 ké - ké 
 tẹnu - tẹ nu 
 bòòlì - bò ò lì 
@@ -2197,7 +2197,7 @@ sọ - sọ
 rẹwà - rẹ wà 
 sunwòn - sun wò n 
 léújú - lé ú jú 
-ẹ̀mi - ̀ẹ mi 
+ẹ̀mi - ẹ̀ mi 
 Égàn - É gàn 
 kò - kò 
 kúkú - kú kú 
@@ -2214,13 +2214,13 @@ dùn - dùn
 ún - ún 
 gbé - gbé 
 o - o 
-òrẹẹ̀ - ò rẹ ̀ẹ 
+òrẹẹ̀ - ò rẹ ẹ̀ 
 mi - mi 
 Yorùbá - Yo rù bá 
 gbọ - gbọ 
 o - o 
 ọmọ - ọ mọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 Yorùbá - Yo rù bá 
 ni - ni 
 ká - ká 
@@ -2254,7 +2254,7 @@ gbọ - gbọ
 Kò - Kò 
 sì - sì 
 má - má 
-mẹ̀sì - m̀ẹ sì 
+mẹ̀sì - mẹ̀ sì 
 tò - tò 
 le - le 
 fò - fò 
@@ -2266,7 +2266,7 @@ Wún - Wún
 sì - sì 
 le - le 
 fimò - fi mò 
-ẹ̀dẹ̀ - ̀ẹ d̀ẹ 
+ẹ̀dẹ̀ - ẹ̀ dẹ̀ 
 ta - ta 
 Tápà - Tá pà 
 fún - fún 
@@ -2298,7 +2298,7 @@ máa - má a
 bọ - bọ 
 tòun - tò u n 
 tòwe - tò we 
-Ìjìnlẹ̀ - Ì jìn l̀ẹ 
+Ìjìnlẹ̀ - Ì jìn lẹ̀ 
 òrò - ò rò 
 dé - dé 
 ọmọ - ọ mọ 
@@ -2311,13 +2311,13 @@ Ifá - I fá
 Káwọn - Ká wọn 
 òpe - ò pe 
 àti - à ti 
-ògbẹ̀rì - ò gb̀ẹ rì 
+ògbẹ̀rì - ò gbẹ̀ rì 
 padà - pa dà 
 sẹyìn - sẹ yìn 
 Kò - Kò 
 dùn - dùn 
 mi - mi 
-ẹ̀ẹ̀kan - ̀ẹ ̀ẹ kan 
+ẹ̀ẹ̀kan - ẹ̀ ẹ̀ kan 
 là - là 
 á - á 
 wi - wi 
@@ -2339,16 +2339,16 @@ Taa - Ta a
 lapẹja - la pẹ ja 
 tò - tò 
 bédé - bé dé 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ròjú - rò jú 
 rere - re re 
 Olékun - O lé kun 
 Taa - Ta a 
-lẹ̀nìyàn - l̀ẹ nì yàn 
+lẹ̀nìyàn - lẹ̀ nì yàn 
 tò - tò 
 bá - bá 
 kòìàkò - kò ì à kò 
-mulẹ̀ - mu l̀ẹ 
+mulẹ̀ - mu lẹ̀ 
 tú - tú 
 rere - re re 
 Ọlọsà - Ọ lọ sà 
@@ -2364,12 +2364,12 @@ folú - fo lú
 ṣe - ṣe 
 lore - lo re 
 Taa - Ta a 
-lẹ̀nìyàn - l̀ẹ nì yàn 
+lẹ̀nìyàn - lẹ̀ nì yàn 
 té - té 
 fìwò - fì wò 
 lásán - lá sán 
 pàrògìdìgbà - pà rò gì dì gbà 
-lálẹ̀ - lá l̀ẹ 
+lálẹ̀ - lá lẹ̀ 
 odò - o dò 
 Taa - Ta a 
 lo - lo 
@@ -2390,7 +2390,7 @@ pẹja - pẹ ja
 àrò - à rò 
 tí - tí 
 gbogbo - gbo gbo 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 rì - rì 
 dù - dù 
 Kì - Kì 
@@ -2398,7 +2398,7 @@ bá - bá
 dára - dá ra 
 ká - ká 
 mọ - mọ 
-adẹ̀gẹ̀rẹ̀ - a d̀ẹ g̀ẹ r̀ẹ 
+adẹ̀gẹ̀rẹ̀ - a dẹ̀ gẹ̀ rẹ̀ 
 já - já 
 gbangba - gban gba 
 Taa - Ta a 
@@ -2414,7 +2414,7 @@ fì - fì
 wá - wá 
 ká - ká 
 Taa - Ta a 
-lẹ̀nìyàn - l̀ẹ nì yàn 
+lẹ̀nìyàn - lẹ̀ nì yàn 
 té - té 
 fìlàsà - fì là sà 
 pẹfòn - pẹ fò n 
@@ -2441,12 +2441,12 @@ réku - ré ku
 Níbi - Ní bi 
 òpọò - ò pọ ò 
 sànmòrí - sàn mò rí 
-tọỌgbẹ̀tògbòrò - tọ Ọ gb̀ẹ tò gbò rò 
+tọỌgbẹ̀tògbòrò - tọ Ọ gbẹ̀ tò gbò rò 
 tí - tí 
 wọn - wọn 
 ò - ò 
 réku - ré ku 
-olòsẹ̀ - o lò s̀ẹ 
+olòsẹ̀ - o lò sẹ̀ 
 dánwò - dán wò 
 Àní - À ní 
 taa - ta a 
@@ -2469,10 +2469,10 @@ tòrí - tò rí
 dé - dé 
 ládé - lá dé 
 Taa - Ta a 
-lẹ̀nìyàn - l̀ẹ nì yàn 
-tÉlédùmàrẹ̀ - tÉ lé dù mà r̀ẹ 
+lẹ̀nìyàn - lẹ̀ nì yàn 
+tÉlédùmàrẹ̀ - tÉ lé dù mà rẹ̀ 
 fi - fi 
-ilẹ̀kẹ̀ - i l̀ẹ k̀ẹ 
+ilẹ̀kẹ̀ - i lẹ̀ kẹ̀ 
 iyùn - i yùn 
 sí - sí 
 lòrùn - lò rùn 
@@ -2493,7 +2493,7 @@ lásán - lá sán
 ká - ká 
 Níbi - Ní bi 
 àìmọye - à ì mọ ye 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 kò - kò 
 ti - ti 
 rí - rí 
@@ -2510,10 +2510,10 @@ tí - tí
 Dúdúyẹmí - Dú dú yẹ mí 
 n - n 
 tijú - ti jú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 láwùjọ - lá wù jọ 
 Taa - Ta a 
-lẹ̀nìyàn - l̀ẹ nì yàn 
+lẹ̀nìyàn - lẹ̀ nì yàn 
 tí - tí 
 òpẹléngẹé - ò pẹ lé n gẹ é 
 rì - rì 
@@ -2532,7 +2532,7 @@ taa - ta a
 lòwú - lò wú 
 wà - wà 
 nídìí - ní dì í 
-abẹ̀ré - a b̀ẹ ré 
+abẹ̀ré - a bẹ̀ ré 
 tò - tò 
 wúlò - wú lò 
 bii - bi i 
@@ -2561,14 +2561,14 @@ nílé - ní lé
 Ọlálọmí - Ọ lá lọ mí 
 Ò - Ò 
 ṣojú - ṣo jú 
-ebẹ̀ - e b̀ẹ 
+ebẹ̀ - e bẹ̀ 
 ṣojú - ṣo jú 
 poro - po ro 
 nínú - ní nú 
 oko - o ko 
 Ò - Ò 
 ṣojú - ṣo jú 
-agbélẹ̀yaràrá - a gbé l̀ẹ ya rà rá 
+agbélẹ̀yaràrá - a gbé lẹ̀ ya rà rá 
 ṣojú - ṣo jú 
 láyígbirikáko - lá yí gbi ri ká ko 
 Ìjà - Ì jà 
@@ -2581,11 +2581,11 @@ wọn - wọn
 jà - jà 
 lỌlà - lỌ là 
 nílé - ní lé 
-Ìyákẹ̀ - Ì yá k̀ẹ 
+Ìyákẹ̀ - Ì yá kẹ̀ 
 Ò - Ò 
 ṣojú - ṣo jú 
 Táyé - Tá yé 
-Akẹ̀yìndé - A k̀ẹ yìn dé 
+Akẹ̀yìndé - A kẹ̀ yìn dé 
 wà - wà 
 níbé - ní bé 
 Ojú - O jú 
@@ -2604,7 +2604,7 @@ kù - kù
 mi - mi 
 pàtò - pà tò 
 Mo - Mo 
-débẹ̀ - dé b̀ẹ 
+débẹ̀ - dé bẹ̀ 
 mo - mo 
 wòran - wò ran 
 Nibi - Ni bi 
@@ -2626,8 +2626,8 @@ rò - rò
 bí - bí 
 Òjò - Ò jò 
 Nibi - Ni bi 
-ẹ̀éyàn - ̀ẹ é yàn 
-mẹ̀fà - m̀ẹ fà 
+ẹ̀éyàn - ẹ̀ é yàn 
+mẹ̀fà - mẹ̀ fà 
 gbé - gbé 
 doríkodò - do rí ko dò 
 tí - tí 
@@ -2707,7 +2707,7 @@ wòjàngbòn - wò jàn gbò n
 ọmọ - ọ mọ 
 ẹ - ẹ 
 Àwọn - À wọn 
-ìjòyẹ̀ - ì jò ỳẹ 
+ìjòyẹ̀ - ì jò yẹ̀ 
 ti - ti 
 pé - pé 
 bìbà - bì bà 
@@ -2715,7 +2715,7 @@ wòn - wò wòn
 rì - rì 
 sòrò - sò rò 
 Taa - Ta a 
-lolẹ̀ - lo l̀ẹ 
+lolẹ̀ - lo lẹ̀ 
 to - to 
 fẹ - fẹ 
 bàṣe - bà ṣe 
@@ -2736,7 +2736,7 @@ tẹ - tẹ
 kò - kò 
 wá - wá 
 gba - gba 
-sẹ̀ríà - s̀ẹ rí à 
+sẹ̀ríà - sẹ̀ rí à 
 Wọn - Wọn 
 wéòjú - wé ò jú 
 òrò - ò rò 
@@ -2748,20 +2748,20 @@ tò - tò
 n - n 
 dijú - di jú 
 sii - si i 
-Kábíyẹ̀sí - Ká bí ỳẹ sí 
+Kábíyẹ̀sí - Ká bí yẹ̀ sí 
 rì - rì 
-gbẹ̀rò - gb̀ẹ rò 
+gbẹ̀rò - gbẹ̀ rò 
 pé - pé 
 Séríkí - Sé rí kí 
 tún - tún 
 gbéṣe - gbé ṣe 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 dé - dé 
 Séríkí - Sé rí kí 
 rú - rú 
 sọ - sọ 
 ikùn - i kùn 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Pé - Pé 
 ẹ - ẹ 
 wá - wá 
@@ -2788,7 +2788,7 @@ níjà - ní jà
 tí - tí 
 kò - kò 
 wá - wá 
-Kẹ̀ba - K̀ẹ ba 
+Kẹ̀ba - Kẹ̀ ba 
 Olúwa - O lú wa 
 ṣọ - ṣọ 
 gbogbo - gbo gbo 
@@ -2803,7 +2803,7 @@ rá - rá
 Lòyìnbò - Lò yìn bò 
 bá - bá 
 fòpá - fò pá 
-tilẹ̀ - ti l̀ẹ 
+tilẹ̀ - ti lẹ̀ 
 dáàfin - dá à fin 
 ọba - ọ ba 
 Ṣé - Ṣé 
@@ -2827,7 +2827,7 @@ wìnnìwìnnì - wìn nì wìn nì
 Lé - Lé 
 bá - bá 
 fi - fi 
-tẹlẹ̀ - tẹ l̀ẹ 
+tẹlẹ̀ - tẹ lẹ̀ 
 dáàfin - dá à fin 
 Láì - Lá ì 
 mò - mò 
@@ -2862,7 +2862,7 @@ kàyééfì - kà yé é fì
 Ìgbà - Ì gbà 
 tò - tò 
 dààjìn - dà à jìn 
-kílẹ̀ - kí l̀ẹ 
+kílẹ̀ - kí lẹ̀ 
 LAdékúnlé - LA dé kún lé 
 ọmọ - ọ mọ 
 ọba - ọ ba 
@@ -2884,7 +2884,7 @@ Pọká - Pọ ká
 ò - ò 
 jẹ - jẹ 
 jọkà - jọ kà 
-télẹ̀ - té l̀ẹ 
+télẹ̀ - té lẹ̀ 
 rí - rí 
 Àṣé - À ṣé 
 Adékúnlé - A dé kún lé 
@@ -2898,7 +2898,7 @@ lọ - lọ
 fún - fún 
 oníṣònà - o ní ṣò nà 
 bàbá - bà bá 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 Pé - Pé 
 tí - tí 
 tò - tò 
@@ -2909,9 +2909,9 @@ gỌ - gỌ
 YÌí - YÌ í 
 Bá - Bá 
 lọ - lọ 
-ṣòẹ̀ṣì - ṣò ̀ẹ ṣì 
-yẹ̀ - ỳẹ 
-gẹ̀rẹ̀ - g̀ẹ r̀ẹ 
+ṣòẹ̀ṣì - ṣò ẹ̀ ṣì 
+yẹ̀ - yẹ̀ 
+gẹ̀rẹ̀ - gẹ̀ rẹ̀ 
 Ọpá - Ọ pá 
 titun - ti tun 
 yẹ - yẹ 
@@ -2922,7 +2922,7 @@ Léjú - Lé jú
 làwọn - là wọn 
 ìgárá - ì gá rá 
 pàdé - pà dé 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 Won - Wo Won 
 gbowò - gbo wò 
 wọn - wọn 
@@ -2930,9 +2930,9 @@ gbaṣọ - gba ṣọ
 Wọn - Wọn 
 tún - tún 
 gbòpá - gbò pá 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 sọnù - sọ nù 
-Olẹ̀ - O l̀ẹ 
+Olẹ̀ - O lẹ̀ 
 tò - tò 
 gbé - gbé 
 kàkàkí - kà kà kí 
@@ -2960,7 +2960,7 @@ léfòẹ - lé fò ẹ
 ò - ò 
 màwòdì - mà wò dì 
 Ìyá - Ì yá 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lò - lò 
 màṣá - mà ṣá 
 Lé - Lé 
@@ -2974,18 +2974,18 @@ lọ - lọ
 jáwé - já wé 
 láàtàn - lá à tàn 
 Tò - Tò 
-rẹ̀pàá - r̀ẹ pà á 
+rẹ̀pàá - rẹ̀ pà á 
 té - té 
 fòpá - fò pá 
-tilẹ̀ - ti l̀ẹ 
+tilẹ̀ - ti lẹ̀ 
 káàkiri - ká à ki ri 
 Lòwọ - Lò wọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ti - ti 
 ròpá - rò pá 
-Bàtúrẹ̀ - Bà tú r̀ẹ 
+Bàtúrẹ̀ - Bà tú rẹ̀ 
 ròpá - rò pá 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 ní - ní 
 kọbò - kọ bò 
 méfà - mé fà 
@@ -2996,13 +2996,13 @@ jíṢẹ - jí Ṣẹ
 ọmọ - ọ mọ 
 ọba - ọ ba 
 fún - fún 
-Kábíyẹ̀sí - Ká bí ỳẹ sí 
+Kábíyẹ̀sí - Ká bí yẹ̀ sí 
 Lòrò - Lò rò 
 bá - bá 
 di - di 
 ṣùn - ṣùn 
 ùn - ùn 
-wolẹ̀ - wo l̀ẹ 
+wolẹ̀ - wo lẹ̀ 
 Lòrò - Lò rò 
 bá - bá 
 di - di 
@@ -3044,12 +3044,12 @@ mògàmògà - mò gà mò gà
 Tárá - Tá rá 
 ìlú - ì lú 
 ò - ò 
-bòsílẹ̀ - bò sí l̀ẹ 
+bòsílẹ̀ - bò sí lẹ̀ 
 ọrò - ọ rò 
 mọ - mọ 
 Àní - À ní 
 níbi - ní bi 
-ẹ̀ẹyàn - ̀ẹ ẹ yàn 
+ẹ̀ẹyàn - ẹ̀ ẹ yàn 
 méjìlá - mé jì lá 
 gbé - gbé 
 jàjàkúakátá - jà jà kú a ká tá 
@@ -3057,7 +3057,7 @@ Ténì - Té nì
 kankan - kan kan 
 ò - ò 
 sì - sì 
-jẹ̀bi - j̀ẹ bi 
+jẹ̀bi - jẹ̀ bi 
 nínú - ní nú 
 wọn - wọn 
 KÌ - KÌ 
@@ -3077,33 +3077,33 @@ orí - o rí
 la - la 
 máa - má a 
 rí - rí 
-níbẹ̀ - ní b̀ẹ 
+níbẹ̀ - ní bẹ̀ 
 Níbi - Ní bi 
 a - a 
 bá - bá 
 pàtẹ - pà tẹ 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 sí - sí 
 Mériiyiiri - Mé ri i yi i ri 
-ilẹ̀kẹ̀ - i l̀ẹ k̀ẹ 
+ilẹ̀kẹ̀ - i lẹ̀ kẹ̀ 
 ni - ni 
 i - i 
 wà - wà 
-nibẹ̀ - ni b̀ẹ 
+nibẹ̀ - ni bẹ̀ 
 Bí - Bí 
 ẹ - ẹ 
 ṣe - ṣe 
 rí - rí 
 itún - i tún 
-Abẹ̀ẹ̀rò - A b̀ẹ ̀ẹ rò 
+Abẹ̀ẹ̀rò - A bẹ̀ ẹ̀ rò 
 ò - ò 
 ní - ní 
 dàwátì - dà wá tì 
 Onírúurú - O ní rú u rú 
 lágídígba - lá gí dí gba 
 iyùn - i yùn 
-pẹ̀lú - p̀ẹ lú 
-sẹ̀gì - s̀ẹ gì 
+pẹ̀lú - pẹ̀ lú 
+sẹ̀gì - sẹ̀ gì 
 Ni - Ni 
 wọn - wọn 
 máa - má a 
@@ -3117,7 +3117,7 @@ a - a
 bá - bá 
 kò - kò 
 òpò - ò pò 
-ìjìnlẹ̀ - ì jìn l̀ẹ 
+ìjìnlẹ̀ - ì jìn lẹ̀ 
 si - si 
 wàyí - wà yí 
 Ò - Ò 
@@ -3125,7 +3125,7 @@ Onírúurú - O ní rú u rú
 ìwà - ì wà 
 àti - à ti 
 ìṣesí - ì ṣe sí 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 ni - ni 
 máa - má a 
 súyọ - sú yọ 
@@ -3136,8 +3136,8 @@ náà - ná à
 kò - kò 
 kì - kì 
 í - í 
-ṣẹ̀bi - ṣ̀ẹ bi 
-ẹ̀dá - ̀ẹ dá 
+ṣẹ̀bi - ṣẹ̀ bi 
+ẹ̀dá - ẹ̀ dá 
 Omi - O mi 
 táa - tá a 
 fi - fi 
@@ -3156,26 +3156,26 @@ gapá - ga pá
 Tí - Tí 
 ẹ - ẹ 
 rí - rí 
-eòẹ̀yàn - e ò ̀ẹ yàn 
+eòẹ̀yàn - e ò ẹ̀ yàn 
 tí - tí 
-fùkẹ̀ẹ - fù k̀ẹ ẹ 
+fùkẹ̀ẹ - fù kẹ̀ ẹ 
 rẹ - rẹ 
 PÒ - PÒ 
 Téò - Té ò 
 kò - kò 
 ìwé - ì wé 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 gírí - gí rí 
 tò - tò 
 tún - tún 
-wẹ̀yìn - ẁẹ yìn 
+wẹ̀yìn - wẹ̀ yìn 
 wò - wò 
 Pé - Pé 
 ẹ - ẹ 
 wò - wò 
 mí - mí 
 àbí - à bí 
-ẹ̀mi - ̀ẹ mi 
+ẹ̀mi - ẹ̀ mi 
 náà - ná à 
 kẹ - kẹ 
 Bí - Bí 
@@ -3184,11 +3184,11 @@ sì - sì
 ṣakọ - ṣa kọ 
 àgàgà - à gà gà 
 Tò - Tò 
-wẹ̀wù - ẁẹ wù 
+wẹ̀wù - wẹ̀ wù 
 kò - kò 
-délẹ̀ - dé l̀ẹ 
+délẹ̀ - dé lẹ̀ 
 kò - kò 
-dòkẹ̀ - dò k̀ẹ 
+dòkẹ̀ - dò kẹ̀ 
 To - To 
 rì - rì 
 ṣapá - ṣa pá 
@@ -3213,7 +3213,7 @@ mẹmu - mẹ mu
 Ẹ - Ẹ 
 mò - mò 
 pé - pé 
-ṣẹ̀ṣẹ̀dé - ṣ̀ẹ ṣ̀ẹ dé 
+ṣẹ̀ṣẹ̀dé - ṣẹ̀ ṣẹ̀ dé 
 lonítòhún - lo ní tò hún 
 Ọlòdún - Ọ lò dún 
 kìíní - kì í ní 
@@ -3236,10 +3236,10 @@ dá - dá
 àkọkò - à kọ kò 
 ni - ni 
 Àlàyé - À là yé 
-lẹ̀yí - l̀ẹ yí 
+lẹ̀yí - lẹ̀ yí 
 kì - kì 
 í - í 
-ṣẹ̀jà - ṣ̀ẹ jà 
+ṣẹ̀jà - ṣẹ̀ jà 
 Arúgbéò - A rú gbé ò 
 ṣoge - ṣo ge 
 rí - rí 
@@ -3263,7 +3263,7 @@ bá - bá
 réni - ré ni 
 té - té 
 rì - rì 
-halẹ̀ - ha l̀ẹ 
+halẹ̀ - ha lẹ̀ 
 to - to 
 n - n 
 mọjú - mọ jú 
@@ -3286,7 +3286,7 @@ Rìsíìtì - Rì sí ì tì
 Táa - Tá a 
 sòrò - sò rò 
 ògá - ò gá 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 síntọ - sín tọ 
 Táa - Tá a 
 dárúkọ - dá rú kọ 
@@ -3294,11 +3294,11 @@ dárúkọ - dá rú kọ
 tòhún - tò hún 
 tò - tò 
 yẹnu - yẹ nu 
-gẹ̀rẹ̀ - g̀ẹ r̀ẹ 
+gẹ̀rẹ̀ - gẹ̀ rẹ̀ 
 Tò - Tò 
 n - n 
 fojú - fo jú 
-tẹ̀nbẹlú - t̀ẹn bẹ lú 
+tẹ̀nbẹlú - tẹ̀n bẹ lú 
 ẹni - ẹ ni 
 gbogbo - gbo gbo 
 Taa - Ta a 
@@ -3313,7 +3313,7 @@ keji - ke ji
 dájú - dá jú 
 kì - kì 
 í - í 
-ṣẹ̀bi - ṣ̀ẹ bi 
+ṣẹ̀bi - ṣẹ̀ bi 
 wọn - wọn 
 Ohun - O hun 
 ojú - o jú 
@@ -3349,11 +3349,11 @@ bí - bí
 To - To 
 ri - ri 
 mí - mí 
-kanlẹ̀ - kan l̀ẹ 
+kanlẹ̀ - kan lẹ̀ 
 hìnìn - hì nìn 
 bí - bí 
-olékẹ̀ - o lé k̀ẹ 
-ilẹ̀ - i l̀ẹ 
+olékẹ̀ - o lé kẹ̀ 
+ilẹ̀ - i lẹ̀ 
 TO - TO 
 ri - ri 
 bẹ - bẹ 
@@ -3372,15 +3372,15 @@ bí - bí
 ẹni - ẹ ni 
 wojú - wo jú 
 Tọgàá - Tọ gà á 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 wọn - wọn 
-léẹ̀kan - lé ̀ẹ kan 
+léẹ̀kan - lé ẹ̀ kan 
 ṣoṣo - ṣo ṣo 
 Tí - Tí 
 wọn - wọn 
 n - n 
 dáhùn - dá hùn 
-lẹẹ̀mẹfà - lẹ ̀ẹ mẹ fà 
+lẹẹ̀mẹfà - lẹ ẹ̀ mẹ fà 
 Ẹ - Ẹ 
 mò - mò 
 pọlọdún - pọ lọ dún 
@@ -3398,20 +3398,20 @@ wọn - wọn
 Tí - Tí 
 n - n 
 wojú - wo jú 
-àsòkalẹ̀ - à sò ka l̀ẹ 
+àsòkalẹ̀ - à sò ka lẹ̀ 
 ayò - a yò 
 Tagò - Ta gò 
 kọ - kọ 
-tòdẹ̀ - tò d̀ẹ 
+tòdẹ̀ - tò dẹ̀ 
 sì - sì 
 ko - ko 
 Ò - Ò 
 dájú - dá jú 
 kì - kì 
 í - í 
-ṣẹ̀bi - ṣ̀ẹ bi 
+ṣẹ̀bi - ṣẹ̀ bi 
 wọn - wọn 
-Atẹrímọlẹ̀ - A tẹ rí mọ l̀ẹ 
+Atẹrímọlẹ̀ - A tẹ rí mọ lẹ̀ 
 lé - lé 
 mọ - mọ 
 ohun - o hun 
@@ -3430,12 +3430,12 @@ dẹrú - dẹ rú
 Àní - À ní 
 Sabuké - Sa bu ké 
 ìwé - ì wé 
-ẹ̀rí - ̀ẹ rí 
+ẹ̀rí - ẹ̀ rí 
 Lo - Lo 
 sọ - sọ 
 wọn - wọn 
 dòmùgò - dò mù gò 
-kalẹ̀ - ka l̀ẹ 
+kalẹ̀ - ka lẹ̀ 
 Njẹ - N jẹ 
 gbogbo - gbo gbo 
 ẹni - ẹ ni 
@@ -3454,7 +3454,7 @@ baba - ba ba
 ò - ò 
 ní - ní 
 fìwé - fì wé 
-ẹ̀rí - ̀ẹ rí 
+ẹ̀rí - ẹ̀ rí 
 yìí - yì í 
 Olúwa - O lú wa 
 a - a 
@@ -3474,11 +3474,11 @@ le - le
 ṣàṣeyege - ṣà ṣe ye ge 
 Ẹ - Ẹ 
 gbìyànjú - gbì yàn jú 
-pòṣòṣẹ̀ - pò ṣò ṣ̀ẹ 
+pòṣòṣẹ̀ - pò ṣò ṣẹ̀ 
 kẹẹ - kẹ ẹ 
-lẹ̀ - l̀ẹ 
-ẹ̀yin - ̀ẹ yin 
-oníhàlẹ̀ - o ní hà l̀ẹ 
+lẹ̀ - lẹ̀ 
+ẹ̀yin - ẹ̀ yin 
+oníhàlẹ̀ - o ní hà lẹ̀ 
 pátá - pá tá 
 Abúni - A bú ni 
 bí - bí 
@@ -3502,13 +3502,13 @@ bìlíísì - bì lí í sì
 Tíi - Tí i 
 sọni - sọ ni 
 dẹdun - dẹ dun 
-arinlẹ̀ - a rin l̀ẹ 
+arinlẹ̀ - a rin lẹ̀ 
 lásán - lá sán 
 Tí - Tí 
 kì - kì 
 í - í 
 á - á 
-tẹ̀tẹ - t̀ẹ tẹ 
+tẹ̀tẹ - tẹ̀ tẹ 
 ríbìkan - rí bì kan 
 gbà - gbà 
 Ẹyin - Ẹ yin 
@@ -3522,9 +3522,9 @@ ní - ní
 í - í 
 pé - pé 
 é - é 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 yín - yín 
-àṣẹ̀ṣẹ̀ṣoge - à ṣ̀ẹ ṣ̀ẹ ṣo ge 
+àṣẹ̀ṣẹ̀ṣoge - à ṣẹ̀ ṣẹ̀ ṣo ge 
 ní - ní 
 í - í 
 ṣe - ṣe 
@@ -3544,13 +3544,13 @@ le - le
 kò - kò 
 bá - bá 
 ọ - ọ 
-halẹ̀ - ha l̀ẹ 
+halẹ̀ - ha lẹ̀ 
 tò - tò 
 le - le 
 mú - mú 
 ọ - ọ 
-dẹ̀rò - d̀ẹ rò 
-ẹ̀yìn - ̀ẹ yìn 
+dẹ̀rò - dẹ̀ rò 
+ẹ̀yìn - ẹ̀ yìn 
 Ọládélé - Ọ lá dé lé 
 ya - ya 
 fétò - fé tò 
@@ -3569,8 +3569,8 @@ já - já
 mi - mi 
 Àní - À ní 
 ẹ - ẹ 
-tẹ̀tẹ̀ - t̀ẹ t̀ẹ 
-fẹ̀sì - f̀ẹ sì 
+tẹ̀tẹ̀ - tẹ̀ tẹ̀ 
+fẹ̀sì - fẹ̀ sì 
 Bí - Bí 
 mo - mo 
 bá - bá 
@@ -3598,7 +3598,7 @@ jìn - jìn
 Ikú - I kú 
 ti - ti 
 ri - ri 
-ṣẹ̀dá - ṣ̀ẹ dá 
+ṣẹ̀dá - ṣẹ̀ dá 
 léfò - lé fò 
 látọjú - lá tọ jú 
 gbọọrọ - gbọ ọ rọ 
@@ -3632,7 +3632,7 @@ Ikú - I kú
 òhún - ò hún 
 lé - lé 
 tún - tún 
-kanlẹ̀kùn - kan l̀ẹ kùn 
+kanlẹ̀kùn - kan lẹ̀ kùn 
 té - té 
 mú - mú 
 Délé - Dé lé 
@@ -3650,7 +3650,7 @@ mú - mú
 Mo - Mo 
 gbòkú - gbò kú 
 onímò - o ní mò 
-ìjìnlẹ̀ - ì jìn l̀ẹ 
+ìjìnlẹ̀ - ì jìn lẹ̀ 
 mo - mo 
 gbòn - gbò n 
 rìrì - rì rì 
@@ -3681,7 +3681,7 @@ kín - kín
 ni - ni 
 í - í 
 ponímò - po ní mò 
-ìjìnlẹ̀ - ì jìn l̀ẹ 
+ìjìnlẹ̀ - ì jìn lẹ̀ 
 ní - ní 
 wàràwàrà - wà rà wà rà 
 Pé - Pé 
@@ -3693,16 +3693,16 @@ pa - pa
 Ẹnjinníà - Ẹ n jin ní à 
 àgbà - à gbà 
 ní - ní 
-rẹ̀wérẹ̀we - r̀ẹ wé r̀ẹ we 
+rẹ̀wérẹ̀we - rẹ̀ wé rẹ̀ we 
 Bo - Bo 
 bá - bá 
 rí - rí 
-bẹẹ̀ - bẹ ̀ẹ 
+bẹẹ̀ - bẹ ẹ̀ 
 a - a 
 jé - jé 
 pé - pé 
 Oléòríkunkun - O lé ò rí kun kun 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 ni - ni 
 ikú - i kú 
 í - í 
@@ -3727,7 +3727,7 @@ ráyé - rá yé
 bi - bi 
 Ikú - I kú 
 fọlòkùnrùn - fọ lò kùn rùn 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 kò - kò 
 mú - mú 
 ròrun - rò run 
@@ -3738,8 +3738,8 @@ n - n
 tú - tú 
 rọra - rọ ra 
 rì - rì 
-yòlẹ̀ - yò l̀ẹ 
-tẹ̀ - t̀ẹ 
+yòlẹ̀ - yò lẹ̀ 
+tẹ̀ - tẹ̀ 
 Nikú - Ni kú 
 í - í 
 rí - rí 
@@ -3761,18 +3761,18 @@ ikú - i kú
 Tò - Tò 
 fi - fi 
 pé - pé 
-ẹ̀mí - ̀ẹ mí 
+ẹ̀mí - ẹ̀ mí 
 òdọ - ò dọ 
 ni - ni 
 ṣúgà - ṣú gà 
-létẹ̀ - lé t̀ẹ 
+létẹ̀ - lé tẹ̀ 
 rẹ - rẹ 
 Téò - Té ò 
 fi - fi 
 kÁwéòjọbí - kÁ wé ò jọ bí 
 é - é 
 káyò - ká yò 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Tòo - Tò o 
 fi - fi 
 pa - pa 
@@ -3810,11 +3810,11 @@ pa - pa
 aláhéré - a lá hé ré 
 gbogbo - gbo gbo 
 oko - o ko 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 dìgbòrò - dì gbò rò 
 Ikú - I kú 
 ṣé - ṣé 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 o - o 
 tán - tán 
 O - O 
@@ -3827,7 +3827,7 @@ le - le
 pa - pa 
 iṣẹ - i ṣẹ 
 rere - re re 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Njẹ - N jẹ 
 gbogbo - gbo gbo 
 olùkò - o lù kò 
@@ -3842,8 +3842,8 @@ iṣé - i ṣé
 rọ - rọ 
 ẹ - ẹ 
 kú - kú 
-àṣẹ̀yìndẹ̀ - à ṣ̀ẹ yìn d̀ẹ 
-dùmàrẹ̀ - dù mà r̀ẹ 
+àṣẹ̀yìndẹ̀ - à ṣẹ̀ yìn dẹ̀ 
+dùmàrẹ̀ - dù mà rẹ̀ 
 Ọlọjọ - Ọ lọ jọ 
 òní - ò ní 
 A - A 
@@ -3864,7 +3864,7 @@ magbe - ma gbe
 Kò - Kò 
 bá - bá 
 ni - ni 
-ṣẹ̀dárò - ṣ̀ẹ dá rò 
+ṣẹ̀dárò - ṣẹ̀ dá rò 
 arú - a rú 
 eniyan - e ni yan 
 tò - tò 
@@ -3873,7 +3873,7 @@ mọyì - mọ yì
 Kò - Kò 
 bá - bá 
 ni - ni 
-ṣẹ̀dárò - ṣ̀ẹ dá rò 
+ṣẹ̀dárò - ṣẹ̀ dá rò 
 osùn - o sùn 
 ẹni - ẹ ni 
 bá - bá 
@@ -3896,7 +3896,7 @@ láyé - lá yé
 Ẹ - Ẹ 
 bá - bá 
 ni - ni 
-ṣẹ̀dárò - ṣ̀ẹ dá rò 
+ṣẹ̀dárò - ṣẹ̀ dá rò 
 ẹni - ẹ ni 
 rìlá - rì lá 
 tò - tò 
@@ -3910,19 +3910,19 @@ láìtíìdàgbà - lá ì tí ì dà gbà
 mà - mà 
 ṣe - ṣe 
 o - o 
-Ilẹ̀ - I l̀ẹ 
+Ilẹ̀ - I lẹ̀ 
 fú - fú 
-jẹ̀yàn - j̀ẹ yàn 
+jẹ̀yàn - jẹ̀ yàn 
 ỌMỌ - Ọ MỌ 
 MI - MI 
 NÙ - NÙ 
 Ọfò - Ọ fò 
-ṣẹ̀ - ṣ̀ẹ 
+ṣẹ̀ - ṣẹ̀ 
 mí - mí 
 o - o 
 nìkan - nì kan 
 dé - dé 
-Ọṣẹ̀ - Ọ ṣ̀ẹ 
+Ọṣẹ̀ - Ọ ṣẹ̀ 
 to - to 
 ṣe - ṣe 
 mi - mi 
@@ -3931,14 +3931,14 @@ ikú - i kú
 ọmọ - ọ mọ 
 lọ - lọ 
 Mo - Mo 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
 kọ - kọ 
 ewì - e wì 
 kan - kan 
 àrà - à rà 
 tò - tò 
 Nínú - Ní nú 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 ti - ti 
 mo - mo 
 ki - ki 
@@ -3984,10 +3984,10 @@ YÒ - YÒ
 Àfi - À fi 
 bí - bí 
 ẹni - ẹ ni 
-Édùmàrẹ̀ - É dù mà r̀ẹ 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
+Édùmàrẹ̀ - É dù mà rẹ̀ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
 fọmọ - fọ mọ 
-ṣìkẹ̀ - ṣì k̀ẹ 
+ṣìkẹ̀ - ṣì kẹ̀ 
 Inú - I nú 
 ìyá - ì yá 
 ìkòkọ - ì kò kọ 
@@ -4013,7 +4013,7 @@ kẹ - kẹ
 bí - bí 
 ọmọ - ọ mọ 
 to - to 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
 dé - dé 
 dúníyàn - dú ní yàn 
 Mo - Mo 
@@ -4024,7 +4024,7 @@ ewì - e wì
 bi - bi 
 ẹni - ẹ ni 
 fìwé - fì wé 
-ẹ̀ri - ̀ẹ ri 
+ẹ̀ri - ẹ̀ ri 
 pamọ - pa mọ 
 Ò - Ò 
 wáá - wá á 
@@ -4032,12 +4032,12 @@ bùṣe - bù ṣe
 gàdà - gà dà 
 wáá - wá á 
 bùṣe - bù ṣe 
-gẹ̀dé - g̀ẹ dé 
+gẹ̀dé - gẹ̀ dé 
 Nibi - Ni bi 
 mo - mo 
 gbé - gbé 
 n - n 
-bòkẹ̀lẹ̀ - bò k̀ẹ l̀ẹ 
+bòkẹ̀lẹ̀ - bò kẹ̀ lẹ̀ 
 àmàlà - à mà là 
 Lorin - Lo rin 
 bá - bá 
@@ -4051,7 +4051,7 @@ bá - bá
 sálọ - sá lọ 
 Mo - Mo 
 wowájú - wo wá jú 
-wẹ̀yìn - ẁẹ yìn 
+wẹ̀yìn - wẹ̀ yìn 
 n - n 
 ò - ò 
 ròrin - rò rin 
@@ -4062,7 +4062,7 @@ ké - ké
 ké - ké 
 mo - mo 
 ké - ké 
-gbàjarẹ̀ - gbà ja r̀ẹ 
+gbàjarẹ̀ - gbà ja rẹ̀ 
 Pé - Pé 
 kòrin - kò rin 
 yọjú - yọ jú 
@@ -4101,7 +4101,7 @@ wọmọ - wọ mọ
 titun - ti tun 
 tò - tò 
 sá - sá 
-ẹ̀rò - ̀ẹ rò 
+ẹ̀rò - ẹ̀ rò 
 ẹ - ẹ 
 bá - bá 
 mi - mi 
@@ -4109,7 +4109,7 @@ ké - ké
 si - si 
 túnfúlù - tún fú lù 
 ké - ké 
-dẹ̀yìnbò - d̀ẹ yìn bò 
+dẹ̀yìnbò - dẹ̀ yìn bò 
 Bí - Bí 
 ọdọ - ọ dọ 
 yin - yin 
@@ -4135,8 +4135,8 @@ ni - ni
 dúré - dú ré 
 gborúkọ - gbo rú kọ 
 o - o 
-fOlòdùmarẹ̀ - fO lò dù ma r̀ẹ 
-bẹ̀ - b̀ẹ 
+fOlòdùmarẹ̀ - fO lò dù ma rẹ̀ 
+bẹ̀ - bẹ̀ 
 yin - yin 
 Ẹ - Ẹ 
 má - má 
@@ -4150,7 +4150,7 @@ rìnlọ - rìn lọ
 sọ - sọ 
 mí - mí 
 dọlẹkùnrùn - dọ lẹ kùn rùn 
-kalẹ̀ - ka l̀ẹ 
+kalẹ̀ - ka lẹ̀ 
 báyìí - bá yì í 
 rí - rí 
 lára - lá ra 
@@ -4159,7 +4159,7 @@ Tòyún - Tò yún
 wọn - wọn 
 bá - bá 
 déédé - dé é dé 
-ṣẹ̀yọ - ṣ̀ẹ yọ 
+ṣẹ̀yọ - ṣẹ̀ yọ 
 Àṣé - À ṣé 
 báyìí - bá yì í 
 rì - rì 
@@ -4169,10 +4169,10 @@ rì - rì
 Tí - Tí 
 wọn - wọn 
 fi - fi 
-fẹ̀rẹ̀ - f̀ẹ r̀ẹ 
+fẹ̀rẹ̀ - fẹ̀ rẹ̀ 
 Ni - Ni 
 ya - ya 
-wẹ̀rẹ̀ - ẁẹ r̀ẹ 
+wẹ̀rẹ̀ - wẹ̀ rẹ̀ 
 Àní - À ní 
 lẹjọ - lẹ jọ 
 tí - tí 
@@ -4190,7 +4190,7 @@ bàjé - bà jé
 Mo - Mo 
 nígbàgbé - ní gbà gbé 
 pọmọ - pọ mọ 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 lùdààko - lù dà à ko 
 ni - ni 
 Ẹ - Ẹ 
@@ -4233,7 +4233,7 @@ Kò - Kò
 pé - pé 
 tí - tí 
 mo - mo 
-dùbújẹ̀ - dù bú j̀ẹ 
+dùbújẹ̀ - dù bú jẹ̀ 
 lẹyin - lẹ yin 
 òòjọ - ò ò jọ 
 ni - ni 
@@ -4271,7 +4271,7 @@ nibi - ni bi
 mò - mò 
 n - n 
 wí - wí 
-Ìmẹlẹ̀ - Ì mẹ l̀ẹ 
+Ìmẹlẹ̀ - Ì mẹ lẹ̀ 
 ni - ni 
 tiwọn - ti wọn 
 lẹjọ - lẹ jọ 
@@ -4283,11 +4283,11 @@ ju - ju
 Limosinin - Li mo si nin 
 Ìgbádùn - Ì gbá dùn 
 inú - i nú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ju - ju 
 ti - ti 
-Mẹ̀síolòyé - M̀ẹ sí o lò yé 
-Dẹrẹ̀bà - Dẹ r̀ẹ bà 
+Mẹ̀síolòyé - Mẹ̀ sí o lò yé 
+Dẹrẹ̀bà - Dẹ rẹ̀ bà 
 wọn - wọn 
 kì - kì 
 í - í 
@@ -4304,7 +4304,7 @@ tiwọn - ti wọn
 Koò - Ko ò 
 dìgbà - dì gbà 
 wọn - wọn 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
 fọṣọ - fọ ṣọ 
 wọn - wọn 
 kò - kò 
@@ -4364,7 +4364,7 @@ wọn - wọn
 wá - wá 
 fún - fún 
 Wọn - Wọn 
-fẹ̀ - f̀ẹ 
+fẹ̀ - fẹ̀ 
 kí - kí 
 alejò - a le jò 
 pàtàkì - pà tà kì 
@@ -4388,11 +4388,11 @@ ni - ni
 wọn - wọn 
 péjọ - pé jọ 
 Akíintẹlá - A kí i n tẹ lá 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 Wọlé - Wọ lé 
 Ọdẹlọlá - Ọ dẹ lọ lá 
 Ẹrùòbodò - Ẹ rù ò bo dò 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 Adélabú - A dé la bú 
 Adégòké - A dé gò ké 
 Kárìgíwá - Ká rì gí wá 
@@ -4407,7 +4407,7 @@ Wọn - Wọn
 a - a 
 fi - fi 
 pàpàkúòkò - pà pà kú ò kò 
-Lẹ̀gbẹé - L̀ẹ gbẹ é 
+Lẹ̀gbẹé - Lẹ̀ gbẹ é 
 ọtún - ọ tún 
 ti - ti 
 n - n 
@@ -4424,11 +4424,11 @@ Lápá - Lá pá
 ni - ni 
 Adékúnlé - A dé kún lé 
 Fájuyì - Fá ju yì 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 Táíwò - Tá í wò 
 wà - wà 
-Ṣòdẹ̀yìndé - Ṣò d̀ẹ yìn dé 
-pẹ̀lú - p̀ẹ lú 
+Ṣòdẹ̀yìndé - Ṣò dẹ̀ yìn dé 
+pẹ̀lú - pẹ̀ lú 
 Bísálà - Bí sá là 
 àti - à ti 
 Akíntúndé - A kín tún dé 
@@ -4448,17 +4448,17 @@ bí - bí
 ẹní - ẹ ní 
 wà - wà 
 ní - ní 
-pàréẹ̀dì - pà ré ̀ẹ dì 
+pàréẹ̀dì - pà ré ẹ̀ dì 
 Ṣítù - Ṣí tù 
 kò - kò 
 gbéyìn - gbé yìn 
-pẹ̀lú - p̀ẹ lú 
-Adémúlẹ̀gún - A dé mú l̀ẹ gún 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
+Adémúlẹ̀gún - A dé mú lẹ̀ gún 
+pẹ̀lú - pẹ̀ lú 
 wà - wà 
 ninu - ni nu 
 iwé - i wé 
-ẹ̀tò - ̀ẹ tò 
+ẹ̀tò - ẹ̀ tò 
 Níwájú - Ní wá jú 
 mo - mo 
 rí - rí 
@@ -4481,10 +4481,10 @@ Akínbíyìí - A kín bí yì í
 wọn - wọn 
 ni - ni 
 wọn - wọn 
-pésẹ̀ - pé s̀ẹ 
-síbẹ̀ - sí b̀ẹ 
+pésẹ̀ - pé sẹ̀ 
+síbẹ̀ - sí bẹ̀ 
 Lápá - Lá pá 
-ìsàlẹ̀ - ì sà l̀ẹ 
+ìsàlẹ̀ - ì sà lẹ̀ 
 mo - mo 
 rí - rí 
 Adéṣẹwà - A dé ṣẹ wà 
@@ -4519,13 +4519,13 @@ rí - rí
 Òkígbò - Ò kí gbò 
 tò - tò 
 mú - mú 
-gẹ̀gé - g̀ẹ gé 
+gẹ̀gé - gẹ̀ gé 
 dání - dá ní 
 Délé - Dé lé 
 Gíwá - Gí wá 
 bá - bá 
 yọjú - yọ jú 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 kámérà - ká mé rà 
 lérùn - lé rùn 
 Àwọn - À wọn 
@@ -4533,13 +4533,13 @@ ni - ni
 wòn - wò wòn 
 wá - wá 
 gbàròyìn - gbà rò yìn 
-silẹ̀ - si l̀ẹ 
+silẹ̀ - si lẹ̀ 
 níbi - ní bi 
 Ìpàdé - Ì pà dé 
 Nlá - N lá 
 Wọn - Wọn 
 wá - wá 
-ṣàkọsilẹ̀ - ṣà kọ si l̀ẹ 
+ṣàkọsilẹ̀ - ṣà kọ si lẹ̀ 
 ìpàdé - ì pà dé 
 pàtàkì - pà tà kì 
 Benson - Be Ben so n 
@@ -4549,7 +4549,7 @@ lo - lo
 ìpàdé - ì pà dé 
 Ò - Ò 
 tẹnubọ - tẹ nu bọ 
-ẹ̀rẹ̀dí - ̀ẹ r̀ẹ dí 
+ẹ̀rẹ̀dí - ẹ̀ rẹ̀ dí 
 pípéjọ - pí pé jọ 
 wọn - wọn 
 ní - ní 
@@ -4584,12 +4584,12 @@ di - di
 ni - ni 
 Wọn - Wọn 
 fi - fi 
-tẹ̀rin - t̀ẹ rin 
+tẹ̀rin - tẹ̀ rin 
 tòyàyà - tò yà yà 
 kÁwéléwò - kÁ wé lé wò 
 káàbọ - ká à bọ 
 Aṣaájú - A ṣa á jú 
-ẹ̀tò - ̀ẹ tò 
+ẹ̀tò - ẹ̀ tò 
 ṣàlàyé - ṣà là yé 
 pé - pé 
 lẹrun - lẹ run 
@@ -4598,7 +4598,7 @@ wà - wà
 yìí - yì í 
 Kò - Kò 
 sẹjọ - sẹ jọ 
-bẹẹ̀ - bẹ ̀ẹ 
+bẹẹ̀ - bẹ ẹ̀ 
 ni - ni 
 kò - kò 
 síbànújé - sí bà nú jé 
@@ -4611,7 +4611,7 @@ Ibùgbé - I bù gbé
 ayò - a yò 
 nìhín - nì hín 
 lédò - lé dò 
-Olédùmarẹ̀ - O lé dù ma r̀ẹ 
+Olédùmarẹ̀ - O lé dù ma rẹ̀ 
 Léyìn - Lé yìn 
 ìkínikáàbò - ì kí ni ká à bò 
 àti - à ti 
@@ -4619,13 +4619,13 @@ Léyìn - Lé yìn
 wọn - wọn 
 bá - bá 
 fún - fún 
-ìfatapasẹ̀ - ì fa ta pa s̀ẹ 
+ìfatapasẹ̀ - ì fa ta pa sẹ̀ 
 Lẹyìn - Lẹ yìn 
 ìgbátami - ì gbá ta mi 
 lò - lò 
 kan - kan 
 bọòlù - bọ ò lù 
-àfẹsẹ̀gbá - à fẹ s̀ẹ gbá 
+àfẹsẹ̀gbá - à fẹ sẹ̀ gbá 
 Àṣé - À ṣé 
 gbogbo - gbo gbo 
 béòlù - bé ò lù 
@@ -4651,7 +4651,7 @@ ti - ti
 Wọn - Wọn 
 kì - kì 
 í - í 
-ṣẹ̀kà - ṣ̀ẹ kà 
+ṣẹ̀kà - ṣẹ̀ kà 
 wọn - wọn 
 kì - kì 
 í - í 
@@ -4663,7 +4663,7 @@ ni - ni
 wọn - wọn 
 n - n 
 gbáa - gbá a 
-Tẹ̀sìlímì - T̀ẹ sì lí mì 
+Tẹ̀sìlímì - Tẹ̀ sì lí mì 
 lò - lò 
 ṣe - ṣe 
 rẹfirí - rẹ fi rí 
@@ -4694,7 +4694,7 @@ Haruna - Ha ru na
 ṣaájú - ṣa á jú 
 Ọmọwúrà - Ọ mọ wú rà 
 sì - sì 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 e - e 
 Ọládùnúnní - Ọ lá dù nún ní 
 lé - lé 
@@ -4709,7 +4709,7 @@ Olúwọlé - O lú wọ lé
 àti - à ti 
 Adéolú - A dé o lú 
 Akínsànyà - A kín sàn yà 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 náà - ná à 
 wọn - wọn 
 lò - lò 
@@ -4721,12 +4721,12 @@ Wọn - Wọn
 kò - kò 
 lo - lo 
 dùùrù - dù ù rù 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 wọn - wọn 
 ò - ò 
 lo - lo 
 gìtá - gì tá 
-Siíbẹ̀ - Si í b̀ẹ 
+Siíbẹ̀ - Si í bẹ̀ 
 orin - o rin 
 wọn - wọn 
 dùn - dùn 
@@ -4739,7 +4739,7 @@ Lorin - Lo rin
 àwọn - à wọn 
 ti - ti 
 jàjàyò - jà jà yò 
-lòkẹ̀ - lò k̀ẹ 
+lòkẹ̀ - lò kẹ̀ 
 Ìrìnàjò - Ì rì nà jò 
 kò - kò 
 láròián - lá rò i á n 
@@ -4750,7 +4750,7 @@ ni - ni
 n - n 
 wí - wí 
 mo - mo 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 wí - wí 
 dòla - dò la 
 Lé - Lé 
@@ -4796,10 +4796,10 @@ tò - tò
 ti - ti 
 kú - kú 
 pé - pé 
-Àtẹ̀ẹ̀yàn - À t̀ẹ ̀ẹ yàn 
+Àtẹ̀ẹ̀yàn - À tẹ̀ ẹ̀ yàn 
 tò - tò 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
-jásẹ̀ - já s̀ẹ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
+jásẹ̀ - já sẹ̀ 
 wọn - wọn 
 ni - ni 
 wọn - wọn 
@@ -4814,8 +4814,8 @@ ni - ni
 wọn - wọn 
 rì - rì 
 rìn - rìn 
-papẹ̀ - pa p̀ẹ 
-Ẹléyàmẹ̀yà - Ẹ lé yà m̀ẹ yà 
+papẹ̀ - pa pẹ̀ 
+Ẹléyàmẹ̀yà - Ẹ lé yà mẹ̀ yà 
 kò - kò 
 sí - sí 
 lẹdò - lẹ dò 
@@ -4825,7 +4825,7 @@ si - si
 ká - ká 
 dáná - dá ná 
 sunlé - sun lé 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 ni - ni 
 kò - kò 
 sí - sí 
@@ -4842,11 +4842,11 @@ jẹjẹ - jẹ jẹ
 Ni - Ni 
 mo - mo 
 ṣe - ṣe 
-pẹ̀dé - p̀ẹ dé 
+pẹ̀dé - pẹ̀ dé 
 ká - ká 
 ṣayé - ṣa yé 
 ní - ní 
-mẹ̀lọmẹ̀lọ - m̀ẹ lọ m̀ẹ lọ 
+mẹ̀lọmẹ̀lọ - mẹ̀ lọ mẹ̀ lọ 
 Torí - To rí 
 bé - bé 
 ti - ti 
@@ -4859,7 +4859,7 @@ A - A
 pé - pé 
 lọrun - lọ run 
 jù - jù 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 lọ - lọ 
 Kò - Kò 
 yẹ - yẹ 
@@ -4881,7 +4881,7 @@ NLÁ - N LÁ
 KÚ - KÚ 
 LÉÉYÀN - LÉ É YÀN 
 NLÁ - N LÁ 
-Awòlúmdárẹ̀ẹ - A wò lú m dá r̀ẹ ẹ 
+Awòlúmdárẹ̀ẹ - A wò lú m dá rẹ̀ ẹ 
 Ayé - A yé 
 la - la 
 báṣọ - bá ṣọ 
@@ -4898,7 +4898,7 @@ tòṣì - tò ṣì
 débi - dé bi 
 kò - kò 
 má - má 
-leẹ̀ - le ̀ẹ 
+leẹ̀ - le ẹ̀ 
 réwù - ré wù 
 wò - wò 
 Aṣọ - A ṣọ 
@@ -4906,9 +4906,9 @@ ní - ní
 i - i 
 gba - gba 
 ni - ni 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 lẹwọ - lẹ wọ 
-ọyẹ̀ - ọ ỳẹ 
+ọyẹ̀ - ọ yẹ̀ 
 Aṣọ - A ṣọ 
 ni - ni 
 í - í 
@@ -4921,13 +4921,13 @@ Oníirúurú - O ní i rú u rú
 kúkú - kú kú 
 laṣọ - la ṣọ 
 bò - bò 
-mọlẹ̀ - mọ l̀ẹ 
+mọlẹ̀ - mọ lẹ̀ 
 Ọmọ - Ọ mọ 
 ẹlòmíì - ẹ lò mí ì 
 kì - kì 
 bá - bá 
 bòra - bò ra 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 a - a 
 jòbọ - jò bọ 
 Ọmọ - Ọ mọ 
@@ -4935,7 +4935,7 @@ jòbọ - jò bọ
 kì - kì 
 bá - bá 
 bọra - bọ ra 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 a - a 
 jọ - jọ 
 ìnàkí - ì nà kí 
@@ -4950,10 +4950,10 @@ Aṣọ - A ṣọ
 a - a 
 máa - má a 
 farú - fa rú 
-rẹ̀ - r̀ẹ 
-féẹ̀yàn - fé ̀ẹ yàn 
+rẹ̀ - rẹ̀ 
+féẹ̀yàn - fé ẹ̀ yàn 
 I - I 
-Béẹ̀yàn - Bé ̀ẹ yàn 
+Béẹ̀yàn - Bé ẹ̀ yàn 
 ò - ò 
 bá - bá 
 wọn - wọn 
@@ -4974,12 +4974,12 @@ aṣọ - a ṣọ
 àlòkù - à lò kù 
 Ọkọ - Ọ kọ 
 wọ - wọ 
-léẹ̀sì - lé ̀ẹ sì 
+léẹ̀sì - lé ẹ̀ sì 
 to - to 
 gbáfẹ - gbá fẹ 
 Ọkọ - Ọ kọ 
 wá - wá 
-tẹsẹ̀ - tẹ s̀ẹ 
+tẹsẹ̀ - tẹ sẹ̀ 
 mọrìn - mọ rìn 
 dá - dá 
 lọ - lọ 
@@ -5006,7 +5006,7 @@ Ti - Ti
 baálé - ba á lé 
 wọ - wọ 
 téru - té ru 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 Iyàwọ - I yà wọ 
 á - á 
 lémií - lé mi í 
@@ -5015,7 +5015,7 @@ kánjú - kán jú
 lo - lo 
 nitenì - ni te nì 
 ọjàrẹe - ọ jà rẹ e 
-Tẹ̀ẹ - T̀ẹ ẹ 
+Tẹ̀ẹ - Tẹ̀ ẹ 
 wá - wá 
 n - n 
 yọ - yọ 
@@ -5034,7 +5034,7 @@ o - o
 ò - ò 
 wa - wa 
 yẹ - yẹ 
-kéẹ̀yàn - ké ̀ẹ yàn 
+kéẹ̀yàn - ké ẹ̀ yàn 
 ò - ò 
 ronú - ro nú 
 Pé - Pé 
@@ -5062,7 +5062,7 @@ rọgbọ - rọ gbọ
 ni - ni 
 rì - rì 
 tọjúlé - tọ jú lé 
-àlẹ̀ - à l̀ẹ 
+àlẹ̀ - à lẹ̀ 
 ká - ká 
 Torí - To rí 
 owò - o wò 
@@ -5078,7 +5078,7 @@ ròwò - rò wò
 raṣọ - ra ṣọ 
 Owé - O wé 
 aṣọ - a ṣọ 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 baba - ba ba 
 yòò - yò ò 
 dáa - dá a 
@@ -5097,12 +5097,12 @@ aré - a ré
 Ọmọ - Ọ mọ 
 rì - rì 
 bẹ - bẹ 
-nílẹ̀ - ní l̀ẹ 
+nílẹ̀ - ní lẹ̀ 
 ẹ - ẹ 
 ò - ò 
 téjú - té jú 
 Aṣọ - A ṣọ 
-lẹ̀yin - l̀ẹ yin 
+lẹ̀yin - lẹ̀ yin 
 rì - rì 
 rà - rà 
 jọ - jọ 
@@ -5148,7 +5148,7 @@ tí - tí
 kò - kò 
 a - a 
 gba - gba 
-tiẹ̀ - ti ̀ẹ 
+tiẹ̀ - ti ẹ̀ 
 láwìn - lá wìn 
 Lorúkọ - Lo rú kọ 
 bàbá - bà bá 
@@ -5157,7 +5157,7 @@ láyé - lá yé
 ìgbà - ì gbà 
 kan - kan 
 Ò - Ò 
-kọsẹ̀ - kọ s̀ẹ 
+kọsẹ̀ - kọ sẹ̀ 
 báwọn - bá wọn 
 sànmòrí - sàn mò rí 
 níbi - ní bi 
@@ -5176,7 +5176,7 @@ agbo - a gbo
 ayé - a yé 
 gbòkà - gbò kà 
 àjẹkù - à jẹ kù 
-Àtọbẹ̀ - À tọ b̀ẹ 
+Àtọbẹ̀ - À tọ bẹ̀ 
 téeṣín - té e ṣín 
 kú - kú 
 sí - sí 
@@ -5191,7 +5191,7 @@ sáyà - sá yà
 wòn - wò wòn 
 n - n 
 mutí - mu tí 
-Aṣọnlákéòlẹ̀òyànnlá - A ṣọn lá ké ò l̀ẹ ò yàn n lá 
+Aṣọnlákéòlẹ̀òyànnlá - A ṣọn lá ké ò lẹ̀ ò yàn n lá 
 jẹ - jẹ 
 Lé - Lé 
 bá - bá 
@@ -5206,7 +5206,7 @@ to - to
 di - di 
 ọjọ - ọ jọ 
 kejì - ke jì 
-ẹ̀wẹ̀ - ̀ẹ ẁẹ 
+ẹ̀wẹ̀ - ẹ̀ wẹ̀ 
 Lé - Lé 
 bá - bá 
 bò - bò 
@@ -5226,13 +5226,13 @@ tí - tí
 wọn - wọn 
 ò - ò 
 rírú - rí rú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 rí - rí 
 bé - bé 
 ẹṣin - ẹ ṣin 
 rẹ - rẹ 
 ri - ri 
-jẹ̀de - j̀ẹ de 
+jẹ̀de - jẹ̀ de 
 lọ - lọ 
 gẹgẹ - gẹ gẹ 
 bí - bí 
@@ -5261,11 +5261,11 @@ n - n
 kan - kan 
 sáárá - sá á rá 
 wọn - wọn 
-wòlẹ̀ - wò l̀ẹ 
+wòlẹ̀ - wò lẹ̀ 
 wọn - wọn 
 kí - kí 
 i - i 
-tẹ̀ríntẹ̀yẹ - t̀ẹ rín t̀ẹ yẹ 
+tẹ̀ríntẹ̀yẹ - tẹ̀ rín tẹ̀ yẹ 
 bí - bí 
 Ọba - Ọ ba 
 Wéòn - Wé ò n 
@@ -5276,8 +5276,8 @@ bá - bá
 a - a 
 so - so 
 ẹṣin - ẹ ṣin 
-rẹ̀ - r̀ẹ 
-mọlẹ̀ - mọ l̀ẹ 
+rẹ̀ - rẹ̀ 
+mọlẹ̀ - mọ lẹ̀ 
 Wén - Wé Wén 
 gbúéúnjẹ - gbú é ú n jẹ 
 àtàtà - à tà tà 
@@ -5299,10 +5299,10 @@ ni - ni
 kí - kí 
 wọn - wọn 
 bá - bá 
-sẹ̀rò - s̀ẹ rò 
+sẹ̀rò - sẹ̀ rò 
 Káṣọ - Ká ṣọ 
 jẹ - jẹ 
-díẹ̀ - dí ̀ẹ 
+díẹ̀ - dí ẹ̀ 
 ná - ná 
 ní - ní 
 lẹyìn - lẹ yìn 
@@ -5321,19 +5321,19 @@ hà - hà
 pé - pé 
 irú - i rú 
 kí - kí 
-lẹ̀yí - l̀ẹ yí 
-ẹ̀wẹ̀ - ̀ẹ ẁẹ 
+lẹ̀yí - lẹ̀ yí 
+ẹ̀wẹ̀ - ẹ̀ wẹ̀ 
 Éwo - É wo 
 la - la 
 wí - wí 
-ẹ̀wo - ̀ẹ wo 
+ẹ̀wo - ẹ̀ wo 
 ni - ni 
 baba - ba ba 
 rì - rì 
 sọ - sọ 
 Kò - Kò 
 máà - má à 
-jẹ̀ - j̀ẹ 
+jẹ̀ - jẹ̀ 
 baba - ba ba 
 kò - kò 
 pé - pé 
@@ -5353,7 +5353,7 @@ Tẹ - Tẹ
 fún - fún 
 mi - mi 
 lẹkà - lẹ kà 
-àtọbẹ̀ - à tọ b̀ẹ 
+àtọbẹ̀ - à tọ bẹ̀ 
 téeṣín - té e ṣín 
 si - si 
 Ìgbà - Ì gbà 
@@ -5369,7 +5369,7 @@ wá - wá
 rì - rì 
 gbé - gbé 
 mi - mi 
-gẹ̀gẹ̀ - g̀ẹ g̀ẹ 
+gẹ̀gẹ̀ - gẹ̀ gẹ̀ 
 Lẹ - Lẹ 
 wá - wá 
 rì - rì 
@@ -5385,7 +5385,7 @@ bá - bá
 wọn - wọn 
 lòjijì - lò ji jì 
 Ìtìjú - Ì tì jú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lò - lò 
 le - le 
 wọn - wọn 
@@ -5411,26 +5411,26 @@ láyé - lá yé
 Ìwà - Ì wà 
 ní - ní 
 í - í 
-tẹ̀dá - t̀ẹ dá 
+tẹ̀dá - tẹ̀ dá 
 wọ - wọ 
 ibùgbé - i bù gbé 
-ìdẹ̀ra - ì d̀ẹ ra 
+ìdẹ̀ra - ì dẹ̀ ra 
 Ìwà - Ì wà 
 ní - ní 
 í - í 
 gbé - gbé 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 wọ - wọ 
 Ọmọ - Ọ mọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
-kíyẹ̀sí - kí ỳẹ sí 
+ẹ̀nìyàn - ẹ̀ nì yàn 
+kíyẹ̀sí - kí yẹ̀ sí 
 wàà - wà à 
 rẹ - rẹ 
 Ko - Ko 
 le - le 
 gbádùn - gbá dùn 
 láyé - lá yé 
-Kigbẹ̀yìn - Ki gb̀ẹ yìn 
+Kigbẹ̀yìn - Ki gbẹ̀ yìn 
 rẹ - rẹ 
 le - le 
 baà - ba à 
@@ -5477,7 +5477,7 @@ Jáwọ - Já wọ
 nínú - ní nú 
 rìkíṣí - rì kí ṣí 
 ò - ò 
-lérẹ̀ - lé r̀ẹ 
+lérẹ̀ - lé rẹ̀ 
 kan - kan 
 Adánìwáyé - A dá nì wá yé 
 n - n 
@@ -5486,7 +5486,7 @@ rí - rí
 má - má 
 ṣe - ṣe 
 ṣìkà - ṣì kà 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 Ẹni - Ẹ ni 
 iwà - i wà 
 bá - bá 
@@ -5503,7 +5503,7 @@ ní - ní
 i - i 
 fa - fa 
 sábàbí - sá bà bí 
-ẹ̀ye - ̀ẹ ye 
+ẹ̀ye - ẹ̀ ye 
 Ìwà - Ì wà 
 ní - ní 
 í - í 
@@ -5513,7 +5513,7 @@ dépò - dé pò
 ọlà - ọ là 
 ni - ni 
 í - í 
-fẹ̀dá - f̀ẹ dá 
+fẹ̀dá - fẹ̀ dá 
 hàn - hàn 
 láwùjo - lá wù jo 
 Ìwà - Ì wà 
@@ -5530,7 +5530,7 @@ rí - rí
 bá - bá 
 ni - ni 
 í - í 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 pò - pò 
 jọjọ - jọ jọ 
 Ìwà - Ì wà 
@@ -5566,7 +5566,7 @@ pé - pé
 A - A 
 kì - kì 
 íhùwà - í hù wà 
-ẹ̀pẹ̀ - ̀ẹ p̀ẹ 
+ẹ̀pẹ̀ - ẹ̀ pẹ̀ 
 ká - ká 
 retí - re tí 
 àdúrà - à dú rà 
@@ -5578,7 +5578,7 @@ ta - ta
 lérí - lé rí 
 àtẹ - à tẹ 
 àwé - à wé 
-Kíkẹ̀ - Kí k̀ẹ 
+Kíkẹ̀ - Kí kẹ̀ 
 lọmọ - lọ mọ 
 kò - kò 
 ìwà - ì wà 
@@ -5604,7 +5604,7 @@ níjẹ - ní jẹ
 TÒ - TÒ 
 bá - bá 
 ku - ku 
-diẹ̀ - di ̀ẹ 
+diẹ̀ - di ẹ̀ 
 ká - ká 
 ṣubú - ṣu bú 
 a - a 
@@ -5617,7 +5617,7 @@ inú - i nú
 mímọ - mí mọ 
 gbéraso - gbé ra so 
 Aimọye - A i mọ ye 
-ẹ̀ẹ̀yan - ̀ẹ ̀ẹ yan 
+ẹ̀ẹ̀yan - ẹ̀ ẹ̀ yan 
 niwa - ni wa 
 ti - ti 
 dà - dà 
@@ -5629,14 +5629,14 @@ kì - kì
 àlùbúsà - à lù bú sà 
 kú - kú 
 hu - hu 
-ẹ̀fẹ - ̀ẹ fẹ 
+ẹ̀fẹ - ẹ̀ fẹ 
 Ohun - O hun 
 tí - tí 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 bá - bá 
 ṣe - ṣe 
-lẹ̀dá - l̀ẹ dá 
-gbẹ̀san - gb̀ẹ san 
+lẹ̀dá - lẹ̀ dá 
+gbẹ̀san - gbẹ̀ san 
 Rere - Re re 
 lò - lò 
 pé - pé 
@@ -5648,7 +5648,7 @@ rere - re re
 Ìwà - Ì wà 
 lẹwà - lẹ wà 
 ọmọ - ọ mọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 Ọgbéòn - Ọ gbé ò n 
 n - n 
 kigbe - ki gbe 
@@ -5663,7 +5663,7 @@ lò - lò
 jẹ - jẹ 
 MIo - MI o 
 le - le 
-gùkẹ̀ - gù k̀ẹ 
+gùkẹ̀ - gù kẹ̀ 
 mo - mo 
 le - le 
 sọ - sọ 
@@ -5698,15 +5698,15 @@ Sáré - Sá ré
 mọ - mọ 
 níwòn - ní wò n 
 Ọba - Ọ ba 
-òkẹ̀ - ò k̀ẹ 
+òkẹ̀ - ò kẹ̀ 
 lo - lo 
 ni - ni 
 deede - de e de 
 Yéé - Yé é 
-fẹ̀rú - f̀ẹ rú 
+fẹ̀rú - fẹ̀ rú 
 kọrò - kọ rò 
 jọ - jọ 
-ẹ̀san - ̀ẹ san 
+ẹ̀san - ẹ̀ san 
 nì - nì 
 bò - bò 
 Ohun - O hun 
@@ -5724,7 +5724,7 @@ ní - ní
 í - í 
 padà - pa dà 
 sínú - sí nú 
-erùpẹ̀ - e rù p̀ẹ 
+erùpẹ̀ - e rù pẹ̀ 
 Asúnkunsí - A sún kun sí 
 ò - ò 
 fikun - fi kun 
@@ -5739,10 +5739,10 @@ dé - dé
 Là - Là 
 fi - fi 
 so - so 
-gbékúdẹ̀ - gbé kú d̀ẹ 
+gbékúdẹ̀ - gbé kú dẹ̀ 
 mọrùn - mọ rùn 
 Kò - Kò 
-séẹ̀yàn - sé ̀ẹ yàn 
+séẹ̀yàn - sé ẹ̀ yàn 
 tí - tí 
 í - í 
 wá - wá 
@@ -5754,12 +5754,12 @@ Bòyá - Bò yá
 lowé - lo wé 
 dandan - dan dan 
 nikú - ni kú 
-Àfẹ̀ẹ̀yàn - À f̀ẹ ̀ẹ yàn 
+Àfẹ̀ẹ̀yàn - À fẹ̀ ẹ̀ yàn 
 tò - tò 
 bá - bá 
-gbElédùmarẹ̀ - gbE lé dù ma r̀ẹ 
+gbElédùmarẹ̀ - gbE lé dù ma rẹ̀ 
 Lò - Lò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 là - là 
 dòrun - dò run 
 Éwo - É wo 
@@ -5777,9 +5777,9 @@ bí - bí
 ẹran - ẹ ran 
 Ká - Ká 
 torí - to rí 
-àtigòkẹ̀àgbà - à ti gò k̀ẹ à gbà 
+àtigòkẹ̀àgbà - à ti gò kẹ̀ à gbà 
 ká - ká 
-tibẹ̀ - ti b̀ẹ 
+tibẹ̀ - ti bẹ̀ 
 kú - kú 
 dànù - dà nù 
 Òní - Ò ní 
@@ -5821,11 +5821,11 @@ bímọ - bí mọ
 Mo - Mo 
 sì - sì 
 níwòfà - ní wò fà 
-ẹgbẹ̀fà - ẹ gb̀ẹ fà 
-Òmúlẹ̀nòfo - Ò mú l̀ẹ nò fo 
+ẹgbẹ̀fà - ẹ gbẹ̀ fà 
+Òmúlẹ̀nòfo - Ò mú lẹ̀ nò fo 
 ni - ni 
 gbogbo - gbo gbo 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 pátá - pá tá 
 Asán - A sán 
 nínú - ní nú 
@@ -5836,7 +5836,7 @@ pé - pé
 ká - ká 
 ma - ma 
 torí - to rí 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 papòdà - pa pò dà 
 níjọ - ní jọ 
 ọjọ - ọ jọ 
@@ -5846,7 +5846,7 @@ Súnjọ - Sún jọ
 ní - ní 
 fi - fi 
 bẹ - bẹ 
-gbékúdẹ̀ - gbé kú d̀ẹ 
+gbékúdẹ̀ - gbé kú dẹ̀ 
 kan - kan 
 ò - ò 
 sí - sí 
@@ -5903,22 +5903,22 @@ Omi - O mi
 lò - lò 
 payé - pa yé 
 ìjọsí - ì jọ sí 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Bíná - Bí ná 
 ni - ni 
-pẹ̀yí - p̀ẹ yí 
+pẹ̀yí - pẹ̀ yí 
 a - a 
 ò - ò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 sọ - sọ 
 Àfolédodo - À fo lé do do 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 lé - lé 
 le - le 
 là - là 
 nínú - ní nú 
 ìyà - ì yà 
-ìgbẹ̀yìn - ì gb̀ẹ yìn 
+ìgbẹ̀yìn - ì gbẹ̀ yìn 
 ÀTUBÒTÁN - À TU BÒ TÁN 
 Níjẹ - Ní jẹ 
 a - a 
@@ -5949,7 +5949,7 @@ bá - bá
 wOlúwa - wO lú wa 
 a - a 
 gbà - gbà 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 A - A 
 ní - ní 
 kò - kò 
@@ -5958,7 +5958,7 @@ láyé - lá yé
 kánrinkése - kán rin ké se 
 Níjọ - Ní jọ 
 ọmọ - ọ mọ 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 ti - ti 
 dé - dé 
 dúníyàn - dú ní yàn 
@@ -5990,11 +5990,11 @@ nínú - ní nú
 ohun - o hun 
 tò - tò 
 wà - wà 
-lòkẹ̀ - lò k̀ẹ 
+lòkẹ̀ - lò kẹ̀ 
 Ìwà - Ì wà 
 ìikà - ì i kà 
 kò - kò 
-ẹ̀ẹyàn - ̀ẹ ẹ yàn 
+ẹ̀ẹyàn - ẹ̀ ẹ yàn 
 má - má 
 dàgbà - dà gbà 
 láyé - lá yé 
@@ -6050,7 +6050,7 @@ O - O
 ò - ò 
 yáa - yá a 
 túúbàá - tú ú bà á 
-ẹ̀ṣẹ̀ - ̀ẹ ṣ̀ẹ 
+ẹ̀ṣẹ̀ - ẹ̀ ṣẹ̀ 
 ká - ká 
 le - le 
 gbà - gbà 
@@ -6059,7 +6059,7 @@ là - là
 Émi - É mi 
 nìkan - nì kan 
 ò - ò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 sùn - sùn 
 òrò - ò rò 
 inú - i nú 
@@ -6072,11 +6072,11 @@ tí - tí
 ní - ní 
 fi - fi 
 dúníyàn - dú ní yàn 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 Ikú - I kú 
 ò - ò 
 mò - mò 
-pẹ̀nìkan - p̀ẹ nì kan 
+pẹ̀nìkan - pẹ̀ nì kan 
 làna - là na 
 Ikú - I kú 
 a - a 
@@ -6084,20 +6084,20 @@ pẹni - pẹ ni
 tò - tò 
 ọmọ - ọ mọ 
 lọwọ - lọ wọ 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 táa - tá a 
 tori - to ri 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 singbà - sin gbà 
 a - a 
 padà - pa dà 
-ṣílẹ̀wò - ṣí l̀ẹ wò 
+ṣílẹ̀wò - ṣí lẹ̀ wò 
 kú - kú 
 o - o 
 gbé - gbé 
 pò - pò 
 o - o 
-gbElédùmarẹ̀ - gbE lé dù ma r̀ẹ 
+gbElédùmarẹ̀ - gbE lé dù ma rẹ̀ 
 Iná - I ná 
 nilé - ni lé 
 rẹ - rẹ 
@@ -6124,10 +6124,10 @@ gbàdájọ - gbà dá jọ
 òdodo - ò do do 
 Ohun - O hun 
 tí - tí 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 bá - bá 
 ṣe - ṣe 
-lẹ̀dá - l̀ẹ dá 
+lẹ̀dá - lẹ̀ dá 
 gbà - gbà 
 Bí - Bí 
 ẹni - ẹ ni 
@@ -6142,18 +6142,18 @@ dárò - dá rò
 ẹni - ẹ ni 
 ire - i re 
 Bòṣìkà - Bò ṣì kà 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 bá - bá 
 kú - kú 
 wọn - wọn 
 a - a 
 hàlátà - hà lá tà 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Wọn - Wọn 
 a - a 
 ní - ní 
 àkútúnkú - à kú tún kú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lẹnà - lẹ nà 
 òrun - ò run 
 Iṣé - I ṣé 
@@ -6169,7 +6169,7 @@ Kátubòtán - Ká tu bò tán
 ọmọ - ọ mọ 
 Aádámò - A á dá mò 
 é - é 
-lẹ̀dùn - l̀ẹ dùn 
+lẹ̀dùn - lẹ̀ dùn 
 Àtubòtán - À tu bò tán 
 olédodo - o lé do do 
 ayò - a yò 
@@ -6184,7 +6184,7 @@ Wọn - Wọn
 i - i 
 sọru - sọ ru 
 ẹni - ẹ ni 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 lékò - lé kò 
 pa - pa 
 ni - ni 
@@ -6204,7 +6204,7 @@ Ikú - I kú
 ẹlẹgàn - ẹ lẹ gàn 
 bí - bí 
 ikú - i kú 
-ẹ̀líri - ̀ẹ lí ri 
+ẹ̀líri - ẹ̀ lí ri 
 Àtubòtán - À tu bò tán 
 rere - re re 
 lò - lò 
@@ -6258,8 +6258,8 @@ júbà - jú bà
 fáyé - fá yé 
 Ọmọ - Ọ mọ 
 adáríhurun - a dá rí hu run 
-pẹ̀lú - p̀ẹ lú 
-òtẹ̀ - ò t̀ẹ 
+pẹ̀lú - pẹ̀ lú 
+òtẹ̀ - ò tẹ̀ 
 Bé - Bé 
 ò - ò 
 fòrò - fò rò 
@@ -6280,8 +6280,8 @@ han - han
 ni - ni 
 Abínúẹni - A bí nú ẹ ni 
 laráyé - la rá yé 
-ẹ̀ṣù - ̀ẹ ṣù 
-lẹ̀dá - l̀ẹ dá 
+ẹ̀ṣù - ẹ̀ ṣù 
+lẹ̀dá - lẹ̀ dá 
 A - A 
 kìípòdùòyà - kì í pò dù ò yà 
 léjú - lé jú 
@@ -6303,7 +6303,7 @@ tọfà - tọ fà
 yídò - yí dò 
 bo - bo 
 araa - a ra a 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Boba - Bo ba 
 ayé - a yé 
 kò - kò 
@@ -6318,7 +6318,7 @@ Onínúure - O ní nú u re
 ni - ni 
 yáa - yá a 
 múra - mú ra 
-àìṣẹ̀bàjẹ̀ - à ì ṣ̀ẹ bà j̀ẹ 
+àìṣẹ̀bàjẹ̀ - à ì ṣẹ̀ bà jẹ̀ 
 Kí - Kí 
 won - wo won 
 ma - ma 
@@ -6330,7 +6330,7 @@ tànmọòn - tàn mọ ò n
 Ònìkà - Ò nì kà 
 ti - ti 
 rọgbà - rọ gbà 
-yílẹ̀ - yí l̀ẹ 
+yílẹ̀ - yí lẹ̀ 
 ká - ká 
 Aṣebi - A ṣe bi 
 gbé - gbé 
@@ -6349,7 +6349,7 @@ náà - ná à
 sé - sé 
 irú - i rú 
 wọn - wọn 
-mẹ̀yìn - m̀ẹ yìn 
+mẹ̀yìn - mẹ̀ yìn 
 odi - o di 
 Òpòlọpò - Ò pò lọ pò 
 àdúrà - à dú rà 
@@ -6357,14 +6357,14 @@ ní - ní
 í - í 
 gba - gba 
 ni - ni 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 lẹwò - lẹ wò 
 òṣìkà - ò ṣì kà 
 Ọba - Ọ ba 
 lỌṣìn - lỌ ṣìn 
 láyé - lá yé 
 àná - à ná 
-lẹ̀rú - l̀ẹ rú 
+lẹ̀rú - lẹ̀ rú 
 bímọ - bí mọ 
 sì - sì 
 níwòfà - ní wò fà 
@@ -6377,8 +6377,8 @@ mẹyẹ - mẹ yẹ
 Ọṣìn - Ọ ṣìn 
 lélòrí - lé lò rí 
 Títí - Tí tí 
-baálẹ̀ - ba á l̀ẹ 
-agbẹ̀gbẹ̀ - a gb̀ẹ gb̀ẹ 
+baálẹ̀ - ba á lẹ̀ 
+agbẹ̀gbẹ̀ - a gbẹ̀ gbẹ̀ 
 Ìgbà - Ì gbà 
 tẹ - tẹ 
 yá - yá 
@@ -6386,8 +6386,8 @@ wòn - wò wòn
 fọdún - fọ dún 
 fẹba - fẹ ba 
 bí - bí 
-ẹ̀tò - ̀ẹ tò 
-ìṣẹ̀dálẹ̀ - ì ṣ̀ẹ dá l̀ẹ 
+ẹ̀tò - ẹ̀ tò 
+ìṣẹ̀dálẹ̀ - ì ṣẹ̀ dá lẹ̀ 
 Kí - Kí 
 wọn - wọn 
 da - da 
@@ -6396,8 +6396,8 @@ wọn - wọn
 gbọdò - gbọ dò 
 dífá - dí fá 
 Babalawo - Ba ba la wo 
-gbòpẹ̀lẹ̀ - gbò p̀ẹ l̀ẹ 
-janlẹ̀ - jan l̀ẹ 
+gbòpẹ̀lẹ̀ - gbò pẹ̀ lẹ̀ 
+janlẹ̀ - jan lẹ̀ 
 Ìkìlò - Ì kì lò 
 lé - lé 
 wáyé - wá yé 
@@ -6408,7 +6408,7 @@ kò - kò
 yéé - yé é 
 lọ - lọ 
 lọọ - lọ ọ 
-wẹ̀ - ẁẹ 
+wẹ̀ - wẹ̀ 
 Nítorí - Ní to rí 
 àwọn - à wọn 
 òṣìkà - ò ṣì kà 
@@ -6433,11 +6433,11 @@ ni - ni
 ò - ò 
 ní - ní 
 lọ - lọ 
-wẹ̀ - ẁẹ 
+wẹ̀ - wẹ̀ 
 me - me 
 láéláé - lá é lá é 
 Kí - Kí 
-òkẹ̀ - ò k̀ẹ 
+òkẹ̀ - ò kẹ̀ 
 máa - má a 
 gbé - gbé 
 Ìgbétì - Ì gbé tì 
@@ -6445,17 +6445,17 @@ gbé - gbé
 ṣọba - ṣọ ba 
 níjò - ní jò 
 to - to 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 e - e 
 tún - tún 
 lọ - lọ 
 lọ - lọ 
-wẹ̀ - ẁẹ 
+wẹ̀ - wẹ̀ 
 Òṣìn - Ò ṣìn 
 bò - bò 
 aṣọ - a ṣọ 
 sétí - sé tí 
-bẹ̀bẹ̀ - b̀ẹ b̀ẹ 
+bẹ̀bẹ̀ - bẹ̀ bẹ̀ 
 odò - o dò 
 tán - tán 
 Lo - Lo 
@@ -6465,21 +6465,21 @@ ludò - lu dò
 mòòkùn - mò ò kùn 
 lọ - lọ 
 Làwọn - Là wọn 
-kéẹ̀nimánìí - ké ̀ẹ ni má nì í 
+kéẹ̀nimánìí - ké ẹ̀ ni má nì í 
 bá - bá 
 káṣọ - ká ṣọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 kúrò - kú rò 
 Ìgbà - Ì gbà 
 toba - to ba 
 ÒỌṣìn - Ò Ọ ṣìn 
-wẹ̀ - ẁẹ 
+wẹ̀ - wẹ̀ 
 tán - tán 
 fẹ - fẹ 
 aṣọ - a ṣọ 
 kù - kù 
 létí - lé tí 
-bẹ̀bẹ̀ - b̀ẹ b̀ẹ 
+bẹ̀bẹ̀ - bẹ̀ bẹ̀ 
 odò - o dò 
 Àwọn - À wọn 
 jagunlabí - ja gun la bí 
@@ -6487,7 +6487,7 @@ ti - ti
 káṣọ - ká ṣọ 
 ọba - ọ ba 
 lọ - lọ 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 ni - ni 
 Ọṣìn - Ọ ṣìn 
 ṣe - ṣe 
@@ -6498,12 +6498,12 @@ odò - o dò
 yìí - yì í 
 jìnnà - jìn nà 
 sílé - sí lé 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 ni - ni 
 Ọṣìn - Ọ ṣìn 
 kò - kò 
 sì - sì 
-rẹ̀nì - r̀ẹ nì 
+rẹ̀nì - rẹ̀ nì 
 rán - rán 
 sáàfin - sá à fin 
 Kò - Kò 
@@ -6540,7 +6540,7 @@ lo - lo
 jẹ - jẹ 
 mégbòogi - mé gbò o gi 
 Ifura - I fu ra 
-lẹ̀dá - l̀ẹ dá 
+lẹ̀dá - lẹ̀ dá 
 yẹ - yẹ 
 kò - kò 
 ní - ní 
@@ -6575,7 +6575,7 @@ láàrin - lá à rin
 òtòkùlú - ò tò kù lú 
 Ká - Ká 
 máa - má a 
-kíyéẹ̀sílẹ̀ - kí yé ̀ẹ sí l̀ẹ 
+kíyéẹ̀sílẹ̀ - kí yé ẹ̀ sí lẹ̀ 
 dáadáa - dá a dá a 
 Ifura - I fu ra 
 làòògùn - là ò ò gùn 
@@ -6584,20 +6584,20 @@ Ilé - I lé
 ayé - a yé 
 kò - kò 
 gba - gba 
-gbẹ̀ré - gb̀ẹ ré 
+gbẹ̀ré - gbẹ̀ ré 
 Ìjàpá - Ì jà pá 
 enìyàn - e nì yàn 
 rì - rì 
 bẹ - bẹ 
 láàrin - lá à rin 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 Tí - Tí 
 wọn - wọn 
 gbọn - gbọn 
 bíi - bí i 
 kínnla - kín n la 
-ÒỌmẹ̀sò - Ò Ọ m̀ẹ sò 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ÒỌmẹ̀sò - Ò Ọ mẹ̀ sò 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 ṣòro - ṣò ro 
 bá - bá 
 tayò - ta yò 
@@ -6627,7 +6627,7 @@ yiwo - yi wo
 ká - ká 
 yáa - yá a 
 ṣe - ṣe 
-láàkàyẹ̀ - lá à kà ỳẹ 
+láàkàyẹ̀ - lá à kà yẹ̀ 
 Mọ - Mọ 
 ibi - i bi 
 tí - tí 
@@ -6641,7 +6641,7 @@ tí - tí
 o - o 
 gbé - gbé 
 le - le 
-jàsẹ̀ - jà s̀ẹ 
+jàsẹ̀ - jà sẹ̀ 
 Mọ - Mọ 
 ibi - i bi 
 tí - tí 
@@ -6657,9 +6657,9 @@ baà - ba à
 jìn - jìn 
 sínú - sí nú 
 òfìn - ò fìn 
-Ìbẹ̀lẹ̀ - Ì b̀ẹ l̀ẹ 
+Ìbẹ̀lẹ̀ - Ì bẹ̀ lẹ̀ 
 bẹ - bẹ 
-ilẹ̀ - i l̀ẹ 
+ilẹ̀ - i lẹ̀ 
 wò - wò 
 Béwúré - Bé wú ré 
 bá - bá 
@@ -6667,7 +6667,7 @@ fẹ - fẹ
 sùn - sùn 
 a - a 
 bẹ - bẹ 
-ilẹ̀ - i l̀ẹ 
+ilẹ̀ - i lẹ̀ 
 wò - wò 
 Tojú - To jú 
 tìyé - tì yé 
@@ -6685,7 +6685,7 @@ tán - tán
 yẹ - yẹ 
 ká - ká 
 dẹ - dẹ 
-ẹ̀kejì - ̀ẹ ke jì 
+ẹ̀kejì - ẹ̀ ke jì 
 wò - wò 
 Bọgbọn - Bọ gbọn 
 bá - bá 
@@ -6707,7 +6707,7 @@ fi - fi
 kogbon - ko gbo n 
 Ẹni - Ẹ ni 
 torí - to rí 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ki - ki 
 i - i 
 tọjà - tọ jà 
@@ -6717,11 +6717,11 @@ Kò - Kò
 yéé - yé é 
 dá - dá 
 irú - i rú 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 láṣà - lá ṣà 
 Àtẹni - À tẹ ni 
 tí - tí 
-gbẹ̀ṣẹ̀ - gb̀ẹ ṣ̀ẹ 
+gbẹ̀ṣẹ̀ - gbẹ̀ ṣẹ̀ 
 kò - kò 
 bá - bá 
 lára - lá ra 
@@ -6729,7 +6729,7 @@ mu - mu
 To - To 
 n - n 
 dáṣà - dá ṣà 
-bònigbésẹ̀ - bò ni gbé s̀ẹ 
+bònigbésẹ̀ - bò ni gbé sẹ̀ 
 ò - ò 
 wọlu - wọ lu 
 ọjà - ọ jà 
@@ -6737,7 +6737,7 @@ wọlu - wọ lu
 i - i 
 tà - tà 
 Ẹ - Ẹ 
-jẹ̀ - j̀ẹ 
+jẹ̀ - jẹ̀ 
 ká - ká 
 wí - wí 
 fònítòhún - fò ní tò hún 
@@ -6750,11 +6750,11 @@ tànjẹ - tàn jẹ
 Wọn - Wọn 
 a - a 
 fi - fi 
-ṣẹ̀sín - ṣ̀ẹ sín 
+ṣẹ̀sín - ṣẹ̀ sín 
 débí - dé bí 
-wulẹ̀ - wu l̀ẹ 
+wulẹ̀ - wu lẹ̀ 
 sọra - sọ ra 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lénu - lé nu 
 Ohun - O hun 
 tò - tò 
@@ -6762,7 +6762,7 @@ bá - bá
 jẹ - jẹ 
 mẹ - mẹ 
 ìràwò - ì rà wò 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 Lé - Lé 
 yẹ - yẹ 
 ké - ké 
@@ -6792,7 +6792,7 @@ mu - mu
 Ẹni - Ẹ ni 
 tò - tò 
 ta - ta 
-tẹ̀tẹ - t̀ẹ tẹ 
+tẹ̀tẹ - tẹ̀ tẹ 
 títí - tí tí 
 tò - tò 
 fi - fi 
@@ -6837,7 +6837,7 @@ láramu - lá ra mu
 là - là 
 á - á 
 dì - dì 
-kérẹ̀kẹ - ké r̀ẹ kẹ 
+kérẹ̀kẹ - ké rẹ̀ kẹ 
 Kò - Kò 
 tọ - tọ 
 ká - ká 
@@ -6847,7 +6847,7 @@ wùrù - wù rù
 Ká - Ká 
 sọra - sọ ra 
 wa - wa 
-dolòkẹ̀ìilẹ̀ - do lò k̀ẹ ì i l̀ẹ 
+dolòkẹ̀ìilẹ̀ - do lò kẹ̀ ì i lẹ̀ 
 Ohun - O hun 
 tò - tò 
 bá - bá 
@@ -6872,7 +6872,7 @@ Kòkọ - Kò kọ
 maa - ma a 
 fura - fu ra 
 síyàwé - sí yà wé 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ní - ní 
 gbogbo - gbo gbo 
 àsìkò - à sì kò 
@@ -6883,14 +6883,14 @@ fọgbọn - fọ gbọn
 àtìfura - à tì fu ra 
 Máa - Má a 
 bòkọ - bò kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 gbépọ - gbé pọ 
 ỌGBÚỌN - Ọ GBÚ Ọ N 
 ÀTIJẸ - À TI JẸ 
 Bádìẹ - Bá dì ẹ 
-fẹsẹ̀ - fẹ s̀ẹ 
-tanlẹ̀ - tan l̀ẹ 
-tanlẹ̀ - tan l̀ẹ 
+fẹsẹ̀ - fẹ sẹ̀ 
+tanlẹ̀ - tan lẹ̀ 
+tanlẹ̀ - tan lẹ̀ 
 ire - i re 
 ní - ní 
 fi - fi 
@@ -6899,7 +6899,7 @@ wá - wá
 kì - kì 
 í - í 
 gbàgbé - gbà gbé 
-eléẹ̀rí - e lé ̀ẹ rí 
+eléẹ̀rí - e lé ẹ̀ rí 
 Bájá - Bá já 
 bá - bá 
 igbe - i gbe 
@@ -6915,7 +6915,7 @@ yíbọ - yí bọ
 Bàràndà - Bà ràn dà 
 régungun - ré gun gun 
 jẹ - jẹ 
-níbẹ̀ - ní b̀ẹ 
+níbẹ̀ - ní bẹ̀ 
 ní - ní 
 fí - fí 
 bẹ - bẹ 
@@ -6926,7 +6926,7 @@ kii - ki i
 tòníiṣòwò - tò ní i ṣò wò 
 dá - dá 
 àtijẹ - à ti jẹ 
-tirẹ̀ - ti r̀ẹ 
+tirẹ̀ - ti rẹ̀ 
 ni - ni 
 Ṣe - Ṣe 
 bẹẹ - bẹ ẹ 
@@ -6934,8 +6934,8 @@ rálápatà - rá lá pa tà
 tò - tò 
 tẹran - tẹ ran 
 gíífà - gí í fà 
-féẹ̀yàn - fé ̀ẹ yàn 
-Oníṣẹ̀ - O ní ṣ̀ẹ 
+féẹ̀yàn - fé ẹ̀ yàn 
+Oníṣẹ̀ - O ní ṣẹ̀ 
 ọwé - ọ wé 
 rì - rì 
 parẹ - pa rẹ 
@@ -6947,11 +6947,11 @@ sọ - sọ
 pò - pò 
 bàjé - bà jé 
 Toríi - To rí i 
-kòkẹ̀lẹ̀ - kò k̀ẹ l̀ẹ 
+kòkẹ̀lẹ̀ - kò kẹ̀ lẹ̀ 
 rẹ - rẹ 
 le - le 
 baà - ba à 
-lọbẹ̀ - lọ b̀ẹ 
+lọbẹ̀ - lọ bẹ̀ 
 Wọn - Wọn 
 ọwọ - ọ wọ 
 Pé - Pé 
@@ -6964,18 +6964,18 @@ tuntun - tun tun
 tí - tí 
 rì - rì 
 bẹ - bẹ 
-níbẹ̀ - ní b̀ẹ 
-télẹ̀ - té l̀ẹ 
+níbẹ̀ - ní bẹ̀ 
+télẹ̀ - té lẹ̀ 
 ni - ni 
 jagun - ja gun 
 dá - dá 
 padà - pa dà 
-síbẹ̀ - sí b̀ẹ 
+síbẹ̀ - sí bẹ̀ 
 Ọgbọn - Ọ gbọn 
 àtijẹ - à ti jẹ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ni - ni 
-Àgbẹ̀ - À gb̀ẹ 
+Àgbẹ̀ - À gbẹ̀ 
 tí - tí 
 fòògun - fò ò gun 
 gbinṣu - gbin ṣu 
@@ -6991,12 +6991,12 @@ rí - rí
 nnkan - n n kan 
 jẹ - jẹ 
 ni - ni 
-gbẹ̀ - gb̀ẹ 
+gbẹ̀ - gbẹ̀ 
 kan - kan 
 ti - ti 
 Òjò - Ò jò 
 nítorí - ní to rí 
-ewébẹ̀ - e wé b̀ẹ 
+ewébẹ̀ - e wé bẹ̀ 
 níjúsí - ní jú sí 
 Alágbàmọ - A lá gbà mọ 
 náà - ná à 
@@ -7007,12 +7007,12 @@ wọn - wọn
 má - má 
 baà - ba à 
 jinmi - jin mi 
-Àsẹ̀yìnwáàsẹ̀yìnbò - À s̀ẹ yìn wá à s̀ẹ yìn bò 
+Àsẹ̀yìnwáàsẹ̀yìnbò - À sẹ̀ yìn wá à sẹ̀ yìn bò 
 wọn - wọn 
 bá - bá 
 a - a 
 rìn - rìn 
-lédẹ̀ - lé d̀ẹ 
+lédẹ̀ - lé dẹ̀ 
 kan - kan 
 Ẹyin - Ẹ yin 
 akánjúwòwé - a kán jú wò wé 
@@ -7027,23 +7027,23 @@ bá - bá
 kí - kí 
 fí - fí 
 í - í 
-rérẹ̀ - ré r̀ẹ 
-rẹ̀ - r̀ẹ 
+rérẹ̀ - ré rẹ̀ 
+rẹ̀ - rẹ̀ 
 jẹ - jẹ 
-Pẹ̀yàn - P̀ẹ yàn 
-làgbẹ̀ - là gb̀ẹ 
+Pẹ̀yàn - Pẹ̀ yàn 
+làgbẹ̀ - là gbẹ̀ 
 tò - tò 
 gbinṣu - gbin ṣu 
 tò - tò 
 jọbà - jọ bà 
-lébẹ̀ - lé b̀ẹ 
+lébẹ̀ - lé bẹ̀ 
 Ta - Ta 
 lé - lé 
 le - le 
 rí - rí 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 léjò - lé jò 
-Pẹ̀yàn - P̀ẹ yàn 
+Pẹ̀yàn - Pẹ̀ yàn 
 ri - ri 
 bímọ - bí mọ 
 ri - ri 
@@ -7086,13 +7086,13 @@ rú - rú
 Ọlòọpàá - Ọ lò ọ pà á 
 fi - fi 
 gbowò - gbo wò 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 Ọgbọn - Ọ gbọn 
 àtijẹ - à ti jẹ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ni - ni 
 Kò - Kò 
-tágbẹ̀rò - tá gb̀ẹ rò 
+tágbẹ̀rò - tá gbẹ̀ rò 
 rì - rì 
 wá - wá 
 té - té 
@@ -7106,7 +7106,7 @@ rárà - rá rà
 fọkùnrin - fọ kùn rin 
 le - le 
 baà - ba à 
-òkẹ̀lẹ̀ - ò k̀ẹ l̀ẹ 
+òkẹ̀lẹ̀ - ò kẹ̀ lẹ̀ 
 ni - ni 
 Awogba - A wo gba 
 àrùn - à rùn 
@@ -7114,17 +7114,17 @@ ròé - rò é
 ẹ - ẹ 
 wáa - wá a 
 rà - rà 
-ẹ̀yin - ̀ẹ yin 
+ẹ̀yin - ẹ̀ yin 
 òtòkùlú - ò tò kù lú 
 Kò - Kò 
-sẹ̀ni - s̀ẹ ni 
+sẹ̀ni - sẹ̀ ni 
 tí - tí 
 ò - ò 
 mò - mò 
 pé - pé 
 ọgbọn - ọ gbọn 
 àtijẹ - à ti jẹ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ni - ni 
 Kébi - Ké bi 
 má - má 
@@ -7144,10 +7144,10 @@ kú - kú
 ìyàwé - ì yà wé 
 túnbí - tún bí 
 àná - à ná 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Ọgbọn - Ọ gbọn 
 àtijẹ - à ti jẹ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ni - ni 
 Awọn - A wọn 
 oníjìbìtì - o ní jì bì tì 
@@ -7160,8 +7160,8 @@ ní - ní
 ìgboro - ì gbo ro 
 lọ - lọ 
 bí - bí 
-ẹgbẹ̀ìdínlégún - ẹ gb̀ẹ ì dín lé gún 
-Olòwéẹ̀lé - O lò wé ̀ẹ lé 
+ẹgbẹ̀ìdínlégún - ẹ gbẹ̀ ì dín lé gún 
+Olòwéẹ̀lé - O lò wé ẹ̀ lé 
 rì - rì 
 sọ - sọ 
 ò - ò 
@@ -7219,7 +7219,7 @@ bá - bá
 ti - ti 
 rí - rí 
 ṣáná - ṣá ná 
-yẹ̀rìyẹ̀rì - ỳẹ rì ỳẹ rì 
+yẹ̀rìyẹ̀rì - yẹ̀ rì yẹ̀ rì 
 máa - má a 
 wí - wí 
 pé - pé 
@@ -7261,7 +7261,7 @@ ni - ni
 ìbàjẹ - ì bà jẹ 
 táa - tá a 
 le - le 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 ní - ní 
 tòun - tò u n 
 Òun - Ò u Òun 
@@ -7278,7 +7278,7 @@ di - di
 ọjò - ọ jò 
 karùnún - ka rù nún 
 ọjò - ọ jò 
-Ọsẹ̀ - Ọ s̀ẹ 
+Ọsẹ̀ - Ọ sẹ̀ 
 Wàá - Wà á 
 rúṣọ - rú ṣọ 
 funfun - fun fun 
@@ -7298,7 +7298,7 @@ pOÒṣàálá - pO Ò ṣà á lá
 ki - ki 
 yín - yín 
 gbogbo - gbo gbo 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 ní - ní 
 ẹ - ẹ 
 ẹ - ẹ 
@@ -7308,7 +7308,7 @@ ní - ní
 ẹ - ẹ 
 ṣòwò - ṣò wò 
 ẹ - ẹ 
-jẹ̀rẹ̀ - j̀ẹ r̀ẹ 
+jẹ̀rẹ̀ - jẹ̀ rẹ̀ 
 Onitọrọ - O ni tọ rọ 
 onikọbò - o ni kọ bò 
 a - a 
@@ -7332,7 +7332,7 @@ mi - mi
 dorí - do rí 
 ìwọ - ì wọ 
 Ògún - Ò gún 
-Onírẹ̀ - O ní r̀ẹ 
+Onírẹ̀ - O ní rẹ̀ 
 Ògún - Ò gún 
 ní - ní 
 ki - ki 
@@ -7383,7 +7383,7 @@ rẹ - rẹ
 Ìgbà - Ì gbà 
 bá - bá 
 dọjọ - dọ jọ 
-òsẹ̀ - ò s̀ẹ 
+òsẹ̀ - ò sẹ̀ 
 Òun - Ò u Òun 
 náà - ná à 
 a - a 
@@ -7412,14 +7412,14 @@ ni - ni
 ṣiṣẹ - ṣi ṣẹ 
 sí - sí 
 lápò - lá pò 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 lòrìṣà - lò rì ṣà 
 táa - tá a 
 pẹ - pẹ 
 lỌṣun - lỌ ṣun 
 bá - bá 
 dọjọ - dọ jọ 
-òsẹ̀ - ò s̀ẹ 
+òsẹ̀ - ò sẹ̀ 
 a - a 
 dadẹ - da dẹ 
 sọwọ - sọ wọ 
@@ -7450,12 +7450,12 @@ padà - pa dà
 Tí - Tí 
 babaláwo - ba ba lá wo 
 ri - ri 
-bẹ̀ẹ̀rò - b̀ẹ ̀ẹ rò 
+bẹ̀ẹ̀rò - bẹ̀ ẹ̀ rò 
 ẹbọ - ẹ bọ 
 ìjẹta - ì jẹ ta 
 Ọgbọn - Ọ gbọn 
 àtijẹ - à ti jẹ 
-lẹ̀yí - l̀ẹ yí 
+lẹ̀yí - lẹ̀ yí 
 jásí - já sí 
 gbogbo - gbo gbo 
 jànmọnòn - jàn mọ nò n 
@@ -7480,7 +7480,7 @@ páyé - pá yé
 ò - ò 
 sí - sí 
 Araa - A ra a 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lo - lo 
 n - n 
 tànjẹ - tàn jẹ 
@@ -7490,7 +7490,7 @@ burú - bu rú
 Ẹgbọn - Ẹ gbọn 
 rì - rì 
 fi - fi 
-mátẹ̀égbé - má t̀ẹ é gbé 
+mátẹ̀égbé - má tẹ̀ é gbé 
 kan - kan 
 àbúrò - à bú rò 
 Bàbá - Bà bá 
@@ -7498,13 +7498,13 @@ torí - to rí
 àtilà - à ti là 
 Ọmọ - Ọ mọ 
 bibi - bi bi 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lé - lé 
 fi - fi 
 Ojú - O jú 
 n - n 
 pọn - pọn 
-gbọrẹ̀ẹ - gbọ r̀ẹ ẹ 
+gbọrẹ̀ẹ - gbọ rẹ̀ ẹ 
 tà - tà 
 Ojú - O jú 
 n - n 
@@ -7523,12 +7523,12 @@ lòrí - lò rí
 Arúnnidá - A rún ni dá 
 pò - pò 
 bi - bi 
-erùpẹ̀ - e rù p̀ẹ 
+erùpẹ̀ - e rù pẹ̀ 
 Àwọn - À wọn 
 ni - ni 
 yànmùyánmú - yàn mù yán mú 
-ẹ̀yìn - ̀ẹ yìn 
-Ìgbẹ̀tì - Ì gb̀ẹ tì 
+ẹ̀yìn - ẹ̀ yìn 
+Ìgbẹ̀tì - Ì gbẹ̀ tì 
 Tí - Tí 
 í - í 
 ṣe - ṣe 
@@ -7538,11 +7538,11 @@ Agbékọlẹfín - A gbé kọ lẹ fín
 ṣìṣé - ṣì ṣé 
 ibi - i bi 
 Ọmọ - Ọ mọ 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 la - la 
 kò - kò 
 má - má 
-gbìpẹ̀ - gbì p̀ẹ 
+gbìpẹ̀ - gbì pẹ̀ 
 Àmúwá - À mú wá 
 Ọlọrun - Ọ lọ run 
 kì - kì 
@@ -7553,12 +7553,12 @@ lElédùwà - lE lé dù wà
 ṣe - ṣe 
 fọmọ - fọ mọ 
 adáríhunrun - a dá rí hun run 
-ÒÉdùmàrẹ̀ - Ò É dù mà r̀ẹ 
+ÒÉdùmàrẹ̀ - Ò É dù mà rẹ̀ 
 ké - ké 
 ilé - i lé 
 ayé - a yé 
 láwọn - lá wọn 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 léwọ - lé wọ 
 Ọwọ - Ọ wọ 
 ọmọ - ọ mọ 
@@ -7568,7 +7568,7 @@ ti - ti
 i - i 
 dẹyọ - dẹ yọ 
 Àwọn - À wọn 
-tÉdùmàrẹ̀ - tÉ dù mà r̀ẹ 
+tÉdùmàrẹ̀ - tÉ dù mà rẹ̀ 
 gbáyé - gbá yé 
 fún - fún 
 Ni - Ni 
@@ -7577,7 +7577,7 @@ n - n
 ṣayé - ṣa yé 
 ṣìbá - ṣì bá 
 ṣìbo - ṣì bo 
-Eẹ̀yàn - E ̀ẹ yàn 
+Eẹ̀yàn - E ẹ̀ yàn 
 té - té 
 bá - bá 
 ti - ti 
@@ -7596,12 +7596,12 @@ tàánú - tà á nú
 kì - kì 
 í - í 
 bínú - bí nú 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 Ṣùgbọn - Ṣù gbọn 
 rántí - rán tí 
 ẹní - ẹ ní 
 mú - mú 
-lòrẹ̀é - lò r̀ẹ é 
+lòrẹ̀é - lò rẹ̀ é 
 re - re 
 Òtá - Ò tá 
 rẹ - rẹ 
@@ -7620,7 +7620,7 @@ le - le
 aya - a ya 
 ní - ní 
 mágùn - má gùn 
-síbẹ̀ - sí b̀ẹ 
+síbẹ̀ - sí bẹ̀ 
 Kọkọ - Kọ kọ 
 le - le 
 baà - ba à 
@@ -7650,8 +7650,8 @@ Ibi - I bi
 la - la 
 ti - ti 
 í - í 
-mẹ̀ké - m̀ẹ ké 
-Ẹjẹ̀ - Ẹ j̀ẹ 
+mẹ̀ké - mẹ̀ ké 
+Ẹjẹ̀ - Ẹ jẹ̀ 
 kì - kì 
 í - í 
 ténu - té nu 
@@ -7669,15 +7669,15 @@ rí - rí
 Olúwa - O lú wa 
 lò - lò 
 le - le 
-gbẹ̀dá - gb̀ẹ dá 
+gbẹ̀dá - gbẹ̀ dá 
 là - là 
-KÉlédùmarẹ̀ - KÉ lé dù ma r̀ẹ 
+KÉlédùmarẹ̀ - KÉ lé dù ma rẹ̀ 
 á - á 
 tàn - tàn 
 Sòwòọ - Sò wò ọ 
 ẹni - ẹ ni 
 tí - tí 
-ṣẹ̀dárò - ṣ̀ẹ dá rò 
+ṣẹ̀dárò - ṣẹ̀ dá rò 
 ẹni - ẹ ni 
 Ẹni - Ẹ ni 
 ayé - a yé 
@@ -7689,13 +7689,13 @@ múra - mú ra
 Kòníkálùkù - Kò ní ká lù kù 
 é - é 
 dira - di ra 
-rẹ̀ - r̀ẹ 
-lámùrẹ̀ - lá mù r̀ẹ 
+rẹ̀ - rẹ̀ 
+lámùrẹ̀ - lá mù rẹ̀ 
 Ilé - I lé 
 ayé - a yé 
 kò - kò 
 gba - gba 
-gbẹ̀ré - gb̀ẹ ré 
+gbẹ̀ré - gbẹ̀ ré 
 Paná - Pa ná 
 ojú - o jú 
 kan - kan 
@@ -7703,9 +7703,9 @@ fi - fi
 òkan - ò kan 
 ríran - rí ran 
 Àlùjònònnú - À lù jò nò n nú 
-ẹ̀ẹ̀yàn - ̀ẹ ̀ẹ yàn 
+ẹ̀ẹ̀yàn - ẹ̀ ẹ̀ yàn 
 lò - lò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 wa - wa 
 léòkùn - lé ò kùn 
 Ṣe - Ṣe 
@@ -7724,14 +7724,14 @@ jẹ - jẹ
 ṣe - ṣe 
 yanrí - yan rí 
 àṣedànù - à ṣe dà nù 
-Pẹ̀yàn - P̀ẹ yàn 
+Pẹ̀yàn - Pẹ̀ yàn 
 ní - ní 
 í - í 
 sọgbá - sọ gbá 
 dògbún - dò gbún 
 Igbá - I gbá 
 ò - ò 
-pilẹ̀ - pi l̀ẹ 
+pilẹ̀ - pi lẹ̀ 
 gbun - gbun 
 nínú - ní nú 
 oko - o ko 
@@ -7745,18 +7745,18 @@ Táa - Tá a
 ba - ba 
 yọwọ - yọ wọ 
 àfọwòfà - à fọ wò fà 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 Rere - Re re 
 Olúwa - O lú wa 
 Ọba - Ọ ba 
 Àwọn - À wọn 
 atúnnidá - a tún ni dá 
-ẹ̀ẹyàn - ̀ẹ ẹ yàn 
+ẹ̀ẹyàn - ẹ̀ ẹ yàn 
 ni - ni 
 ṣayé - ṣa yé 
 níkà - ní kà 
 Àìmọye - À ì mọ ye 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 oníràwò - o ní rà wò 
 rilá - ri lá 
 Táyé - Tá yé 
@@ -7770,7 +7770,7 @@ lọ - lọ
 ònà - ò nà 
 táa - tá a 
 bá - bá 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 gbà - gbà 
 bò - bò 
 Àni - À ni 
@@ -7789,7 +7789,7 @@ ni - ni
 lo - lo 
 aṣọ - a ṣọ 
 gidi - gi di 
-Ẹbẹ̀ - Ẹ b̀ẹ 
+Ẹbẹ̀ - Ẹ bẹ̀ 
 la - la 
 wá - wá 
 bọba - bọ ba 
@@ -7816,13 +7816,13 @@ láya - lá ya
 wò - wò 
 gedegbe - ge de gbe 
 Ẹ - Ẹ 
-bẹ̀ẹ̀rẹ̀ - b̀ẹ ̀ẹ r̀ẹ 
+bẹ̀ẹ̀rẹ̀ - bẹ̀ ẹ̀ rẹ̀ 
 wò - wò 
 kẹ - kẹ 
 tò - tò 
 mòrùn - mò rùn 
 wọ - wọ 
-gbẹ̀sẹ̀ - gb̀ẹ s̀ẹ 
+gbẹ̀sẹ̀ - gbẹ̀ sẹ̀ 
 Ojòwúbìnrin - O jò wú bìn rin 
 le - le 
 jàpáàrà - jà pá à rà 
@@ -7858,7 +7858,7 @@ a - a
 bé - bé 
 lọ - lọ 
 ré - ré 
-yàlẹ̀ - yà l̀ẹ 
+yàlẹ̀ - yà lẹ̀ 
 Òjòwú - Ò jò wú 
 ò - ò 
 ní - ní 
@@ -7871,18 +7871,18 @@ ní - ní
 jéni - jé ni 
 tí - tí 
 se - se 
-ọbẹ̀ - ọ b̀ẹ 
+ọbẹ̀ - ọ bẹ̀ 
 àtàtà - à tà tà 
 Àní - À ní 
 fún - fún 
 ọkọ - ọ kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ráyò - rá yò 
 kankan - kan kan 
 Àràmòdà - À rà mò dà 
 kínni - kín ni 
 inú - i nú 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 Ọkọ - Ọ kọ 
 kò - kò 
 ṣọ - ṣọ 
@@ -7895,7 +7895,7 @@ té - té
 ri - ri 
 ṣọ - ṣọ 
 ọkọ - ọ kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 káàkiri - ká à ki ri 
 Ayé - A yé 
 wá - wá 
@@ -7954,7 +7954,7 @@ lẹrù - lẹ rù
 ẹni - ẹ ni 
 bá - bá 
 mọ - mọ 
-ìbòsílẹ̀ - ì bò sí l̀ẹ 
+ìbòsílẹ̀ - ì bò sí lẹ̀ 
 ẹ - ẹ 
 wọn - wọn 
 Àrùn - À rùn 
@@ -7972,16 +7972,16 @@ ní - ní
 òjòwú - ò jò wú 
 ní - ní 
 í - í 
-jalẹ̀ - ja l̀ẹ 
+jalẹ̀ - ja lẹ̀ 
 Òjòwú - Ò jò wú 
 ní - ní 
 í - í 
 sọhun - sọ hun 
 téjú - té jú 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 kò - kò 
 Ẹjẹ - Ẹ jẹ 
-wẹ̀wé - ẁẹ wé 
+wẹ̀wé - wẹ̀ wé 
 wọn - wọn 
 le - le 
 pààyàn - pà à yàn 
@@ -7991,7 +7991,7 @@ ayé - a yé
 ò - ò 
 i - i 
 fúnraa - fún ra a 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ní - ní 
 isinmi - i sin mi 
 iowọ - i o wọ 
@@ -8005,7 +8005,7 @@ ré - ré
 Ẹni - Ẹ ni 
 òjòwú - ò jò wú 
 fikú - fi kú 
-ẹ̀sín - ̀ẹ sín 
+ẹ̀sín - ẹ̀ sín 
 pa - pa 
 kò - kò 
 Níbi - Ní bi 
@@ -8036,7 +8036,7 @@ máa - má a
 kiri - ki ri 
 Ìwọ - Ì wọ 
 fòrò - fò rò 
-Elédùmarẹ̀ - E lé dù ma r̀ẹ 
+Elédùmarẹ̀ - E lé dù ma rẹ̀ 
 Kò - Kò 
 dá - dá 
 ọ - ọ 
@@ -8048,7 +8048,7 @@ rọgbọ - rọ gbọ
 sọ - sọ 
 ara - a ra 
 rẹ - rẹ 
-derẹ̀ - de r̀ẹ 
+derẹ̀ - de rẹ̀ 
 Ò - Ò 
 ní - ní 
 jẹ - jẹ 
@@ -8062,7 +8062,7 @@ sílé - sí lé
 Òjòwúbìnrin - Ò jò wú bìn rin 
 sọ - sọ 
 ara - a ra 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 deégún - de é gún 
 aráòrun - a rá ò run 
 Ò - Ò 
@@ -8117,7 +8117,7 @@ léwà - lé wà
 tò - tò 
 owú - o wú 
 jíjẹẹ - jí jẹ ẹ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 pò - pò 
 Owú - O wú 
 ni - ni 
@@ -8128,7 +8128,7 @@ rìlá - rì lá
 ràbàtà - rà bà tà 
 rabata - ra ba ta 
 Sékọ - Sé kọ 
-lẹ̀rùn - l̀ẹ rùn 
+lẹ̀rùn - lẹ̀ rùn 
 lẹjẹ - lẹ jẹ 
 ọjọsí - ọ jọ sí 
 Owú - O wú 
@@ -8150,10 +8150,10 @@ fi - fi
 wá - wá 
 kòun - kò u n 
 nìkan - nì kan 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 ọkọ - ọ kọ 
-rẹ̀ - r̀ẹ 
-lẹòdẹ̀ - lẹ ò d̀ẹ 
+rẹ̀ - rẹ̀ 
+lẹòdẹ̀ - lẹ ò dẹ̀ 
 Obìnrin - O bìn rin 
 tò - tò 
 wọkọ - wọ kọ 
@@ -8165,8 +8165,8 @@ Jùwé - Jù wé
 Éyí - É yí 
 tò - tò 
 bá - bá 
-rẹ̀rìnín - r̀ẹ rì nín 
-rẹ̀ - r̀ẹ 
+rẹ̀rìnín - rẹ̀ rì nín 
+rẹ̀ - rẹ̀ 
 kan - kan 
 ìyọnu - ì yọ nu 
 tò - tò 
@@ -8200,15 +8200,15 @@ wá - wá
 kiri - ki ri 
 Bémidan - Bé mi dan 
 bá - bá 
-ràrìnwẹ̀yìn - rà rìn ẁẹ yìn 
+ràrìnwẹ̀yìn - rà rìn wẹ̀ yìn 
 lásán - lá sán 
 A - A 
 ṣe - ṣe 
 békọ - bé kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ní - ní 
 rì - rì 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 Kò - Kò 
 jẹ - jẹ 
 kòkọ - kò kọ 
@@ -8216,7 +8216,7 @@ jáde - já de
 tọ - tọ 
 mọ - mọ 
 Ọkọ - Ọ kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 n - n 
 gbà - gbà 
 fún - fún 
@@ -8234,7 +8234,7 @@ wá - wá
 rì - rì 
 bẹ - bẹ 
 nílùú - ní lù ú 
-òkẹ̀ẹ̀rẹ̀ - ò k̀ẹ ̀ẹ r̀ẹ 
+òkẹ̀ẹ̀rẹ̀ - ò kẹ̀ ẹ̀ rẹ̀ 
 Ẹni - Ẹ ni 
 táa - tá a 
 wí - wí 
@@ -8252,7 +8252,7 @@ Níjọ - Ní jọ
 ti - ti 
 Jùwé - Jù wé 
 ti - ti 
-òòdẹ̀ - ò ò d̀ẹ 
+òòdẹ̀ - ò ò dẹ̀ 
 ọkọ - ọ kọ 
 Wọn - Wọn 
 ò - ò 
@@ -8264,21 +8264,21 @@ wí - wí
 tàjò - tà jò 
 dé - dé 
 gbalé - gba lé 
-ẹ̀gbọn - ̀ẹ gbọn 
-rẹ̀ - r̀ẹ 
+ẹ̀gbọn - ẹ̀ gbọn 
+rẹ̀ - rẹ̀ 
 lọ - lọ 
 bá - bá 
 wọn - wọn 
 tí - tí 
 wọn - wọn 
 ri - ri 
-bòkẹ̀lẹ̀ - bò k̀ẹ l̀ẹ 
+bòkẹ̀lẹ̀ - bò kẹ̀ lẹ̀ 
 Ẹgbéòn - Ẹ gbé ò n 
 fojú - fo jú 
 kan - kan 
 ọmọ - ọ mọ 
 ìyáa - ì yá a 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 dunnú - dun nú 
 dìmọ - dì mọ 
 ara - a ra 
@@ -8287,15 +8287,15 @@ gbàgì - gbà gì
 Wén - Wé Wén 
 kiíra - ki í ra 
 wọn - wọn 
-tẹ̀rintẹ̀yẹ - t̀ẹ rin t̀ẹ yẹ 
+tẹ̀rintẹ̀yẹ - tẹ̀ rin tẹ̀ yẹ 
 Ara - A ra 
 Jùwé - Jù wé 
 gbòná - gbò ná 
 janjan - jan jan 
-látẹsẹ̀ - lá tẹ s̀ẹ 
+látẹsẹ̀ - lá tẹ sẹ̀ 
 dérí - dé rí 
 Kò - Kò 
-wulẹ̀ - wu l̀ẹ 
+wulẹ̀ - wu lẹ̀ 
 òrò - ò rò 
 Tò - Tò 
 fi - fi 
@@ -8319,7 +8319,7 @@ Wọn - Wọn
 nara - na ra 
 wọn - wọn 
 lá - lá 
-nàtúgẹ̀lẹ̀ - nà tú g̀ẹ l̀ẹ 
+nàtúgẹ̀lẹ̀ - nà tú gẹ̀ lẹ̀ 
 Àbúrò - À bú rò 
 ọkọ - ọ kọ 
 ṣe - ṣe 
@@ -8347,7 +8347,7 @@ titi - ti ti
 ẹnu - ẹ nu 
 Jùwé - Jù wé 
 fi - fi 
-tẹ̀ - t̀ẹ 
+tẹ̀ - tẹ̀ 
 bi - bi 
 kọìgòòlù - kọ ì gò ò lù 
 Ìbinù - Ì bi nù 
@@ -8362,20 +8362,20 @@ Lẹyin - Lẹ yin
 ìgbà - ì gbà 
 tọkọ - tọ kọ 
 Jùwéfílé - Jù wé fí lé 
-sílẹ̀ - sí l̀ẹ 
-Pẹ̀lú - P̀ẹ lú 
+sílẹ̀ - sí lẹ̀ 
+Pẹ̀lú - Pẹ̀ lú 
 ọmọ - ọ mọ 
 to - to 
 wa - wa 
 wọn - wọn 
 wálé - wá lé 
-tìlẹ̀kùn - tì l̀ẹ kùn 
+tìlẹ̀kùn - tì lẹ̀ kùn 
 mé - mé 
 iná - i ná 
 wàhálà - wà há là 
 sọ - sọ 
 kọkòrò - kọ kò rò 
-ìlẹ̀kùn - ì l̀ẹ kùn 
+ìlẹ̀kùn - ì lẹ̀ kùn 
 sínú - sí nú 
 gòtà - gò tà 
 léjú - lé jú 
@@ -8398,7 +8398,7 @@ parí - pa rí
 Ò - Ò 
 pàwọn - pà wọn 
 ọmọ - ọ mọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 wánú - wá nú 
 ilé - i lé 
 Ni - Ni 
@@ -8413,15 +8413,15 @@ ni - ni
 rabidun - ra bi dun 
 Wọn - Wọn 
 débí - dé bí 
-ìlẹ̀kùn - ì l̀ẹ kùn 
+ìlẹ̀kùn - ì lẹ̀ kùn 
 wọn - wọn 
 ò - ò 
 rí - rí 
-ìlẹ̀kùn - ì l̀ẹ kùn 
+ìlẹ̀kùn - ì lẹ̀ kùn 
 ṣi - ṣi 
 Nṣe - N ṣe 
 ni - ni 
-ilẹ̀kùn - i l̀ẹ kùn 
+ilẹ̀kùn - i lẹ̀ kùn 
 tì - tì 
 gbọningbọnin - gbọ nin gbọ nin 
 Ni - Ni 
@@ -8442,12 +8442,12 @@ di - di
 pé - pé 
 wọn - wọn 
 rí - rí 
-ilẹ̀kùn - i l̀ẹ kùn 
+ilẹ̀kùn - i lẹ̀ kùn 
 já - já 
 Iná - I ná 
 ti - ti 
 ràn - ràn 
-mòkẹ̀ - mò k̀ẹ 
+mòkẹ̀ - mò kẹ̀ 
 àjà - à jà 
 Àjà - À jà 
 ti - ti 
@@ -8469,49 +8469,49 @@ asán - a sán
 Wọn - Wọn 
 gbìyànjú - gbì yàn jú 
 títí - tí tí 
-ẹ̀pa - ̀ẹ pa 
+ẹ̀pa - ẹ̀ pa 
 ò - ò 
 Ilé - I lé 
 ṣe - ṣe 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 jo - jo 
-tùẹ̀tùẹ̀ - tù ̀ẹ tù ̀ẹ 
+tùẹ̀tùẹ̀ - tù ẹ̀ tù ẹ̀ 
 lo - lo 
-rẹ̀ṣù - r̀ẹ ṣù 
+rẹ̀ṣù - rẹ̀ ṣù 
 lọwọ - lọ wọ 
 kéòábòòdù - ké ò á bò ò dù 
 aṣọ - a ṣọ 
 Jùwé - Jù wé 
 niná - ni ná 
 jò - jò 
-délẹ̀délẹ̀ - dé l̀ẹ dé l̀ẹ 
+délẹ̀délẹ̀ - dé lẹ̀ dé lẹ̀ 
 Kò - Kò 
 láṣọ - lá ṣọ 
 mìíì - mì í ì 
 mọ - mọ 
-Jẹ̀yí - J̀ẹ yí 
+Jẹ̀yí - Jẹ̀ yí 
 tí - tí 
 ú - ú 
 bẹ - bẹ 
 lọrùn - lọ rùn 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lọ - lọ 
 Owú - O wú 
 jíjẹ - jí jẹ 
 ò - ò 
-lérẹ̀ - lé r̀ẹ 
+lérẹ̀ - lé rẹ̀ 
 burú - bu rú 
 Owú - O wú 
 jíjẹ - jí jẹ 
-ṣẹ̀ - ṣ̀ẹ 
+ṣẹ̀ - ṣẹ̀ 
 kà - kà 
 félúéwé - fé lú é wé 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 púpò - pú pò 
 Bòbiìnrin - Bò bi ì n rin 
 ò - ò 
 jowú - jo wú 
-ọbẹ̀ - ọ b̀ẹ 
+ọbẹ̀ - ọ bẹ̀ 
 kì - kì 
 í - í 
 dùn - dùn 
@@ -8569,7 +8569,7 @@ Níbi - Ní bi
 la - la 
 ti - ti 
 í - í 
-mọdàlẹ̀ - mọ dà l̀ẹ 
+mọdàlẹ̀ - mọ dà lẹ̀ 
 Wọn - Wọn 
 a - a 
 fi - fi 
@@ -8582,11 +8582,11 @@ lẹkún - lẹ kún
 Ọré - Ọ ré 
 rì - rì 
 dẹ - dẹ 
-olẹ̀ - o l̀ẹ 
+olẹ̀ - o lẹ̀ 
 sí - sí 
 òré - ò ré 
-ìmùlẹ̀ - ì mù l̀ẹ 
-Afiniṣẹ̀sín - A fi ni ṣ̀ẹ sín 
+ìmùlẹ̀ - ì mù lẹ̀ 
+Afiniṣẹ̀sín - A fi ni ṣẹ̀ sín 
 òré - ò ré 
 nì - nì 
 bẹ - bẹ 
@@ -8594,7 +8594,7 @@ tí - tí
 wọn - wọn 
 pò - pò 
 bí - bí 
-erùpẹ̀ - e rù p̀ẹ 
+erùpẹ̀ - e rù pẹ̀ 
 Ọnà - Ọ nà 
 méjì - mé jì 
 ni - ni 
@@ -8604,7 +8604,7 @@ sí - sí
 Bí - Bí 
 kò - kò 
 bá - bá 
-jọdàlẹ̀ - jọ dà l̀ẹ 
+jọdàlẹ̀ - jọ dà lẹ̀ 
 a - a 
 sì - sì 
 jòlétìítò - jò lé tì í tò 
@@ -8638,7 +8638,7 @@ gba - gba
 ni - ni 
 àwọn - à wọn 
 òré - ò ré 
-elédẹ̀ - e lé d̀ẹ 
+elédẹ̀ - e lé dẹ̀ 
 méjì - mé jì 
 Kò - Kò 
 jòtá - jò tá 
@@ -8661,14 +8661,14 @@ rì - rì
 sààgùn - sà à gùn 
 lura - lu ra 
 wọn - wọn 
-lòkẹ̀ - lò k̀ẹ 
-ẹẹ̀pẹ̀ - ẹ ̀ẹ p̀ẹ 
+lòkẹ̀ - lò kẹ̀ 
+ẹẹ̀pẹ̀ - ẹ ẹ̀ pẹ̀ 
 Yé - Yé 
 máa - má a 
 finú - fi nú 
 rẹ - rẹ 
 han - han 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 Ko - Ko 
 má - má 
 jìn - jìn 
@@ -8716,13 +8716,13 @@ ní - ní
 mú - mú 
 ni - ni 
 í - í 
-yẹ̀ké - ỳẹ ké 
+yẹ̀ké - yẹ̀ ké 
 Ẹ - Ẹ 
 yan - yan 
 òré - ò ré 
 mọ - mọ 
 nba - n ba 
-Édùmàrẹ̀ - É dù mà r̀ẹ 
+Édùmàrẹ̀ - É dù mà rẹ̀ 
 ò - ò 
 ní - ní 
 í - í 
@@ -8732,12 +8732,12 @@ nírú - ní rú
 Ọrẹ - Ọ rẹ 
 ọdún - ọ dún 
 kò - kò 
-fẹ̀mí - f̀ẹ mí 
-tẹ̀ - t̀ẹ 
+fẹ̀mí - fẹ̀ mí 
+tẹ̀ - tẹ̀ 
 Ká - Ká 
 ṣòra - ṣò ra 
 fáwọn - fá wọn 
-ẹ̀òyàn - ̀ẹ ò yàn 
+ẹ̀òyàn - ẹ̀ ò yàn 
 aronikiri - a ro ni ki ri 
 Tí - Tí 
 í - í 
@@ -8761,7 +8761,7 @@ tò - tò
 ṣe - ṣe 
 pé - pé 
 ìrìn - ì rìn 
-rẹ̀kò - r̀ẹ kò 
+rẹ̀kò - rẹ̀ kò 
 mọ - mọ 
 Yẹra - Yẹ ra 
 fún - fún 
@@ -8783,13 +8783,13 @@ ara - a ra
 loògùn - lo ò gùn 
 ẹ - ẹ 
 Yéé - Yé é 
-búòlẹ̀ - bú ò l̀ẹ 
+búòlẹ̀ - bú ò lẹ̀ 
 ṣòrẹ - ṣò rẹ 
 Kéòjú - Ké ò jú 
 má - má 
 baà - ba à 
 tì - tì 
-gbẹ̀yìn - gb̀ẹ yìn 
+gbẹ̀yìn - gbẹ̀ yìn 
 PẸLẸPẸLẸ - PẸ LẸ PẸ LẸ 
 DỌWỌ - DỌ WỌ 
 ỌMỌGE - Ọ MỌ GE 
@@ -8823,7 +8823,7 @@ Aré - A ré
 ẹni - ẹ ni 
 là - là 
 á - á 
-pẹ̀te - p̀ẹ te 
+pẹ̀te - pẹ̀ te 
 múra - mú ra 
 síṣẹ - sí ṣẹ 
 ọjọ - ọ jọ 
@@ -8831,12 +8831,12 @@ ri - ri
 lo - lo 
 Má - Má 
 rìnrìn - rìn rìn 
-arẹ̀mọ - a r̀ẹ mọ 
+arẹ̀mọ - a rẹ̀ mọ 
 Yéé - Yé é 
 fi - fi 
 gbogbo - gbo gbo 
 ọjú - ọ jú 
-kàtíkẹ̀ - kà tí k̀ẹ 
+kàtíkẹ̀ - kà tí kẹ̀ 
 Òní - Ò ní 
 inú - i nú 
 òlẹ - ò lẹ 
@@ -8852,10 +8852,10 @@ rẹ - rẹ
 àntí - àn tí 
 ẹléjò - ẹ lé jò 
 Ìwà - Ì wà 
-àgbẹ̀rò - à gb̀ẹ rò 
+àgbẹ̀rò - à gbẹ̀ rò 
 gbéwò - gbé wò 
 yìi - yì i 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 ṣe - ṣe 
 ṣùtá - ṣù tá 
 rẹ - rẹ 
@@ -8880,13 +8880,13 @@ ori - o ri
 níná - ní ná 
 Kín - Kín 
 ni - ni 
-ẹ̀rò - ̀ẹ rò 
+ẹ̀rò - ẹ̀ rò 
 tú - tú 
-tibẹ̀ - ti b̀ẹ 
+tibẹ̀ - ti bẹ̀ 
 jáde - já de 
 fi - fi 
 túnṣẹ - tún ṣẹ 
-Elédùmarẹ̀ - E lé dù ma r̀ẹ 
+Elédùmarẹ̀ - E lé dù ma rẹ̀ 
 dá - dá 
 Ẹ - Ẹ 
 ti - ti 
@@ -8907,11 +8907,11 @@ bá - bá
 wọn - wọn 
 fapo - fa po 
 Amukunmẹkọ - A mu kun mẹ kọ 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 lé - lé 
 le - le 
 pérú - pé rú 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 tọnà - tọ nà 
 Onímí - O ní mí 
 doge - do ge 
@@ -8925,12 +8925,12 @@ wá - wá
 jọ - jọ 
 o - o 
 lòjú - lò jú 
-ẹ̀ẹ̀yàn - ̀ẹ ̀ẹ yàn 
+ẹ̀ẹ̀yàn - ẹ̀ ẹ̀ yàn 
 tò - tò 
 yẹ - yẹ 
 o - o 
 kí - kí 
-níkùnúnlẹ̀ - ní kù nún l̀ẹ 
+níkùnúnlẹ̀ - ní kù nún lẹ̀ 
 Nṣe - N ṣe 
 lò - lò 
 ri - ri 
@@ -8954,7 +8954,7 @@ tí - tí
 n - n 
 fọwéò - fọ wé ò 
 bojú - bo jú 
-Onígẹ̀gẹ̀ - O ní g̀ẹ g̀ẹ 
+Onígẹ̀gẹ̀ - O ní gẹ̀ gẹ̀ 
 tí - tí 
 fi - fi 
 fọwọ - fọ wọ 
@@ -8992,7 +8992,7 @@ ba - ba
 ìkìlò - ì kì lò 
 tiwa - ti wa 
 Pàtàkì - Pà tà kì 
-lẹ̀kò - l̀ẹ kò 
+lẹ̀kò - lẹ̀ kò 
 ilé - i lé 
 jé - jé 
 fún - fún 
@@ -9003,7 +9003,7 @@ má - má
 baà - ba à 
 yọmọ - yọ mọ 
 wàhálà - wà há là 
-ẹ̀kò - ̀ẹ kò 
+ẹ̀kò - ẹ̀ kò 
 òde - ò de 
 ò - ò 
 yẹ - yẹ 
@@ -9018,7 +9018,7 @@ dára - dá ra
 púpò - pú pò 
 púpò - pú pò 
 Ẹkò - Ẹ kò 
-ẹ̀sìn - ̀ẹ sìn 
+ẹ̀sìn - ẹ̀ sìn 
 ni - ni 
 fì - fì 
 fún - fún 
@@ -9044,12 +9044,12 @@ nínú - ní nú
 lágboole - lá gbo o le 
 wa - wa 
 owọ - o wọ 
-ẹ̀ẹ̀yàn - ̀ẹ ̀ẹ yàn 
+ẹ̀ẹ̀yàn - ẹ̀ ẹ̀ yàn 
 ni - ni 
 i - i 
 gba - gba 
 ni - ni 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 lọwò - lọ wò 
 ìyà - ì yà 
 Kéjẹ - Ké jẹ 
@@ -9064,8 +9064,8 @@ ajé - a jé
 ọmọ - ọ mọ 
 Alápáhangún - A lá pá han gún 
 yòò - yò ò 
-jẹ̀ka - j̀ẹ ka 
-gbẹ̀yìn - gb̀ẹ yìn 
+jẹ̀ka - jẹ̀ ka 
+gbẹ̀yìn - gbẹ̀ yìn 
 Ọlẹ - Ọ lẹ 
 ní - ní 
 í - í 
@@ -9109,16 +9109,16 @@ rìn - rìn
 létí - lé tí 
 omi - o mi 
 O - O 
-wulẹ̀ - wu l̀ẹ 
+wulẹ̀ - wu lẹ̀ 
 dìyàwò - dì yà wò 
 onígbáa - o ní gbá a 
 kílòntà - kí lò n tà 
 Má - Má 
 sòkò - sò kò 
-ẹ̀ébú - ̀ẹ é bú 
+ẹ̀ébú - ẹ̀ é bú 
 lọmọ - lọ mọ 
-ẹ̀dá - ̀ẹ dá 
-òẹ̀yàn - ò ̀ẹ yàn 
+ẹ̀dá - ẹ̀ dá 
+òẹ̀yàn - ò ẹ̀ yàn 
 kankan - kan kan 
 Ọgbọn - Ọ gbọn 
 wéwé - wé wé 
@@ -9130,38 +9130,38 @@ akọ - a kọ
 Bí - Bí 
 àwàdà - à wà dà 
 bí - bí 
-ẹ̀rin - ̀ẹ rin 
+ẹ̀rin - ẹ̀ rin 
 Ká - Ká 
 mòjú - mò jú 
 le - le 
 lásìkò - lá sì kò 
 ohun - o hun 
-ẹ̀lẹ̀ - ̀ẹ l̀ẹ 
+ẹ̀lẹ̀ - ẹ̀ lẹ̀ 
 IÌwà - I Ì wà 
 òṣénú - ò ṣé nú 
 kò - kò 
 rọmọ - rọ mọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 lẹwò - lẹ wò 
-Bẹẹ̀ - Bẹ ̀ẹ 
+Bẹẹ̀ - Bẹ ẹ̀ 
 kò - kò 
 sì - sì 
 tún - tún 
 yẹ - yẹ 
 ká - ká 
 dẹ - dẹ 
-ládẹ̀jù - lá d̀ẹ jù 
+ládẹ̀jù - lá dẹ̀ jù 
 Omidan - O mi dan 
 má - má 
 gba - gba 
-gbẹ̀rẹ - gb̀ẹ rẹ 
+gbẹ̀rẹ - gbẹ̀ rẹ 
 Àní - À ní 
 fún - fún 
 ẹnì - ẹ nì 
 kòòkan - kò ò kan 
 nínú - ní nú 
 akọ - a kọ 
-Fẹ̀gbin - F̀ẹ gbin 
+Fẹ̀gbin - Fẹ̀ gbin 
 lolélùfẹ - lo lé lù fẹ 
 rẹ - rẹ 
 wò - wò 
@@ -9181,15 +9181,15 @@ lẹwò - lẹ wò
 To - To 
 bá - bá 
 dijo - di jo 
-ẹ̀rín - ̀ẹ rín 
+ẹ̀rín - ẹ̀ rín 
 ṣò - ṣò 
 le - le 
 yàn - yàn 
 o - o 
 láàyò - lá à yò 
-Fẹ̀tò - F̀ẹ tò 
+Fẹ̀tò - Fẹ̀ tò 
 sí - sí 
-gbigbomọlẹ̀ - gbi gbo mọ l̀ẹ 
+gbigbomọlẹ̀ - gbi gbo mọ lẹ̀ 
 Kí - Kí 
 wọn - wọn 
 má - má 
@@ -9200,14 +9200,14 @@ láyé - lá yé
 jẹ - jẹ 
 Kéo - Ké o 
 má - má 
-dapẹ̀rẹ̀ - da p̀ẹ r̀ẹ 
+dapẹ̀rẹ̀ - da pẹ̀ rẹ̀ 
 àjàṣé - à jà ṣé 
-kalẹ̀ - ka l̀ẹ 
+kalẹ̀ - ka lẹ̀ 
 Máa - Má a 
 firoọ - fi ro ọ 
-bẹ̀ẹ̀rẹ - b̀ẹ ̀ẹ rẹ 
+bẹ̀ẹ̀rẹ - bẹ̀ ẹ̀ rẹ 
 lọwọ - lọ wọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 nígbà - ní gbà 
 gbogbo - gbo gbo 
 Ko - Ko 
@@ -9228,7 +9228,7 @@ baà - ba à
 mònà - mò nà 
 tí - tí 
 ọkọ - ọ kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 O - O 
 tò - tò 
 Ọrọ - Ọ rọ 
@@ -9236,7 +9236,7 @@ tò - tò
 kò - kò 
 láyòlé - lá yò lé 
 Onírúurú - O ní rú u rú 
-ẹ̀tàn - ̀ẹ tàn 
+ẹ̀tàn - ẹ̀ tàn 
 nì - nì 
 bẹ - bẹ 
 létò - lé tò 
@@ -9256,7 +9256,7 @@ dún - dún
 Níbi - Ní bi 
 ìhùwàsí - ì hù wà sí 
 ti - ti 
-mẹ̀yí - m̀ẹ yí 
+mẹ̀yí - mẹ̀ yí 
 tò - tò 
 le - le 
 gbọ - gbọ 
@@ -9270,7 +9270,7 @@ kí - kí
 wọn - wọn 
 ri - ri 
 pe - pe 
-lòlùfẹ̀ - lò lù f̀ẹ 
+lòlùfẹ̀ - lò lù fẹ̀ 
 Ká - Ká 
 ra - ra 
 kúpà - kú pà 
@@ -9288,7 +9288,7 @@ ogun - o gun
 bá - bá 
 le - le 
 lábàadì - lá bà a dì 
-Bẹ̀yàn - B̀ẹ yàn 
+Bẹ̀yàn - Bẹ̀ yàn 
 tò - tò 
 bá - bá 
 ri - ri 
@@ -9301,12 +9301,12 @@ rìn - rìn
 geere - ge e re 
 láwùjọ - lá wù jọ 
 Lo - Lo 
-leẹ̀ - le ̀ẹ 
-wẹ̀ - ẁẹ 
+leẹ̀ - le ẹ̀ 
+wẹ̀ - wẹ̀ 
 ko - ko 
 yán - yán 
 kànìnkànìn - kà nìn kà nìn 
-loòdẹ̀ - lo ò d̀ẹ 
+loòdẹ̀ - lo ò dẹ̀ 
 TỌKỌ - TỌ KỌ 
 TAYA - TA YA 
 Adesoye - A de so ye 
@@ -9330,8 +9330,8 @@ méjì - mé jì
 wòye - wò ye 
 òòkán - ò ò kán 
 gún - gún 
-gẹ̀gé - g̀ẹ gé 
-Bésẹ̀ - Bé s̀ẹ 
+gẹ̀gé - gẹ̀ gé 
+Bésẹ̀ - Bé sẹ̀ 
 lò - lò 
 bá - bá 
 ṣe - ṣe 
@@ -9345,7 +9345,7 @@ ní - ní
 í - í 
 máyé - má yé 
 lọ - lọ 
-pẹ̀lẹpùtù - p̀ẹ lẹ pù tù 
+pẹ̀lẹpùtù - pẹ̀ lẹ pù tù 
 Ìyàwò - Ì yà wò 
 rì - rì 
 fokọ - fo kọ 
@@ -9374,18 +9374,18 @@ tò - tò
 ri - ri 
 relé - re lé 
 ọkọ - ọ kọ 
-Ọlẹ̀mọge - Ọ l̀ẹ mọ ge 
+Ọlẹ̀mọge - Ọ lẹ̀ mọ ge 
 té - té 
 rì - rì 
 relé - re lé 
-ẹ̀kọ - ̀ẹ kọ 
+ẹ̀kọ - ẹ̀ kọ 
 o - o 
 bá - bá 
 gbàgbé - gbà gbé 
 aṣọ - a ṣọ 
 bá - bá 
 gbàgbé - gbà gbé 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 o - o 
 bá - bá 
 gbàgbé - gbà gbé 
@@ -9398,14 +9398,14 @@ tíì - tí ì
 gbàgbé - gbà gbé 
 gidi - gi di 
 Ìwà - Ì wà 
-pẹ̀lé - p̀ẹ lé 
+pẹ̀lé - pẹ̀ lé 
 ni - ni 
 o - o 
 rántí - rán tí 
 dì - dì 
 mẹrù - mẹ rù 
 Ìwà - Ì wà 
-pẹ̀lé - p̀ẹ lé 
+pẹ̀lé - pẹ̀ lé 
 lobìnrin - lo bìn rin 
 fi - fi 
 í - í 
@@ -9429,18 +9429,18 @@ Tẹjú - Tẹ jú
 ẹbí - ẹ bí 
 ọkọ - ọ kọ 
 Ṣikẹ - Ṣi kẹ 
-ẹ̀òyàn - ̀ẹ ò yàn 
+ẹ̀òyàn - ẹ̀ ò yàn 
 olélùfẹ - o lé lù fẹ 
 Bọkọ - Bọ kọ 
 bá - bá 
 bínú - bí nú 
 Kò - Kò 
 o - o 
-fìkúnlẹ̀ - fì kún l̀ẹ 
-ṣẹ̀tùtù - ṣ̀ẹ tù tù 
+fìkúnlẹ̀ - fì kún lẹ̀ 
+ṣẹ̀tùtù - ṣẹ̀ tù tù 
 Kò - Kò 
 o - o 
-fìkúnlẹ̀ - fì kún l̀ẹ 
+fìkúnlẹ̀ - fì kún lẹ̀ 
 tánràn - tán ràn 
 arukutu - a ru ku tu 
 Kò - Kò 
@@ -9460,7 +9460,7 @@ Baálé - Ba á lé
 ṣọwọn - ṣọ wọn 
 wọn - wọn 
 jeyín - je yín 
-òkẹ̀ - ò k̀ẹ 
+òkẹ̀ - ò kẹ̀ 
 àgùtàn - à gù tàn 
 bá - bá 
 ṣe - ṣe 
@@ -9521,7 +9521,7 @@ mú - mú
 sùúrù - sù ú rù 
 Má - Má 
 fìyà - fì yà 
-jẹ̀ - j̀ẹ 
+jẹ̀ - jẹ̀ 
 yàwò - yà wò 
 Rántí - Rán tí 
 ọjo - ọ jo 
@@ -9541,7 +9541,7 @@ wéle - wé le
 má - má 
 gbàgbé - gbà gbé 
 o - o 
-Péẹ̀yàn - Pé ̀ẹ yàn 
+Péẹ̀yàn - Pé ẹ̀ yàn 
 ò - ò 
 fẹni - fẹ ni 
 fòrò - fò rò 
@@ -9549,8 +9549,8 @@ láyé - lá yé
 Etí - E tí 
 kíyàwò - kí yà wò 
 fọkọ - fọ kọ 
-rẹ̀ - r̀ẹ 
-sílẹ̀ - sí l̀ẹ 
+rẹ̀ - rẹ̀ 
+sílẹ̀ - sí lẹ̀ 
 Lọmọ - Lọ mọ 
 aráyé - a rá yé 
 ri - ri 
@@ -9584,24 +9584,24 @@ bá - bá
 ti - ti 
 lọ - lọ 
 Ọmọ - Ọ mọ 
-ẹ̀ẹ̀yàn - ̀ẹ ̀ẹ yàn 
+ẹ̀ẹ̀yàn - ẹ̀ ẹ̀ yàn 
 kì - kì 
 í - í 
 fẹ - fẹ 
 tò - tò 
 dùn - dùn 
 dùn - dùn 
-délẹ̀ - dé l̀ẹ 
+délẹ̀ - dé lẹ̀ 
 Ọba - Ọ ba 
-òkẹ̀ - ò k̀ẹ 
+òkẹ̀ - ò kẹ̀ 
 káya - ká ya 
 ò - ò 
 KỌbalúayé - KỌ ba lú a yé 
 bá - bá 
 ni - ni 
 kànkùn - kàn kùn 
-ẹ̀jẹ - ̀ẹ jẹ 
-mọlẹ̀ - mọ l̀ẹ 
+ẹ̀jẹ - ẹ̀ jẹ 
+mọlẹ̀ - mọ lẹ̀ 
 fún - fún 
 yàwò - yà wò 
 Kòrí - Kò rí 
@@ -9630,9 +9630,9 @@ kò - kò
 láàrò - lá à rò 
 ÌTÉLỌRÙN - Ì TÉ LỌ RÙN 
 Ọba - Ọ ba 
-Aṣẹ̀dá - A ṣ̀ẹ dá 
+Aṣẹ̀dá - A ṣẹ̀ dá 
 lò - lò 
-dẹ̀ja - d̀ẹ ja 
+dẹ̀ja - dẹ̀ ja 
 tò - tò 
 wà - wà 
 nínú - ní nú 
@@ -9657,7 +9657,7 @@ jẹ - jẹ
 ò - ò 
 sì - sì 
 jiyàn - ji yàn 
-Béẹ̀yàn - Bé ̀ẹ yàn 
+Béẹ̀yàn - Bé ẹ̀ yàn 
 ò - ò 
 bá - bá 
 gba - gba 
@@ -9676,7 +9676,7 @@ kò - kò
 máa - má a 
 tò - tò 
 wa - wa 
-Òkẹ̀lẹ̀ - Ò k̀ẹ l̀ẹ 
+Òkẹ̀lẹ̀ - Ò kẹ̀ lẹ̀ 
 àbùjù - à bù jù 
 ní - ní 
 í - í 
@@ -9719,7 +9719,7 @@ tẹ - tẹ
 lẹrùn - lẹ rùn 
 ọjàre - ọ jà re 
 Ṣe - Ṣe 
-béẹ̀yàn - bé ̀ẹ yàn 
+béẹ̀yàn - bé ẹ̀ yàn 
 lò - lò 
 wà - wà 
 Tò - Tò 
@@ -9749,15 +9749,15 @@ goloto - go lo to
 LÒ - LÒ 
 ri - ri 
 jọla - jọ la 
-tiẹ̀ - ti ̀ẹ 
-lúkẹ̀ - lú k̀ẹ 
-eẹ̀pẹ̀ - e ̀ẹ p̀ẹ 
+tiẹ̀ - ti ẹ̀ 
+lúkẹ̀ - lú kẹ̀ 
+eẹ̀pẹ̀ - e ẹ̀ pẹ̀ 
 Ẹni - Ẹ ni 
 tò - tò 
 nì - nì 
 pe - pe 
 kádàrá - ká dà rá 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 lẹjọ - lẹ jọ 
 Dandan - Dan dan 
 ni - ni 
@@ -9767,7 +9767,7 @@ jOlúwa - jO lú wa
 lọ - lọ 
 Wọn - Wọn 
 sì - sì 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 tibi - ti bi 
 àìgba - à ì gba 
 kádàrá - ká dà rá 
@@ -9813,7 +9813,7 @@ gbogbo - gbo gbo
 le - le 
 rò - rò 
 O - O 
-pẹ̀sẹ̀ - p̀ẹ s̀ẹ 
+pẹ̀sẹ̀ - pẹ̀ sẹ̀ 
 Ipò - I pò 
 kan - kan 
 lo - lo 
@@ -9841,7 +9841,7 @@ ní - ní
 fi - fi 
 ni - ni 
 lòkàn - lò kàn 
-balẹ̀ - ba l̀ẹ 
+balẹ̀ - ba lẹ̀ 
 íitẹẹlọrùn - í i tẹ ẹ lọ rùn 
 le - le 
 kò - kò 
@@ -9851,7 +9851,7 @@ yọnu - yọ nu
 Ìyà - Ì yà 
 le - le 
 fini - fi ni 
-ṣẹ̀sín - ṣ̀ẹ sín 
+ṣẹ̀sín - ṣẹ̀ sín 
 Ẹsín - Ẹ sín 
 sì - sì 
 le - le 
@@ -9904,20 +9904,20 @@ Kín - Kín
 lo - lo 
 rò - rò 
 tò - tò 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 rí - rí 
 Té - Té 
 o - o 
 fi - fi 
 ro - ro 
 gbogbo - gbo gbo 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lọ - lọ 
 jìnnà - jìn nà 
 Má - Má 
 ronú - ro nú 
 mẹ - mẹ 
-òrẹ̀ - ò r̀ẹ 
+òrẹ̀ - ò rẹ̀ 
 Rántí - Rán tí 
 ẹni - ẹ ni 
 tò - tò 
@@ -9934,7 +9934,7 @@ tò - tò
 o - o 
 bí - bí 
 lé - lé 
-tẹ̀rígbaṣọ - t̀ẹ rí gba ṣọ 
+tẹ̀rígbaṣọ - tẹ̀ rí gba ṣọ 
 Má - Má 
 ronú - ro nú 
 mọ - mọ 
@@ -9947,7 +9947,7 @@ kúkú - kú kú
 fé - fé 
 Kú - Kú 
 o - o 
-nírẹ̀tí - ní r̀ẹ tí 
+nírẹ̀tí - ní rẹ̀ tí 
 ayò - a yò 
 Bòyá - Bò yá 
 o - o 
@@ -10000,7 +10000,7 @@ dani - da ni
 Ká - Ká 
 yáa - yá a 
 máyé - má yé 
-pẹ̀lẹé - p̀ẹ lẹ é 
+pẹ̀lẹé - pẹ̀ lẹ é 
 pùtù - pù tù 
 Bòyá - Bò yá 
 aya - a ya 
@@ -10008,7 +10008,7 @@ rẹ - rẹ
 ṣàìsí - ṣà ì sí 
 ọkọ - ọ kọ 
 rẹ - rẹ 
-yúnsẹ̀ - yún s̀ẹ 
+yúnsẹ̀ - yún sẹ̀ 
 Òrìṣà - Ò rì ṣà 
 sì - sì 
 ṣòbí - ṣò bí 
@@ -10018,7 +10018,7 @@ ní - ní
 Lé - Lé 
 fi - fi 
 O - O 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 tú - tú 
 gbòrun - gbò run 
 lọ - lọ 
@@ -10026,12 +10026,12 @@ Má - Má
 ronú - ro nú 
 mẹ - mẹ 
 òré - ò ré 
-Édùmàrẹ̀ - É dù mà r̀ẹ 
+Édùmàrẹ̀ - É dù mà rẹ̀ 
 tú - tú 
 n - n 
-sebẹ̀ - se b̀ẹ 
+sebẹ̀ - se bẹ̀ 
 Kò - Kò 
-yẹsẹ̀ - yẹ s̀ẹ 
+yẹsẹ̀ - yẹ sẹ̀ 
 nígbà - ní gbà 
 kan - kan 
 Bòyá - Bò yá 
@@ -10044,9 +10044,9 @@ Bòyá - Bò yá
 òwò - ò wò 
 lò - lò 
 ọ - ọ 
-mọlẹ̀ - mọ l̀ẹ 
+mọlẹ̀ - mọ lẹ̀ 
 bí - bí 
-ẹ̀bìtì - ̀ẹ bì tì 
+ẹ̀bìtì - ẹ̀ bì tì 
 àìlòwé - à ì lò wé 
 léwé - lé wé 
 lò - lò 
@@ -10059,7 +10059,7 @@ SI - SI
 Bùkáátá - Bù ká á tá 
 rẹ - rẹ 
 sì - sì 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 pàpòjù - pà pò jù 
 Má - Má 
 roitú - ro i tú 
@@ -10081,9 +10081,9 @@ ronú - ro nú
 sì - sì 
 bẹ - bẹ 
 sunkún - sun kún 
-àìlésẹ̀ - à ì lé s̀ẹ 
+àìlésẹ̀ - à ì lé sẹ̀ 
 Ìwọ - Ì wọ 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 wọ - wọ 
 bùbá - bù bá 
 ìdààmú - ì dà à mú 
@@ -10104,7 +10104,7 @@ sì - sì
 bẹ - bẹ 
 rì - rì 
 ya - ya 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 bí - bí 
 ọwàrà - ọ wà rà 
 òjò - ò jò 
@@ -10166,7 +10166,7 @@ gbéwàkíwà - gbé wà kí wà
 wò - wò 
 Bẹẹ - Bẹ ẹ 
 bá - bá 
-rẹ̀ni - r̀ẹ ni 
+rẹ̀ni - rẹ̀ ni 
 fí - fí 
 ṣàbòsí - ṣà bò sí 
 Wọn - Wọn 
@@ -10186,7 +10186,7 @@ lòrí - lò rí
 ọlòrò - ọ lò rò 
 kì - kì 
 í - í 
-kọsẹ̀ - kọ s̀ẹ 
+kọsẹ̀ - kọ sẹ̀ 
 wọn - wọn 
 Àsúnsí - À sún sí 
 wọn - wọn 
@@ -10211,19 +10211,19 @@ wọlé - wọ lé
 lọ - lọ 
 Àbòsí - À bò sí 
 lé - lé 
-lẹ̀gẹ̀ - l̀ẹ g̀ẹ 
-yíyẹ̀ - yí ỳẹ 
+lẹ̀gẹ̀ - lẹ̀ gẹ̀ 
+yíyẹ̀ - yí yẹ̀ 
 Wọn - Wọn 
 a - a 
-yẹ̀gẹ̀ - ỳẹ g̀ẹ 
+yẹ̀gẹ̀ - yẹ̀ gẹ̀ 
 títí - tí tí 
 Wọn - Wọn 
 a - a 
 yọ - yọ 
 kaṣan - ka ṣan 
-lésẹ̀ - lé s̀ẹ 
+lésẹ̀ - lé sẹ̀ 
 bí - bí 
-ìyẹ̀kan - ì ỳẹ kan 
+ìyẹ̀kan - ì yẹ̀ kan 
 pépéyẹ - pé pé yẹ 
 Bí - Bí 
 wọn - wọn 
@@ -10239,8 +10239,8 @@ sí - sí
 kọrò - kọ rò 
 Wọn - Wọn 
 sì - sì 
-lẹ̀ - l̀ẹ 
-pẹ̀dẹ̀ - p̀ẹ d̀ẹ 
+lẹ̀ - lẹ̀ 
+pẹ̀dẹ̀ - pẹ̀ dẹ̀ 
 dà - dà 
 tán - tán 
 yánányán - yá nán yán 
@@ -10260,7 +10260,7 @@ Wọn - Wọn
 a - a 
 máa - má a 
 kẹ - kẹ 
-bọlẹ̀ - bọ l̀ẹ 
+bọlẹ̀ - bọ lẹ̀ 
 káàkiri - ká à ki ri 
 ni - ni 
 Bo - Bo 
@@ -10290,15 +10290,15 @@ ri - ri
 ṣe - ṣe 
 Bi - Bi 
 pàdé - pà dé 
-lẹ̀sẹ̀ò - l̀ẹ s̀ẹ ò 
+lẹ̀sẹ̀ò - lẹ̀ sẹ̀ ò 
 gbẹjì - gbẹ jì 
 lásán - lá sán 
 Wọn - Wọn 
 a - a 
-téẹ̀ṣọ - té ̀ẹ ṣọ 
+téẹ̀ṣọ - té ẹ̀ ṣọ 
 àbòsí - à bò sí 
-sílẹ̀ - sí l̀ẹ 
-Akẹ̀kòẹ̀ - A k̀ẹ kò ̀ẹ 
+sílẹ̀ - sí lẹ̀ 
+Akẹ̀kòẹ̀ - A kẹ̀ kò ẹ̀ 
 le - le 
 pàwé - pà wé 
 tì - tì 
@@ -10312,7 +10312,7 @@ pàtẹ - pà tẹ
 Kí - Kí 
 wọn - wọn 
 pàtẹ - pà tẹ 
-ìrégbẹ̀ - ì ré gb̀ẹ 
+ìrégbẹ̀ - ì ré gbẹ̀ 
 Ohun - O hun 
 gbogbo - gbo gbo 
 ní - ní 
@@ -10326,7 +10326,7 @@ bá - bá
 títí - tí tí 
 Wọn - Wọn 
 a - a 
-dọwẹ̀ékẹ̀ - dọ ẁẹ é k̀ẹ 
+dọwẹ̀ékẹ̀ - dọ wẹ̀ é kẹ̀ 
 Wọn - Wọn 
 a - a 
 ṣubu - ṣu bu 
@@ -10348,12 +10348,12 @@ nítorí - ní to rí
 ìwàkìiwà - ì wà kì i wà 
 tòun - tò u n 
 tòrò - tò rò 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 Ọmọ - Ọ mọ 
 ìyá - ì yá 
 ni - ni 
 wòn - wò wòn 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 àbòsí - à bò sí 
 Jéwò - Jé wò 
 nínú - ní nú 
@@ -10361,7 +10361,7 @@ nínú - ní nú
 Jáwọ - Já wọ 
 nínú - ní nú 
 òrò - ò rò 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 Nítorí - Ní to rí 
 a - a 
 máa - má a 
@@ -10377,10 +10377,10 @@ fara - fa ra
 wéyẹ - wé yẹ 
 igún - i gún 
 bára - bá ra 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lọrùn - lọ rùn 
 ààrò - à à rò 
-Ọgbẹ̀rì - Ọ gb̀ẹ rì 
+Ọgbẹ̀rì - Ọ gbẹ̀ rì 
 fara - fa ra 
 wáwo - wá wo 
 Mo - Mo 
@@ -10391,7 +10391,7 @@ rìn - rìn
 Ṣìgìdì - Ṣì gì dì 
 fara - fa ra 
 wénìyàn - wé nì yàn 
-níjẹ̀sí - ní j̀ẹ sí 
+níjẹ̀sí - ní jẹ̀ sí 
 Ò - Ò 
 bẹludò - bẹ lu dò 
 sì - sì 
@@ -10406,8 +10406,8 @@ bí - bí
 àdán - à dán 
 Dájúṣáká - Dá jú ṣá ká 
 ẹnu - ẹ nu 
-rẹ̀ - r̀ẹ 
-pòjẹ̀ - pò j̀ẹ 
+rẹ̀ - rẹ̀ 
+pòjẹ̀ - pò jẹ̀ 
 Ewúré - E wú ré 
 té - té 
 fara - fa ra 
@@ -10415,7 +10415,7 @@ wájá - wá já
 A - A 
 dẹran - dẹ ran 
 àmú - à mú 
-bòrẹ̀lẹ̀ - bò r̀ẹ l̀ẹ 
+bòrẹ̀lẹ̀ - bò rẹ̀ lẹ̀ 
 àgùtàn - à gù tàn 
 tò - tò 
 fẹẹ - fẹ ẹ 
@@ -10425,8 +10425,8 @@ bí - bí
 A - A 
 dẹran - dẹ ran 
 àmú - à mú 
-ṣẹ̀tùtù - ṣ̀ẹ tù tù 
-Ọrẹ̀ - Ọ r̀ẹ 
+ṣẹ̀tùtù - ṣẹ̀ tù tù 
+Ọrẹ̀ - Ọ rẹ̀ 
 rẹ - rẹ 
 fì - fì 
 sá - sá 
@@ -10436,11 +10436,11 @@ iṣẹ - i ṣẹ
 kan - kan 
 kì - kì 
 í - í 
-yẹ̀ - ỳẹ 
+yẹ̀ - yẹ̀ 
 lẹwò - lẹ wò 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 wò - wò 
-Ìmùlẹ̀ - Ì mù l̀ẹ 
+Ìmùlẹ̀ - Ì mù lẹ̀ 
 re - re 
 a - a 
 máa - má a 
@@ -10449,7 +10449,7 @@ jẹ - jẹ
 Ẹnì - Ẹ nì 
 kan - kan 
 kì - kì 
-íbẹ̀ẹ̀rẹ̀ - í b̀ẹ ̀ẹ r̀ẹ 
+íbẹ̀ẹ̀rẹ̀ - í bẹ̀ ẹ̀ rẹ̀ 
 Lágbájá - Lá gbá já 
 dákun - dá kun 
 má - má 
@@ -10478,7 +10478,7 @@ péré - pé ré
 le - le 
 òhún - ò hún 
 nìjìyà - nì jì yà 
-ẹ̀ṣẹ̀ - ̀ẹ ṣ̀ẹ 
+ẹ̀ṣẹ̀ - ẹ̀ ṣẹ̀ 
 Léjò - Lé jò 
 pípé - pí pé 
 aṣọ - a ṣọ 
@@ -10490,7 +10490,7 @@ o - o
 ní - ní 
 Lònà - Lò nà 
 jínjìn - jín jìn 
-ẹ̀wù - ̀ẹ wù 
+ẹ̀wù - ẹ̀ wù 
 rẹ - rẹ 
 ò - ò 
 pé - pé 
@@ -10534,7 +10534,7 @@ wo - wo
 ibi - i bi 
 omi - o mi 
 ọrò - ọ rò 
-gbẹ̀ - gb̀ẹ 
+gbẹ̀ - gbẹ̀ 
 rì - rì 
 ṣàn - ṣàn 
 Àfarawé - À fa ra wé 
@@ -10563,15 +10563,15 @@ oge - o ge
 N - N 
 lo - lo 
 bá - bá 
-dẹ̀ẹ̀yàn - d̀ẹ ̀ẹ yàn 
+dẹ̀ẹ̀yàn - dẹ̀ ẹ̀ yàn 
 tí - tí 
 jalò - ja lò 
 ní - ní 
 dúníyàn - dú ní yàn 
-Àṣẹ̀yìnwáàṣẹ̀yànbò - À ṣ̀ẹ yìn wá à ṣ̀ẹ yàn bò 
+Àṣẹ̀yìnwáàṣẹ̀yànbò - À ṣẹ̀ yìn wá à ṣẹ̀ yàn bò 
 bọwọ - bọ wọ 
 bá - bá 
-tẹ̀ - t̀ẹ 
+tẹ̀ - tẹ̀ 
 Ayé - A yé 
 a - a 
 pé - pé 
@@ -10586,7 +10586,7 @@ gbọta - gbọ ta
 Ojú - O jú 
 tìẹ - tì ẹ 
 O - O 
-jẹ̀ka - j̀ẹ ka 
+jẹ̀ka - jẹ̀ ka 
 àbámò - à bá mò 
 Ọré - Ọ ré 
 bò - bò 
@@ -10604,16 +10604,16 @@ sinmi - sin mi
 ní - ní 
 ṣíṣe - ṣí ṣe 
 O - O 
-jẹ̀rẹ̀ - j̀ẹ r̀ẹ 
+jẹ̀rẹ̀ - jẹ̀ rẹ̀ 
 ìwà - ì wà 
 bò - bò 
 bá - bá 
 yá - yá 
-Ẹlẹ̀ṣẹ̀ - Ẹ l̀ẹ ṣ̀ẹ 
+Ẹlẹ̀ṣẹ̀ - Ẹ lẹ̀ ṣẹ̀ 
 kì - kì 
 í - í 
 lọ - lọ 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 láìjìyà - lá ì jì yà 
 O - O 
 rí - rí 
@@ -10629,7 +10629,7 @@ títí - tí tí
 ara - a ra 
 rẹ - rẹ 
 gbé - gbé 
-wùkẹ̀ - wù k̀ẹ 
+wùkẹ̀ - wù kẹ̀ 
 O - O 
 ò - ò 
 kúkú - kú kú 
@@ -10665,7 +10665,7 @@ méjì - mé jì
 O - O 
 le - le 
 ṣe - ṣe 
-bẹ̀ẹ̀ - b̀ẹ ̀ẹ 
+bẹ̀ẹ̀ - bẹ̀ ẹ̀ 
 lọ - lọ 
 sálákeji - sá lá ke ji 
 Bíyàwò - Bí yà wò 
@@ -10685,7 +10685,7 @@ bòbìnrin - bò bìn rin
 bá - bá 
 jowú - jo wú 
 lájẹjù - lá jẹ jù 
-bòdẹ̀dẹ̀ - bò d̀ẹ d̀ẹ 
+bòdẹ̀dẹ̀ - bò dẹ̀ dẹ̀ 
 jẹ - jẹ 
 ni - ni 
 náà - ná à 
@@ -10696,26 +10696,26 @@ wéra - wé ra
 ẹni - ẹ ni 
 kì - kì 
 í - í 
-ṣẹ̀wà - ṣ̀ẹ wà 
+ṣẹ̀wà - ṣẹ̀ wà 
 ibi - i bi 
 Ki - Ki 
 i - i 
-ṣẹ̀ṣẹ̀ - ṣ̀ẹ ṣ̀ẹ 
+ṣẹ̀ṣẹ̀ - ṣẹ̀ ṣẹ̀ 
 Ṣùgbún - Ṣù gbún 
 bòròkìnní - bò rò kìn ní 
 àṣeṣá - à ṣe ṣá 
 Ní - Ní 
 í - í 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 dìwòfà - dì wò fà 
 RÌBÁ - RÌ BÁ 
 má - má 
 pòfòlé - pò fò lé 
 Kòkòrògbénàkanmìṣẹnuwújé - Kò kò rò gbé nà kan mì ṣẹ nu wú jé 
-Agbàlọwòméẹ̀rí - A gbà lọ wò mé ̀ẹ rí 
+Agbàlọwòméẹ̀rí - A gbà lọ wò mé ẹ̀ rí 
 Ọlẹ - Ọ lẹ 
 Onírìbá - O ní rì bá 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 O - O 
 ṣe - ṣe 
 wén - wé wén 
@@ -10730,10 +10730,10 @@ ni - ni
 O - O 
 kòkọ - kò kọ 
 gbowé - gbo wé 
-àbẹ̀télẹ̀ - à b̀ẹ té l̀ẹ 
-NjỌbaÒkẹ̀ - N jỌ ba Ò k̀ẹ 
+àbẹ̀télẹ̀ - à bẹ̀ té lẹ̀ 
+NjỌbaÒkẹ̀ - N jỌ ba Ò kẹ̀ 
 gbarúu - gba rú u 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lòwéò - lò wé ò 
 rẹ - rẹ 
 Kò - Kò 
@@ -10744,10 +10744,10 @@ o - o
 fi - fi 
 mí - mí 
 Njẹ - N jẹ 
-ÒòṣàÒkẹ̀ - Ò ò ṣà Ò k̀ẹ 
-bẹ̀ẹ̀rẹ̀ - b̀ẹ ̀ẹ r̀ẹ 
+ÒòṣàÒkẹ̀ - Ò ò ṣà Ò kẹ̀ 
+bẹ̀ẹ̀rẹ̀ - bẹ̀ ẹ̀ rẹ̀ 
 owo - o wo 
-àbẹ̀télẹ̀ - à b̀ẹ té l̀ẹ 
+àbẹ̀télẹ̀ - à bẹ̀ té lẹ̀ 
 Kò - Kò 
 fún - fún 
 ọ - ọ 
@@ -10785,7 +10785,7 @@ lo - lo
 ràn - ràn 
 lẹwọ - lẹ wọ 
 Ojú - O jú 
-abéẹ̀nú - a bé ̀ẹ nú 
+abéẹ̀nú - a bé ẹ̀ nú 
 lo - lo 
 fi - fi 
 í - í 
@@ -10796,7 +10796,7 @@ abo - a bo
 Bí - Bí 
 ò - ò 
 bá - bá 
-tẹ̀tẹ - t̀ẹ tẹ 
+tẹ̀tẹ - tẹ̀ tẹ 
 gbà - gbà 
 Nṣe - N ṣe 
 lò - lò 
@@ -10813,11 +10813,11 @@ rìbá - rì bá
 gbigbà - gbi gbà 
 Ẹyin - Ẹ yin 
 ọlẹpàá - ọ lẹ pà á 
-ẹlẹkajẹ̀ka - ẹ lẹ ka j̀ẹ ka 
+ẹlẹkajẹ̀ka - ẹ lẹ ka jẹ̀ ka 
 Ẹ - Ẹ 
 ṣíwọ - ṣí wọ 
-àbẹ̀télẹ̀ - à b̀ẹ té l̀ẹ 
-ẹ̀yin - ̀ẹ yin 
+àbẹ̀télẹ̀ - à bẹ̀ té lẹ̀ 
+ẹ̀yin - ẹ̀ yin 
 ò - ò 
 mò - mò 
 pé - pé 
@@ -10836,15 +10836,15 @@ té - té
 fowé - fo wé 
 rìbá - rì bá 
 ogún - o gún 
-EPẹ̀yàn - E P̀ẹ yàn 
+EPẹ̀yàn - E Pẹ̀ yàn 
 tò - tò 
 fowo - fo wo 
 rìbá - rì bá 
 ra - ra 
 ọgbòn - ọ gbò n 
 Níjẹ - Ní jẹ 
-ẹ̀rẹ̀ - ̀ẹ r̀ẹ 
-sẹ̀ - s̀ẹ 
+ẹ̀rẹ̀ - ẹ̀ rẹ̀ 
+sẹ̀ - sẹ̀ 
 bá - bá 
 yọ - yọ 
 Dandan - Dan dan 
@@ -10891,7 +10891,7 @@ gbọ - gbọ
 Kò - Kò 
 o - o 
 ké - ké 
-gbàjarẹ̀ - gbà ja r̀ẹ 
+gbàjarẹ̀ - gbà ja rẹ̀ 
 ki - ki 
 gbogbo - gbo gbo 
 dúníyàn - dú ní yàn 
@@ -10908,14 +10908,14 @@ ké - ké
 Té - Té 
 o - o 
 fádájẹò - fá dá jẹ ò 
-ìbòọlẹ̀ - ì bò ọ l̀ẹ 
+ìbòọlẹ̀ - ì bò ọ lẹ̀ 
 o - o 
 fágbẹjọrò - fá gbẹ jọ rò 
 ní - ní 
 ìbònú - ì bò nú 
 o - o 
 fákòwé - fá kò wé 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 Dandan - Dan dan 
 ni - ni 
 o - o 
@@ -10929,12 +10929,12 @@ kì - kì
 ṣọnà - ṣọ nà 
 àtiyọ - à ti yọ 
 Ọba - Ọ ba 
-lòkẹ̀ - lò k̀ẹ 
+lòkẹ̀ - lò kẹ̀ 
 Ìyà - Ì yà 
 rẹ - rẹ 
 á - á 
 wá - wá 
-dẹ̀jirẹ - d̀ẹ ji rẹ 
+dẹ̀jirẹ - dẹ̀ ji rẹ 
 O - O 
 fún - fún 
 wọn - wọn 
@@ -10961,7 +10961,7 @@ fún - fún
 ni - ni 
 ní - ní 
 rìbá - rì bá 
-Àtẹ̀ẹyàn - À t̀ẹ ẹ yàn 
+Àtẹ̀ẹyàn - À tẹ̀ ẹ yàn 
 tò - tò 
 fi - fi 
 Ọdaràn - Ọ da ràn 
@@ -10973,8 +10973,8 @@ lùfin - lù fin
 ìlú - ì lú 
 Wéòn - Wé ò n 
 tún - tún 
-ṣẹ̀ - ṣ̀ẹ 
-sÒdùmàrẹ̀ - sÒ dù mà r̀ẹ 
+ṣẹ̀ - ṣẹ̀ 
+sÒdùmàrẹ̀ - sÒ dù mà rẹ̀ 
 WÒBÌÀ - WÒ BÌ À 
 Lágbajá - Lá gba já 
 kú - kú 
@@ -10983,14 +10983,14 @@ létí - lé tí
 lé - lé 
 pa - pa 
 lágbájá - lá gbá já 
-Tàmẹ̀dù - Tà m̀ẹ dù 
-ṣílẹ̀ - ṣí l̀ẹ 
+Tàmẹ̀dù - Tà mẹ̀ dù 
+ṣílẹ̀ - ṣí lẹ̀ 
 wò - wò 
 Wọn - Wọn 
 nínú - ní nú 
 ẹmu - ẹ mu 
 ni - ni 
-májẹ̀lé - má j̀ẹ lé 
+májẹ̀lé - má jẹ̀ lé 
 wa - wa 
 Ṣùgbún - Ṣù gbún 
 ibi - i bi 
@@ -11000,7 +11000,7 @@ ko - ko
 lọwò - lọ wò 
 ti - ti 
 í - í 
-bẹ̀dá - b̀ẹ dá 
+bẹ̀dá - bẹ̀ dá 
 Ohun - O hun 
 ayé - a yé 
 bá - bá 
@@ -11066,7 +11066,7 @@ ti - ti
 tán - tán 
 o - o 
 búṣìkà - bú ṣì kà 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 rìn - rìn 
 O - O 
 sì - sì 
@@ -11077,7 +11077,7 @@ Bé - Bé
 o - o 
 bá - bá 
 wòbìà - wò bì à 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 jẹun - jẹ u n 
 pò - pò 
 Páàoòniiyò - Pá à o ò ni i yò 
@@ -11107,8 +11107,8 @@ kì - kì
 ṣàfira - ṣà fi ra 
 Wọn - Wọn 
 a - a 
-bùkẹ̀lẹ̀ - bù k̀ẹ l̀ẹ 
-kẹ̀ẹ̀ṣìkẹ̀ẹ̀ṣì - k̀ẹ ̀ẹ ṣì k̀ẹ ̀ẹ ṣì 
+bùkẹ̀lẹ̀ - bù kẹ̀ lẹ̀ 
+kẹ̀ẹ̀ṣìkẹ̀ẹ̀ṣì - kẹ̀ ẹ̀ ṣì kẹ̀ ẹ̀ ṣì 
 bí - bí 
 orí - o rí 
 àbíkú - à bí kú 
@@ -11122,7 +11122,7 @@ bá - bá
 ti - ti 
 ròúnjẹ - rò ú n jẹ 
 Wọbìà - Wọ bì à 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 ò - ò 
 wúlò - wú lò 
 Bébìnrin - Bé bìn rin 
@@ -11147,7 +11147,7 @@ bí - bí
 Ọkùnrin - Ọ kùn rin 
 wòbìà - wò bì à 
 Bò - Bò 
-kalẹ̀ - ka l̀ẹ 
+kalẹ̀ - ka lẹ̀ 
 tán - tán 
 fojú - fo jú 
 kòrẹ - kò rẹ 
@@ -11159,18 +11159,18 @@ ranjú - ran jú
 bíi - bí i 
 kinla - kin la 
 Wòbìà - Wò bì à 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 alárùn - a lá rùn 
 púpò - pú pò 
 Wòbìà - Wò bì à 
 waṣu - wa ṣu 
-wẹ̀gùn - ẁẹ gùn 
+wẹ̀gùn - wẹ̀ gùn 
 Ò - Ò 
-jẹ̀kòkérò - j̀ẹ kò ké rò 
+jẹ̀kòkérò - jẹ̀ kò ké rò 
 Jagunlabí - Ja gun la bí 
 tún - tún 
 lọ - lọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 wébù - wé bù 
 sunjẹ - sun jẹ 
 fìwà - fì wà 
@@ -11183,7 +11183,7 @@ re - re
 Kútọnu - Kú tọ nu 
 torí - to rí 
 ìṣù - ì ṣù 
-ẹ̀bà - ̀ẹ bà 
+ẹ̀bà - ẹ̀ bà 
 tọpa - tọ pa 
 onídìísù - o ní dì í sù 
 dé - dé 
@@ -11198,11 +11198,11 @@ fún - fún
 wọn - wọn 
 lẹgba - lẹ gba 
 Bí - Bí 
-màjẹ̀ṣín - mà j̀ẹ ṣín 
+màjẹ̀ṣín - mà jẹ̀ ṣín 
 bá - bá 
 ri - ri 
-jàjẹẹ̀ṣíwo - jà jẹ ̀ẹ ṣí wo 
-Kẹ̀bí - K̀ẹ bí 
+jàjẹẹ̀ṣíwo - jà jẹ ẹ̀ ṣí wo 
+Kẹ̀bí - Kẹ̀ bí 
 kénu - ké nu 
 borúu - bo rú u 
 wọn - wọn 
@@ -11228,7 +11228,7 @@ n - n
 kiri - ki ri 
 Mo - Mo 
 mọbi - mọ bi 
-ẹ̀mi - ̀ẹ mi 
+ẹ̀mi - ẹ̀ mi 
 í - í 
 kiri - ki ri 
 í - í 
@@ -11280,11 +11280,11 @@ Kútúwenji - Kú tú we n ji
 Ká - Ká 
 máa - má a 
 rìnrìn - rìn rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 Bí - Bí 
 ẹni - ẹ ni 
 n - n 
-tẹ̀lé - t̀ẹ lé 
+tẹ̀lé - tẹ̀ lé 
 asínwín - a sín wín 
 Ká - Ká 
 tibi - ti bi 
@@ -11302,7 +11302,7 @@ mẹta - mẹ ta
 le - le 
 tibi - ti bi 
 ìrìn - ì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 Kò - Kò 
 délé - dé lé 
 ẹni - ẹ ni 
@@ -11333,7 +11333,7 @@ lásán - lá sán
 Kí - Kí 
 wọn - wọn 
 ṣe - ṣe 
-kẹ̀gbẹẹ - k̀ẹ gbẹ ẹ 
+kẹ̀gbẹẹ - kẹ̀ gbẹ ẹ 
 láabi - lá a bi 
 Wọn - Wọn 
 a - a 
@@ -11341,17 +11341,17 @@ kégbéẹ - ké gbé ẹ
 ọlétí - ọ lé tí 
 Wọn - Wọn 
 a - a 
-kẹ̀gbé - k̀ẹ gbé 
+kẹ̀gbé - kẹ̀ gbé 
 ẹlẹmu - ẹ lẹ mu 
 sì - sì 
-lẹ̀ - l̀ẹ 
-tibẹ̀ - ti b̀ẹ 
+lẹ̀ - lẹ̀ 
+tibẹ̀ - ti bẹ̀ 
 dáwùjọ - dá wù jọ 
-ẹ̀tẹ - ̀ẹ tẹ 
+ẹ̀tẹ - ẹ̀ tẹ 
 Kí - Kí 
 wọn - wọn 
 ṣe - ṣe 
-bẹẹ̀ - bẹ ̀ẹ 
+bẹẹ̀ - bẹ ẹ̀ 
 gbẹwù - gbẹ wù 
 àbùkù - à bù kù 
 wò - wò 
@@ -11375,11 +11375,11 @@ ní - ní
 láárí - lá á rí 
 Kò - Kò 
 kòkọ - kò kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 sínú - sí nú 
 ìjàngbòn - ì jàn gbò n 
 Bàrìnrìn - Bà rìn rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 bá - bá 
 fòni - fò ni 
 relé - re lé 
@@ -11387,7 +11387,7 @@ Táyé - Tá yé
 Ilé - I lé 
 Kẹyìndé - Kẹ yìn dé 
 ni - ni 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 bò - bò 
 dòla - dò la 
 Wọn - Wọn 
@@ -11400,28 +11400,28 @@ gbọkọ - gbọ kọ
 Wọn - Wọn 
 a - a 
 fìrìn - fì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 fi - fi 
 bẹ - bẹ 
-lẹ̀ṣẹ̀ - l̀ẹ ṣ̀ẹ 
+lẹ̀ṣẹ̀ - lẹ̀ ṣẹ̀ 
 tú - tú 
 yìgì - yì gì 
 Ìrìn - Ì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 ni - ni 
 rìkíṣí - rì kí ṣí 
 Ìrìn - Ì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 náà - ná à 
 lò - lò 
-lẹ̀tẹ̀ - l̀ẹ t̀ẹ 
+lẹ̀tẹ̀ - lẹ̀ tẹ̀ 
 Ìrìn - Ì rìn 
 náà - ná à 
 ní - ní 
 ímú - í mú 
 wọn - wọn 
 kẹnu - kẹ nu 
-bọlẹ̀ - bọ l̀ẹ 
+bọlẹ̀ - bọ lẹ̀ 
 káàkiri - ká à ki ri 
 ẹjọ - ẹ jọ 
 ní - ní 
@@ -11432,8 +11432,8 @@ wọn - wọn
 gbogbo - gbo gbo 
 kì - kì 
 í - í 
-ṣẹ̀yìn - ṣ̀ẹ yìn 
-arìnrìnàrẹ̀ - a rìn rì nà r̀ẹ 
+ṣẹ̀yìn - ṣẹ̀ yìn 
+arìnrìnàrẹ̀ - a rìn rì nà rẹ̀ 
 Bọmọdé - Bọ mọ dé 
 bá - bá 
 yalágídí - ya lá gí dí 
@@ -11449,7 +11449,7 @@ Bọmọdé - Bọ mọ dé
 bá - bá 
 n - n 
 rìnrìn - rìn rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 Ká - Ká 
 yáa - yá a 
 mú - mú 
@@ -11457,7 +11457,7 @@ pàṣán - pà ṣán
 nà - nà 
 wọn - wọn 
 Ìrìn - Ì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 kì - kì 
 ímú - í mú 
 wọn - wọn 
@@ -11469,9 +11469,9 @@ ti - ti
 í - í 
 yakiriJẹbọ - ya ki ri Jẹ bọ 
 Kò - Kò 
-tárìnrìnàrẹ̀ - tá rìn rì nà r̀ẹ 
+tárìnrìnàrẹ̀ - tá rìn rì nà rẹ̀ 
 ò - ò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 fà - fà 
 Bí - Bí 
 wọn - wọn 
@@ -11496,7 +11496,7 @@ IKÚ - I KÚ
 AWÒOLỌWÒ - A WÒ O LỌ WÒ 
 Etí - E tí 
 forí - fo rí 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 Orí - O rí 
 rí - rí 
 tofé - to fé 
@@ -11522,7 +11522,7 @@ pé - pé
 Iná - I ná 
 ní - ní 
 í - í 
-gbẹ̀yìn - gb̀ẹ yìn 
+gbẹ̀yìn - gbẹ̀ yìn 
 eéfín - e é fín 
 láàrin - lá à rin 
 oko - o ko 
@@ -11530,7 +11530,7 @@ Eérú - E é rú
 ní - ní 
 í - í 
 parí - pa rí 
-ẹgbẹẹgbẹ̀rún - ẹ gbẹ ẹ gb̀ẹ rún 
+ẹgbẹẹgbẹ̀rún - ẹ gbẹ ẹ gbẹ̀ rún 
 ògùṣò - ò gù ṣò 
 Ikú - I kú 
 mÁwo - mÁ wo 
@@ -11539,14 +11539,14 @@ bùgbé - bù gbé
 rìlá - rì lá 
 Kò - Kò 
 wí - wí 
-fẹ̀nìkan - f̀ẹ nì kan 
+fẹ̀nìkan - fẹ̀ nì kan 
 kò - kò 
 mú - mú 
 baba - ba ba 
 lọ - lọ 
-Oyẹ̀níyì - O ỳẹ ní yì 
-túkandẹ̀kan - tú kan d̀ẹ kan 
-Afẹ̀rín - A f̀ẹ rín 
+Oyẹ̀níyì - O yẹ̀ ní yì 
+túkandẹ̀kan - tú kan dẹ̀ kan 
+Afẹ̀rín - A fẹ̀ rín 
 múséparíìjààtéṣín - mú sé pa rí ì jà à té ṣín 
 baba - ba ba 
 Tòkunbò - Tò kun bò 
@@ -11555,7 +11555,7 @@ pabéré - pa bé ré
 tò - tò 
 pokinni - po kin ni 
 Ikú - I kú 
-pàjòyẹ̀ - pà jò ỳẹ 
+pàjòyẹ̀ - pà jò yẹ̀ 
 Ìjáyẹ - Ì já yẹ 
 jò - jò 
 kò - kò 
@@ -11574,11 +11574,11 @@ kò - kò
 ni - ni 
 ílọ - í lọ 
 Iku - I ku 
-pẹ̀rù - p̀ẹ rù 
+pẹ̀rù - pẹ̀ rù 
 Ikú - I kú 
 pàhàyá - pà hà yá 
 Ikú - I kú 
-pajẹ̀ - pa j̀ẹ 
+pajẹ̀ - pa jẹ̀ 
 Ika - I ka 
 sì - sì 
 pọta - pọ ta 
@@ -11586,7 +11586,7 @@ pọta - pọ ta
 Yorùbá - Yo rù bá 
 ẹ - ẹ 
 kú - kú 
-ìdẹ̀lé - ì d̀ẹ lé 
+ìdẹ̀lé - ì dẹ̀ lé 
 Awòlọwò - A wò lọ wò 
 Ikú - I kú 
 mÁwo - mÁ wo 
@@ -11601,7 +11601,7 @@ wa - wa
 Aṣénkai - A ṣé n ka i 
 kì - kì 
 í - í 
-gbébẹ̀ - gbé b̀ẹ 
+gbébẹ̀ - gbé bẹ̀ 
 Iìiwì - I ì i wì 
 ọmọ - ọ mọ 
 Ẹfúnyẹlá - Ẹ fún yẹ lá 
@@ -11625,7 +11625,7 @@ dìgba - dì gba
 ikú - i kú 
 là - là 
 á - á 
-dẹ̀re - d̀ẹ re 
+dẹ̀re - dẹ̀ re 
 Ikú - I kú 
 mÁwo - mÁ wo 
 lọ - lọ 
@@ -11633,16 +11633,16 @@ lọ - lọ
 Yorùbá - Yo rù bá 
 n - n 
 dárò - dá rò 
-Bònírẹ̀sé - Bò ní r̀ẹ sé 
+Bònírẹ̀sé - Bò ní rẹ̀ sé 
 ò - ò 
-tiẹ̀ - ti ̀ẹ 
+tiẹ̀ - ti ẹ̀ 
 fíngbá - fín gbá 
 mọ - mọ 
 Eyí - E yí 
 tò - tò 
 ti - ti 
 fín - fín 
-sílẹ̀ - sí l̀ẹ 
+sílẹ̀ - sí lẹ̀ 
 ò - ò 
 lee - le e 
 parun - pa run 
@@ -11667,7 +11667,7 @@ ogun - o gun
 Ìkénnẹ - Ì ké n nẹ 
 ṣe - ṣe 
 kísà - kí sà 
-fòrílẹ̀ẹdẹ̀ - fò rí l̀ẹ ẹ d̀ẹ 
+fòrílẹ̀ẹdẹ̀ - fò rí lẹ̀ ẹ dẹ̀ 
 O - O 
 fún - fún 
 tẹrútọmọ - tẹ rú tọ mọ 
@@ -11681,13 +11681,13 @@ sifẹ - si fẹ
 Ilé - I lé 
 Tẹlifíṣàn - Tẹ li fí ṣàn 
 àkọkọ - à kọ kọ 
-nílẹ̀ - ní l̀ẹ 
-ẹẹ̀yàn - ẹ ̀ẹ yàn 
+nílẹ̀ - ní lẹ̀ 
+ẹẹ̀yàn - ẹ ẹ̀ yàn 
 dúdú - dú dú 
 Ò - Ò 
 gbé - gbé 
 e - e 
-kalẹ̀ - ka l̀ẹ 
+kalẹ̀ - ka lẹ̀ 
 nílé - ní lé 
 Ìbàdàn - Ì bà dàn 
 Ikú - I kú 
@@ -11738,12 +11738,12 @@ rú - rú
 tí - tí 
 í - í 
 bara - ba ra 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 lérù - lé rù 
 Kò - Kò 
 o - o 
 káwọn - ká wọn 
-òẹ̀yàn - ò ̀ẹ yàn 
+òẹ̀yàn - ò ẹ̀ yàn 
 pàtàkì - pà tà kì 
 tò - tò 
 ti - ti 
@@ -11764,7 +11764,7 @@ kí - kí
 bàbá - bà bá 
 mi - mi 
 Òkò - Ò kò 
-Ìrẹ̀sé - Ì r̀ẹ sé 
+Ìrẹ̀sé - Ì rẹ̀ sé 
 ọkùnrin - ọ kùn rin 
 gbọngbọngbọn - gbọn gbọn gbọn 
 bí - bí 
@@ -11775,7 +11775,7 @@ Ajádemáàtánnílé - A já de má à tán ní lé
 wòyiírà - wò yi í rà 
 Ibi - I bi 
 mo - mo 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 sìn - sìn 
 dé - dé 
 ròé - rò é 
@@ -11813,11 +11813,11 @@ wà - wà
 lájùlé - lá jù lé 
 òrun - ò run 
 lásìkò - lá sì kò 
-Arẹ̀sà - A r̀ẹ sà 
+Arẹ̀sà - A rẹ̀ sà 
 N - N 
 ò - ò 
 sí - sí 
-lòkẹ̀ - lò k̀ẹ 
+lòkẹ̀ - lò kẹ̀ 
 Ṣùgbọn - Ṣù gbọn 
 mo - mo 
 ti - ti 
@@ -11848,12 +11848,12 @@ ile - i le
 rì - rì 
 jẹun - jẹ u n 
 patì - pa tì 
-lẹòọdẹ̀ - lẹ ò ọ d̀ẹ 
+lẹòọdẹ̀ - lẹ ò ọ dẹ̀ 
 lI - lI 
 Érò - É rò 
 oko - o ko 
 ri - ri 
-bùkẹ̀lẹ̀ - bù k̀ẹ l̀ẹ 
+bùkẹ̀lẹ̀ - bù kẹ̀ lẹ̀ 
 ràìdù - rà ì dù 
 bí - bí 
 orí - o rí 
@@ -11870,7 +11870,7 @@ n - n
 rò - rò 
 bí - bí 
 Mánà - Má nà 
-látòkẹ̀ - lá tò k̀ẹ 
+látòkẹ̀ - lá tò kẹ̀ 
 Bọmọdé - Bọ mọ dé 
 bá - bá 
 sunkún - sun kún 
@@ -11880,7 +11880,7 @@ là - là
 fi - fi 
 rẹmọ - rẹ mọ 
 Bí - Bí 
-màjẹ̀ṣín - mà j̀ẹ ṣín 
+màjẹ̀ṣín - mà jẹ̀ ṣín 
 bá - bá 
 jàjà - jà jà 
 rin - rin 
@@ -11903,11 +11903,11 @@ omi - o mi
 àárò - à á rò 
 fún - fún 
 gbogbo - gbo gbo 
-ìjòyẹ̀ - ì jò ỳẹ 
+ìjòyẹ̀ - ì jò yẹ̀ 
 Igba - I gba 
 wáá - wá á 
 ṣe - ṣe 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 yí - yí 
 síbi - sí bi 
 tí - tí 
@@ -11928,15 +11928,15 @@ wọn - wọn
 ba - ba 
 rénìyàn - ré nì yàn 
 dárú - dá rú 
-ẹ̀ - ̀ẹ 
+ẹ̀ - ẹ̀ 
 láṣà - lá ṣà 
 Kò - Kò 
-séẹ̀yàn - sé ̀ẹ yàn 
+séẹ̀yàn - sé ẹ̀ yàn 
 tò - tò 
 ri - ri 
 jẹun - jẹ u n 
 tOfun - tO fun 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 fì - fì 
 fé - fé 
 mò - mò 
@@ -11952,17 +11952,17 @@ mòkọ - mò kọ
 rojú - ro jú 
 kòkò - kò kò 
 ỌÒwún - Ọ Ò wún 
-ẹ̀ròjà - ̀ẹ rò jà 
+ẹ̀ròjà - ẹ̀ rò jà 
 lò - lò 
 máya - má ya 
-dẹ̀gbé - d̀ẹ gbé 
-ìrẹ̀ - ì r̀ẹ 
+dẹ̀gbé - dẹ̀ gbé 
+ìrẹ̀ - ì rẹ̀ 
 Láyé - Lá yé 
 Ẹyin - Ẹ yin 
-tanpẹ̀pé - tan p̀ẹ pé 
+tanpẹ̀pé - tan pẹ̀ pé 
 là - là 
 ri - ri 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 rẹsì - rẹ sì 
 Àgùtàn - À gù tàn 
 la - la 
@@ -11976,14 +11976,14 @@ lé - lé
 yí - yí 
 bìrìpé - bì rì pé 
 Témọ - Té mọ 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 fi - fi 
 jòòpo - jò ò po 
 Táráyé - Tá rá yé 
 fi - fi 
 béwúré - bé wú ré 
 jowú - jo wú 
-ẹ̀ẹ̀po - ̀ẹ ̀ẹ po 
+ẹ̀ẹ̀po - ẹ̀ ẹ̀ po 
 Kò - Kò 
 tò - tò 
 fọwé - fọ wé 
@@ -11998,7 +11998,7 @@ inú - i nú
 agolo - a go lo 
 wáá - wá á 
 dohun - do hun 
-àlẹ̀yínpe - à l̀ẹ yín pe 
+àlẹ̀yínpe - à lẹ̀ yín pe 
 Oúnjẹ - O ú Oún jẹ 
 wòn - wò wòn 
 Owé - O wé 
@@ -12007,7 +12007,7 @@ sí - sí
 lápò - lá pò 
 ọpọ - ọ pọ 
 adáríihunrun - a dá rí i hun run 
-Eẹ̀yàn - E ̀ẹ yàn 
+Eẹ̀yàn - E ẹ̀ yàn 
 ò - ò 
 sunwòn - sun wò n 
 Àfi - À fi 
@@ -12037,7 +12037,7 @@ tọmọ - tọ mọ
 LALÁBÀÁKÚ - LA LÁ BÀ Á KÚ 
 ẸWÀ - Ẹ WÀ 
 Àlàyé - À là yé 
-ÒỌrẹ̀ - Ò Ọ r̀ẹ 
+ÒỌrẹ̀ - Ò Ọ rẹ̀ 
 Ìlà - Ì là 
 Máyàmí - Má yà mí 
 Oríṣìí - O rí ṣì í 
@@ -12049,12 +12049,12 @@ tí - tí
 máa - má a 
 ri - ri 
 lò - lò 
-Ìbérẹ̀ - Ì bé r̀ẹ 
+Ìbérẹ̀ - Ì bé rẹ̀ 
 I - I 
 Kí - Kí 
 ni - ni 
 yòò - yò ò 
-ṣẹlẹ̀ - ṣẹ l̀ẹ 
+ṣẹlẹ̀ - ṣẹ lẹ̀ 
 si - si 
 awòn - a wò n 
 ewi - e wi 
@@ -12111,12 +12111,12 @@ fìdí - fì dí
 òun - ò u òun 
 àti - à ti 
 ewì - e wì 
-mújẹ̀ - mú j̀ẹ 
+mújẹ̀ - mú jẹ̀ 
 ẸGÀN - Ẹ GÀN 
 NI - NI 
 HẸẸ - HẸ Ẹ 
 àlàyé - à là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Àfélébù - À fé lé bù 
 Énìyàn - É nì yàn 
@@ -12144,7 +12144,7 @@ Iṣé - I ṣé
 ìwé - ì wé 
 Kí - Kí 
 ni - ni 
-ẹ̀rò - ̀ẹ rò 
+ẹ̀rò - ẹ̀ rò 
 ọkàn - ọ kàn 
 akéwì - a ké wì 
 tú - tú 
@@ -12161,8 +12161,8 @@ akéwì - a ké wì
 yìí - yì í 
 Júwe - Jú we 
 Ọméwálé - Ọ mé wá lé 
-pẹ̀lú - p̀ẹ lú 
-ẹ̀dẹ̀ - ̀ẹ d̀ẹ 
+pẹ̀lú - pẹ̀ lú 
+ẹ̀dẹ̀ - ẹ̀ dẹ̀ 
 tìrẹ - tì rẹ 
 Kin - Kin 
 ni - ni 
@@ -12180,7 +12180,7 @@ ni - ni
 orúkọ - o rú kọ 
 Ọmòọwálé - Ọ mò ọ wá lé 
 lẹkùnún - lẹ kù nún 
-rẹ̀ré - r̀ẹ ré 
+rẹ̀ré - rẹ̀ ré 
 tA - tA 
 Bee - Be e 
 TA - TA 
@@ -12188,7 +12188,7 @@ LOKÙN - LO KÙN
 TAA - TA A 
 LÒWÙ - LÒ WÙ 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlò - Ì lò 
 Ọmọ - Ọ mọ 
 aládé - a lá dé 
@@ -12230,7 +12230,7 @@ inú - i nú
 iwin - i win 
 n - n 
 gbé - gbé 
-ìsàlẹ̀ - ì sà l̀ẹ 
+ìsàlẹ̀ - ì sà lẹ̀ 
 okun - o kun 
 Ìlàsà - Ì là sà 
 Orúkọ - O rú kọ 
@@ -12248,7 +12248,7 @@ Oríṣìí - O rí ṣì í
 eku - e ku 
 kékeré - ké ke ré 
 kan - kan 
-Ìbéẹ̀rẹ̀ - Ì bé ̀ẹ r̀ẹ 
+Ìbéẹ̀rẹ̀ - Ì bé ẹ̀ rẹ̀ 
 Ki - Ki 
 ni - ni 
 ìlà - ì là 
@@ -12263,18 +12263,18 @@ mò - mò
 lọdọ - lọ dọ 
 Péléyẹjú - Pé lé yẹ jú 
 Irú - I rú 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 wo - wo 
 ni - ni 
 a - a 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 pe - pe 
 Péléyẹjú - Pé lé yẹ jú 
 bi - bi 
 a - a 
 ṣe - ṣe 
 ṣàlàyé - ṣà là yé 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ninú - ni nú 
 ewì - e wì 
 yìí - yì í 
@@ -12294,13 +12294,13 @@ kì - kì
 àkọkò - à kọ kò 
 ti - ti 
 akéwì - a ké wì 
-bẹ̀ẹ̀rẹ̀ - b̀ẹ ̀ẹ r̀ẹ 
+bẹ̀ẹ̀rẹ̀ - bẹ̀ ẹ̀ rẹ̀ 
 nìyí - nì yí 
 Àjọṣepò - À jọ ṣe pò 
 wo - wo 
 ni - ni 
 a - a 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 pé - pé 
 wà - wà 
 láàrin - lá à rin 
@@ -12328,12 +12328,12 @@ inú - i nú
 ewi - e wi 
 yìí - yì í 
 Kiílé - Ki í lé 
-ṣẹlẹ̀ - ṣẹ l̀ẹ 
+ṣẹlẹ̀ - ṣẹ lẹ̀ 
 tí - tí 
 ọba - ọ ba 
 fi - fi 
 gboro - gbo ro 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 òpá - ò pá 
 ti - ti 
 o - o 
@@ -12354,17 +12354,17 @@ tí - tí
 ọba - ọ ba 
 fi - fi 
 dáké - dá ké 
-fẹ̀mú - f̀ẹ mú 
-lẹ̀yìn - l̀ẹ yìn 
+fẹ̀mú - fẹ̀ mú 
+lẹ̀yìn - lẹ̀ yìn 
 tú - tú 
 ri - ri 
 òpá - ò pá 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Taniìwọ - Ta ni ì wọ 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 dá - dá 
 lébi - lé bi 
-ìṣẹ̀lẹ̀ - ì ṣ̀ẹ l̀ẹ 
+ìṣẹ̀lẹ̀ - ì ṣẹ̀ lẹ̀ 
 inú - i nú 
 ewì - e wì 
 yìí - yì í 
@@ -12373,25 +12373,25 @@ KÍ - KÍ
 ṢẸBI - ṢẸ BI 
 WỌN - WỌN 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Itún - I tún 
 Oríṣìí - O rí ṣì í 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 kan - kan 
-Abẹ̀ẹ̀rẹ - A b̀ẹ ̀ẹ rẹ 
+Abẹ̀ẹ̀rẹ - A bẹ̀ ẹ̀ rẹ 
 Oríṣìí - O rí ṣì í 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 kan - kan 
 Lágidigba - Lá gi di gba 
 Oríṣìí - O rí ṣì í 
-ìlẹ̀kẹ̀ - ì l̀ẹ k̀ẹ 
+ìlẹ̀kẹ̀ - ì lẹ̀ kẹ̀ 
 kan - kan 
-Ṣẹ̀ṣẹ̀dé - Ṣ̀ẹ ṣ̀ẹ dé 
+Ṣẹ̀ṣẹ̀dé - Ṣẹ̀ ṣẹ̀ dé 
 Ọlọdún - Ọ lọ dún 
 kìíní - kì í ní 
 ní - ní 
-iléẹ̀kọ - i lé ̀ẹ kọ 
+iléẹ̀kọ - i lé ẹ̀ kọ 
 gíga - gí ga 
 Ipò - I pò 
 ìkẹyìn - ì kẹ yìn 
@@ -12401,7 +12401,7 @@ tò - tò
 yege - ye ge 
 ìdánwò - ì dán wò 
 ní - ní 
-ileẹ̀kọ - i le ̀ẹ kọ 
+ileẹ̀kọ - i le ẹ̀ kọ 
 giga - gi ga 
 Rìsítì - Rì sí tì 
 Àtúnṣe - À tún ṣe 
@@ -12413,9 +12413,9 @@ bá - bá
 kùnà - kù nà 
 ní - ní 
 ilé - i lé 
-ẹ̀kọ - ̀ẹ kọ 
+ẹ̀kọ - ẹ̀ kọ 
 gíga - gí ga 
-Ìbẹ̀rẹ - Ì b̀ẹ rẹ 
+Ìbẹ̀rẹ - Ì bẹ̀ rẹ 
 lI - lI 
 Kí - Kí 
 lé - lé 
@@ -12426,11 +12426,11 @@ akọ - a kọ
 àti - à ti 
 oge - o ge 
 ọmọbìnrin - ọ mọ bìn rin 
-ṣẹ̀ṣẹ̀dé - ṣ̀ẹ ṣ̀ẹ dé 
+ṣẹ̀ṣẹ̀dé - ṣẹ̀ ṣẹ̀ dé 
 pò - pò 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 Àwọn - À wọn 
-akẹ̀kòò - a k̀ẹ kò ò 
+akẹ̀kòò - a kẹ̀ kò ò 
 wo - wo 
 lò - lò 
 máa - má a 
@@ -12468,7 +12468,7 @@ kòòkan - kò ò kan
 MI - MI 
 NÙ - NÙ 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Túúfúlù - Tú ú fú lù 
 Orúko - O rú ko 
@@ -12484,7 +12484,7 @@ máa - má a
 rì - rì 
 fẹ - fẹ 
 lu - lu 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 tí - tí 
 kì - kì 
 í - í 
@@ -12492,7 +12492,7 @@ fi - fi
 mònà - mò nà 
 ilé - i lé 
 mo - mo 
-Ìbẹ̀rẹ̀ - Ì b̀ẹ r̀ẹ 
+Ìbẹ̀rẹ̀ - Ì bẹ̀ rẹ̀ 
 mú - mú 
 ewì - e wì 
 to - to 
@@ -12522,7 +12522,7 @@ wé - wé
 ọmọ - ọ mọ 
 ÌPÀDÉ - Ì PÀ DÉ 
 NLÁ - N LÁ 
-Ìbéẹrẹ̀ - Ì bé ẹ r̀ẹ 
+Ìbéẹrẹ̀ - Ì bé ẹ rẹ̀ 
 Ṣàlàyé - Ṣà là yé 
 ní - ní 
 ṣòkí - ṣò kí 
@@ -12536,7 +12536,7 @@ akéwì - a ké wì
 Ipín - I pín 
 ni - ni 
 a - a 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 pín - pín 
 àwọn - à wọn 
 tí - tí 
@@ -12552,7 +12552,7 @@ ti - ti
 ú - ú 
 ṣe - ṣe 
 láyé - lá yé 
-bẹ̀ - b̀ẹ 
+bẹ̀ - bẹ̀ 
 ni - ni 
 ri - ri 
 ṣe - ṣe 
@@ -12560,7 +12560,7 @@ lérun - lé run
 Fìdí - Fì dí 
 àyọlò - à yọ lò 
 yìí - yì í 
-mújẹ̀ - mú j̀ẹ 
+mújẹ̀ - mú jẹ̀ 
 láti - lá ti 
 inú - i nú 
 ewì - e wì 
@@ -12581,25 +12581,25 @@ KỌ - KỌ
 LÉÉYÁN - LÉ É YÁN 
 NLÁ - N LÁ 
 Àhàyé - À hà yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Oríṣìí - O rí ṣì í 
 aṣọ - a ṣọ 
 tí - tí 
 owò - o wò 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 kò - kò 
 pò - pò 
 rárá - rá rá 
 Àsádìigbòlugi - À sá dì i gbò lu gi 
 burúkú - bu rú kú 
 tò - tò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 mú - mú 
 ki - ki 
-ẹ̀ẹ̀yàn - ̀ẹ ̀ẹ yàn 
+ẹ̀ẹ̀yàn - ẹ̀ ẹ̀ yàn 
 se - se 
-ẹ̀ṣé - ̀ẹ ṣé 
+ẹ̀ṣé - ẹ̀ ṣé 
 Sányán - Sán yán 
 Ẹyà - Ẹ yà 
 aṣọ - a ṣọ 
@@ -12633,7 +12633,7 @@ tí - tí
 akéwì - a ké wì 
 sọ - sọ 
 ìtàn - ì tàn 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 yìi - yì i 
 Kinni - Kin ni 
 ọba - ọ ba 
@@ -12664,9 +12664,9 @@ rere - re re
 wo - wo 
 ni - ni 
 akéwì - a ké wì 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 ní - ní 
-ẹ̀rẹ̀ - ̀ẹ r̀ẹ 
+ẹ̀rẹ̀ - ẹ̀ rẹ̀ 
 ìwà - ì wà 
 Ṣé - Ṣé 
 akéwì - a ké wì 
@@ -12680,7 +12680,7 @@ fi - fi
 bá - bá 
 ni - ni 
 wí - wí 
-Eẹ̀yàn - E ̀ẹ yàn 
+Eẹ̀yàn - E ẹ̀ yàn 
 ni - ni 
 akéwì - a ké wì 
 sọ - sọ 
@@ -12771,7 +12771,7 @@ kí - kí
 dá - dá 
 àwọn - à wọn 
 ewì - e wì 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 yìi - yì i 
 ÀTUBÒTÁN - À TU BÒ TÁN 
 Àlàyé - À là yé 
@@ -12781,22 +12781,22 @@ Kánrinkése - Kán rin ké se
 Fún - Fún 
 ìgbà - ì gbà 
 Àtubòtán - À tu bò tán 
-Ìgbẹ̀yìn - Ì gb̀ẹ yìn 
+Ìgbẹ̀yìn - Ì gbẹ̀ yìn 
 Hàlátà - Hà lá tà 
 Lárúbáwá - Lá rú bá wá 
 ni - ni 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 túmò - tú mò 
 sí - sí 
 fi - fi 
-ṣépẹ̀ - ṣé p̀ẹ 
+ṣépẹ̀ - ṣé pẹ̀ 
 Kín - Kín 
 ni - ni 
 akéwì - a ké wì 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 ní - ní 
 awọn - a wọn 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 tí - tí 
 a - a 
 bá - bá 
@@ -12811,7 +12811,7 @@ akéwì - a ké wì
 sọ - sọ 
 pé - pé 
 ọmọ - ọ mọ 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 máa - má a 
 rí - rí 
 gbà - gbà 
@@ -12819,7 +12819,7 @@ bò - bò
 bá - bá 
 ti - ti 
 dáyé - dá yé 
-Nliẹ̀rò - N li ̀ẹ rò 
+Nliẹ̀rò - N li ẹ̀ rò 
 tìrẹ - tì rẹ 
 kín - kín 
 ni - ni 
@@ -12827,11 +12827,11 @@ le - le
 inú - i nú 
 kí - kí 
 àtubọtán - à tu bọ tán 
-ẹ̀òyàn - ̀ẹ ò yàn 
+ẹ̀òyàn - ẹ̀ ò yàn 
 dára - dá ra 
 Báwo - Bá wo 
 ni - ni 
-ìgbẹ̀yìn - ì gb̀ẹ yìn 
+ìgbẹ̀yìn - ì gbẹ̀ yìn 
 oṣo - o ṣo 
 àti - à ti 
 àjẹ - à jẹ 
@@ -12852,7 +12852,7 @@ ní - ní
 ìlà - ì là 
 ABÍNÚẸNI - A BÍ NÚ Ẹ NI 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Ààlò - À à lò 
 Aájò - A á jò 
@@ -12900,18 +12900,18 @@ LÒÒGÙN - LÒ Ò GÙN
 Ìlà - Ì là 
 Òtòkùlú - Ò tò kù lú 
 Àwọn - À wọn 
-ẹ̀òyàn - ̀ẹ ò yàn 
+ẹ̀òyàn - ẹ̀ ò yàn 
 pàtàkì - pà tà kì 
 pàtàkì - pà tà kì 
-Mọlẹ̀bí - Mọ l̀ẹ bí 
+Mọlẹ̀bí - Mọ lẹ̀ bí 
 Awọn - A wọn 
 ará - a rá 
 ìdílé - ì dí lé 
-ẹ̀òyàn - ̀ẹ ò yàn 
+ẹ̀òyàn - ẹ̀ ò yàn 
 lI - lI 
 Nínú - Ní nú 
 ìbálòpò - ì bá lò pò 
-ẹ̀dá - ̀ẹ dá 
+ẹ̀dá - ẹ̀ dá 
 sẹdàá - sẹ dà á 
 àwọn - à wọn 
 ibi - i bi 
@@ -12946,17 +12946,17 @@ máa - má a
 fi - fi 
 bá - bá 
 ọkọ - ọ kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 gbépò - gbé pò 
 ỌGBỌN - Ọ GBỌN 
 ÀTIJẸ - À TI JẸ 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
-Édẹ̀ - É d̀ẹ 
+Édẹ̀ - É dẹ̀ 
 Lárúbáwá - Lá rú bá wá 
 ni - ni 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 ẹran - ẹ ran 
 tí - tí 
 wọn - wọn 
@@ -12973,7 +12973,7 @@ Awogba - A wo gba
 Òògùn - Ò ò gùn 
 gbogbonṣe - gbo gbo n ṣe 
 I - I 
-Tanieléẹ̀rí - Ta ni e lé ̀ẹ rí 
+Tanieléẹ̀rí - Ta ni e lé ẹ̀ rí 
 túmò - tú mò 
 si - si 
 ní - ní 
@@ -12982,7 +12982,7 @@ kejì - ke jì
 ewi - e wi 
 yìi - yì i 
 Kínlò - Kín lò 
-ṣẹlẹ̀ - ṣẹ l̀ẹ 
+ṣẹlẹ̀ - ṣẹ lẹ̀ 
 sí - sí 
 alágbàmọ - a lá gbà mọ 
 tí - tí 
@@ -13004,7 +13004,7 @@ tí - tí
 babaláwo - ba ba lá wo 
 fi - fi 
 rì - rì 
-bẹ̀ẹ̀rẹ̀ - b̀ẹ ̀ẹ r̀ẹ 
+bẹ̀ẹ̀rẹ̀ - bẹ̀ ẹ̀ rẹ̀ 
 ẹbọ - ẹ bọ 
 ìjẹta - ì jẹ ta 
 ni - ni 
@@ -13047,13 +13047,13 @@ lò - lò
 yàtò - yà tò 
 sí - sí 
 ọkọ - ọ kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 ọrun - ọ run 
 lààlà - là à là 
-Ìbéẹ̀rẹ̀ - Ì bé ̀ẹ r̀ẹ 
+Ìbéẹ̀rẹ̀ - Ì bé ẹ̀ rẹ̀ 
 Irúfẹ - I rú fẹ 
 àwọn - à wọn 
-ẹ̀òéyàn - ̀ẹ ò é yàn 
+ẹ̀òéyàn - ẹ̀ ò é yàn 
 wo - wo 
 ganan - ga nan 
 niewì - ni e wì 
@@ -13079,10 +13079,10 @@ ní - ní
 Ìla - Ì la 
 Nùkan - Nù kan 
 ìyanu - ì ya nu 
-Ìbéẹ̀rẹ̀ - Ì bé ̀ẹ r̀ẹ 
+Ìbéẹ̀rẹ̀ - Ì bé ẹ̀ rẹ̀ 
 Kinni - Kin ni 
 òjòwúbìnrin - ò jò wú bìn rin 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 ṣe - ṣe 
 bí - bí 
 é - é 
@@ -13091,11 +13091,11 @@ wòye - wò ye
 pé - pé 
 ọkọ - ọ kọ 
 ko - ko 
-fẹ̀ràn - f̀ẹ ràn 
+fẹ̀ràn - fẹ̀ ràn 
 òun - ò u òun 
 bíi - bí i 
 ti - ti 
-tẹlẹ̀ - tẹ l̀ẹ 
+tẹlẹ̀ - tẹ lẹ̀ 
 mọ - mọ 
 Dárúkọ - Dá rú kọ 
 iwà - i wà 
@@ -13114,7 +13114,7 @@ wo - wo
 ni - ni 
 JÙwé - JÙ wé 
 jẹ - jẹ 
-Kínniìgbẹ̀yìn - Kín ni ì gb̀ẹ yìn 
+Kínniìgbẹ̀yìn - Kín ni ì gbẹ̀ yìn 
 Jùwé - Jù wé 
 nínú - ní nú 
 ìtàn - ì tàn 
@@ -13123,14 +13123,14 @@ yìí - yì í
 ÒTÍTỌ - Ò TÍ TỌ 
 ṢÒWỌN - ṢÒ WỌN 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Afúniniwọjẹ - A fú ni ni wọ jẹ 
 Ẹni - Ẹ ni 
 ti - ti 
 le - le 
 fùn - fùn 
-ẹ̀éyan - ̀ẹ é yan 
+ẹ̀éyan - ẹ̀ é yan 
 ni - ni 
 òògùn - ò ò gùn 
 jẹ - jẹ 
@@ -13153,7 +13153,7 @@ bá - bá
 mu - mu 
 Irú - I rú 
 àwọn - à wọn 
-ẹ̀rẹ̀ - ̀ẹ r̀ẹ 
+ẹ̀rẹ̀ - ẹ̀ rẹ̀ 
 wo - wo 
 ni - ni 
 akéwì - a ké wì 
@@ -13165,27 +13165,27 @@ fún - fún
 Kinniakéwi - Kin ni a ké wi 
 ni - ni 
 yòò - yò ò 
-ṣelẹ̀ - ṣe l̀ẹ 
+ṣelẹ̀ - ṣe lẹ̀ 
 si - si 
 ẹni - ẹ ni 
 to - to 
 bá - bá 
 bá - bá 
-olẹ̀ - o l̀ẹ 
+olẹ̀ - o lẹ̀ 
 PẸLẸ - PẸ LẸ 
 PẸLÉ - PẸ LÉ 
 DỌWỌ - DỌ WỌ 
 ỌMỌGE - Ọ MỌ GE 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìlà - Ì là 
 Ògbojò - Ò gbo jò 
 Oléòrí - O lé ò rí 
 egúngún - e gún gún 
 ní - ní 
-ilẹ̀ - i l̀ẹ 
+ilẹ̀ - i lẹ̀ 
 Yorùbá - Yo rù bá 
-Onígẹ̀gẹ̀ - O ní g̀ẹ g̀ẹ 
+Onígẹ̀gẹ̀ - O ní gẹ̀ gẹ̀ 
 Ẹni - Ẹ ni 
 tí - tí 
 ò - ò 
@@ -13202,7 +13202,7 @@ ní - ní
 lára - lá ra 
 Alápáhangún - A lá pá han gún 
 Ọlẹ - Ọ lẹ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 I - I 
 Arékín - A ré kín 
 ni - ni 
@@ -13230,18 +13230,18 @@ ní - ní
 ila - i la 
 Irú - I rú 
 àwọn - à wọn 
-ẹ̀éyàn - ̀ẹ é yàn 
+ẹ̀éyàn - ẹ̀ é yàn 
 wo - wo 
 ni - ni 
 akéwì - a ké wì 
 gbà - gbà 
 pé - pé 
 o - o 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 wẹ - wẹ 
 yán - yán 
 kànyìnkànyìn - kàn yìn kàn yìn 
-loòdẹ̀ - lo ò d̀ẹ 
+loòdẹ̀ - lo ò dẹ̀ 
 TỌKỌ - TỌ KỌ 
 TAYA - TA YA 
 Àlàyé - À là yé 
@@ -13254,7 +13254,7 @@ kòkòrò - kò kò rò
 olòrò - o lò rò 
 tí - tí 
 orúkọ - o rú kọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 rì - rì 
 jẹ - jẹ 
 oyin - o yin 
@@ -13262,7 +13262,7 @@ Agìyàn - A gì yàn
 Orúkọ - O rú kọ 
 ilé - i lé 
 àwọn - à wọn 
-ẹ̀érùn - ̀ẹ é rùn 
+ẹ̀érùn - ẹ̀ é rùn 
 Kinni - Kin ni 
 akéwiì - a ké wi ì 
 yìí - yì í 
@@ -13281,7 +13281,7 @@ iléọkọ - i lé ọ kọ
 wé - wé 
 Yàtò - Yà tò 
 si - si 
-ìlékẹ̀ - ì lé k̀ẹ 
+ìlékẹ̀ - ì lé kẹ̀ 
 kín - kín 
 tún - tún 
 ni - ni 
@@ -13302,12 +13302,12 @@ gbàgbé - gbà gbé
 Ṣàlàyé - Ṣà là yé 
 ìlà - ì là 
 méjẹéjì - mé jẹ é jì 
-gbẹ̀yìn - gb̀ẹ yìn 
+gbẹ̀yìn - gbẹ̀ yìn 
 ewì - e wì 
 yìí - yì í 
 ÌTÉLÚRÙN - Ì TÉ LÚ RÙN 
 Àlàyé - À là yé 
-Ọrẹ̀ - Ọ r̀ẹ 
+Ọrẹ̀ - Ọ rẹ̀ 
 Ìlà - Ì là 
 Ibú - I bú 
 Inú - I nú 
@@ -13341,12 +13341,12 @@ sọ - sọ
 pé - pé 
 máa - má a 
 rì - rì 
-ṣẹlẹ̀ - ṣẹ l̀ẹ 
+ṣẹlẹ̀ - ṣẹ lẹ̀ 
 sí - sí 
 ẹni - ẹ ni 
 tú - tú 
 bá - bá 
-bùkẹ̀lẹ̀ - bù k̀ẹ l̀ẹ 
+bùkẹ̀lẹ̀ - bù kẹ̀ lẹ̀ 
 àbùjù - à bù jù 
 Ṣàlàyé - Ṣà là yé 
 ohun - o hun 
@@ -13380,19 +13380,19 @@ yìí - yì í
 n - n 
 ku - ku 
 Àlàyé - À là yé 
-Òrẹ̀ - Ò r̀ẹ 
+Òrẹ̀ - Ò rẹ̀ 
 Ìà - Ì à 
 Àlésò - À lé sò 
 Ki - Ki 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 dájòkòé - dá jò kò é 
 kí - kí 
 máa - má a 
 ronú - ro nú 
-Yúnsẹ̀ - Yún s̀ẹ 
+Yúnsẹ̀ - Yún sẹ̀ 
 òrìṣà - ò rì ṣà 
 Kí - Kí 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 kú - kú 
 Ẹwù - Ẹ wù 
 rilá - ri lá 
@@ -13422,7 +13422,7 @@ i - i
 pàrọwà - pà rọ wà 
 Dárúkọ - Dá rú kọ 
 oriṣii - o ri ṣi i 
-ìṣẹ̀lẹ - ì ṣ̀ẹ lẹ 
+ìṣẹ̀lẹ - ì ṣẹ̀ lẹ 
 búburú - bú bu rú 
 ti - ti 
 akéwì - a ké wì 
@@ -13454,16 +13454,16 @@ mosi - mo si
 Guakàn - Gu a kàn 
 Léjijì - Lé ji jì 
 Àsùnsi - À sùn si 
-Ẹtẹ̀ - Ẹ t̀ẹ 
-ìsàlẹ̀ - ì sà l̀ẹ 
+Ẹtẹ̀ - Ẹ tẹ̀ 
+ìsàlẹ̀ - ì sà lẹ̀ 
 ni - ni 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 nínú - ní nú 
-ẹ̀ké - ̀ẹ ké 
+ẹ̀ké - ẹ̀ ké 
 Fonelòjì - Fo ne lò jì 
 Yorùbá - Yo rù bá 
 Ọjà - Ọ jà 
-Ìbérẹ̀ - Ì bé r̀ẹ 
+Ìbérẹ̀ - Ì bé rẹ̀ 
 Irúìwà - I rú ì wà 
 wo - wo 
 ni - ni 
@@ -13476,7 +13476,7 @@ sí - sí
 àbòsí - à bò sí 
 Báwo - Bá wo 
 ni - ni 
-ẹ̀tipásẹ̀ - ̀ẹ ti pá s̀ẹ 
+ẹ̀tipásẹ̀ - ẹ̀ ti pá sẹ̀ 
 àwọn - à wọn 
 alábòsíi - a lá bò sí i 
 ṣe - ṣe 
@@ -13489,7 +13489,7 @@ akéwì - a ké wì
 yii - yi i 
 Níboni - Ní bo ni 
 akéwì - a ké wì 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 ní - ní 
 ilé - i lé 
 àbòsí - à bò sí 
@@ -13509,15 +13509,15 @@ ewì - e wì
 náà - ná à 
 ÀFARAWÉ - À FA RA WÉ 
 Àlàyé - À là yé 
-òrẹ̀ - ò r̀ẹ 
+òrẹ̀ - ò rẹ̀ 
 Ìlà - Ì là 
 Ọkáákàá - Ọ ká á kà á 
 Ẹyẹ - Ẹ yẹ 
 jijẹ - ji jẹ 
 kan - kan 
 ni - ni 
-ẹ̀yi - ̀ẹ yi 
-Àmúbòrẹ̀ẹ̀ - À mú bò r̀ẹ ̀ẹ 
+ẹ̀yi - ẹ̀ yi 
+Àmúbòrẹ̀ẹ̀ - À mú bò rẹ̀ ẹ̀ 
 Ohun - O hun 
 tí - tí 
 a - a 
@@ -13537,10 +13537,10 @@ ti - ti
 wọn - wọn 
 máa - má a 
 fi - fi 
-òsòdẹ̀ - ò sò d̀ẹ 
+òsòdẹ̀ - ò sò dẹ̀ 
 àgbagbà - à gba gbà 
 se - se 
-Ìbéẹ̀rẹ̀ - Ì bé ̀ẹ r̀ẹ 
+Ìbéẹ̀rẹ̀ - Ì bé ẹ̀ rẹ̀ 
 Ṣàlàyé - Ṣà là yé 
 ní - ní 
 ṣòkí - ṣò kí 
@@ -13555,7 +13555,7 @@ Irú - I rú
 wo - wo 
 ni - ni 
 akéwì - a ké wì 
-mẹ̀nubà - m̀ẹ nu bà 
+mẹ̀nubà - mẹ̀ nu bà 
 nínú - ní nú 
 ewì - e wì 
 yìí - yì í 
@@ -13580,7 +13580,7 @@ ní - ní
 ìlà - ì là 
 méjì - mé jì 
 tò - tò 
-gbẹ̀yìn - gb̀ẹ yìn 
+gbẹ̀yìn - gbẹ̀ yìn 
 ewì - e wì 
 yìí - yì í 
 RÌBÁ - RÌ BÁ 
@@ -13588,26 +13588,26 @@ RÌBÁ - RÌ BÁ
 Òrò - Ò rò 
 Ìlò - Ì lò 
 Owé - O wé 
-ẹ̀yìn - ̀ẹ yìn 
+ẹ̀yìn - ẹ̀ yìn 
 Ẹran - Ẹ ran 
 Ìbálòpò - Ì bá lò pò 
 ọkùnrin - ọ kùn rin 
-pẹ̀lú - p̀ẹ lú 
+pẹ̀lú - pẹ̀ lú 
 obìnrin - o bìn rin 
 Hàrámù - Hà rá mù 
-Édẹ̀ - É d̀ẹ 
+Édẹ̀ - É dẹ̀ 
 Lárúbáwá - Lá rú bá wá 
 ni - ni 
-ẹ̀yí - ̀ẹ yí 
+ẹ̀yí - ẹ̀ yí 
 túmù - tú mù 
 sí - sí 
 nìkan - nì kan 
 àìtò - à ì tò 
 Taaniakéwi - Ta a ni a ké wi 
 yìí - yì í 
-pẹ̀ - p̀ẹ 
+pẹ̀ - pẹ̀ 
 ní - ní 
-olẹ̀ - o l̀ẹ 
+olẹ̀ - o lẹ̀ 
 ní - ní 
 ìlà - ì là 
 Táani - Tá a ni 
@@ -13667,10 +13667,10 @@ Maájẹlé - Ma á jẹ lé
 olòrò - o lò rò 
 tí - tí 
 ò - ò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 pànìyàn - pà nì yàn 
 bí - bí 
-ẹ̀éyàn - ̀ẹ é yàn 
+ẹ̀éyàn - ẹ̀ é yàn 
 bá - bá 
 jẹ - jẹ 
 Egùn - E gùn 
@@ -13692,7 +13692,7 @@ Kútọnu - Kú tọ nu
 Ìtú - Ì tú 
 kan - kan 
 ní - ní 
-orílẹ̀ẹ̀dẹ - o rí l̀ẹ ̀ẹ dẹ 
+orílẹ̀ẹ̀dẹ - o rí lẹ̀ ẹ̀ dẹ 
 Benìn - Be nìn 
 Kòtàùgòra - Kò tà ù gò ra 
 Ìlú - Ì lú 
@@ -13710,19 +13710,19 @@ yii - yi i
 sọ - sọ 
 pé - pé 
 ọmọ - ọ mọ 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 fi - fi 
 máa - má a 
 mú - mú 
 ni - ni 
-Ṣàpẹ̀júwe - Ṣà p̀ẹ jú we 
+Ṣàpẹ̀júwe - Ṣà pẹ̀ jú we 
 wòbìà - wò bì à 
-gẹ̀gẹ - g̀ẹ gẹ 
+gẹ̀gẹ - gẹ̀ gẹ 
 bí - bí 
 àlàyé - à là yé 
 akéwì - a ké wì 
 yìí - yì í 
-Irúọnàẹ̀dẹ̀ - I rú ọ nà ̀ẹ d̀ẹ 
+Irúọnàẹ̀dẹ̀ - I rú ọ nà ẹ̀ dẹ̀ 
 wo - wo 
 ni - ni 
 Ò - Ò 
@@ -13753,7 +13753,7 @@ kan - kan
 báyìí - bá yì í 
 ti - ti 
 ẹnu - ẹ nu 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 máa - má a 
 n - n 
 gùn - gùn 
@@ -13789,7 +13789,7 @@ kiri - ki ri
 mta - m ta 
 tí - tí 
 akéwì - a ké wì 
-mẹ̀nubà - m̀ẹ nu bà 
+mẹ̀nubà - mẹ̀ nu bà 
 fún - fún 
 obìnrin - o bìn rin 
 tò - tò 
@@ -13805,13 +13805,13 @@ tò - tò
 n - n 
 rin - rin 
 ìrìn - ì rìn 
-àrẹ̀ - à r̀ẹ 
+àrẹ̀ - à rẹ̀ 
 ganan - ga nan 
 àwọn - à wọn 
 wo - wo 
 lò - lò 
 tún - tún 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 bá - bá 
 IKÚ - I KÚ 
 AWOLỌWÒỌ - A WO LỌ WÒ Ọ 
@@ -13837,7 +13837,7 @@ Babanlá - Ba ban lá
 àwọn - à wọn 
 Yorùbá - Yo rù bá 
 Mùtúmùwà - Mù tú mù wà 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 I - I 
 Àwọn - À wọn 
 ni - ni 
@@ -13847,9 +13847,9 @@ fún - fún
 kò - kò 
 kú - kú 
 Kínnaàìwúlò - Kín na à ì wú lò 
-ẹ̀tù - ̀ẹ tù 
+ẹ̀tù - ẹ̀ tù 
 àhàyá - à hà yá 
-ajẹ̀ - a j̀ẹ 
+ajẹ̀ - a jẹ̀ 
 àti - à ti 
 ọta - ọ ta 
 ti - ti 
@@ -13861,12 +13861,12 @@ Dárúkọ - Dá rú kọ
 mẹta - mẹ ta 
 ti - ti 
 àwọn - à wọn 
-ẹ̀nìyàn - ̀ẹ nì yàn 
+ẹ̀nìyàn - ẹ̀ nì yàn 
 kò - kò 
 fi - fi 
-leẹ̀ - le ̀ẹ 
+leẹ̀ - le ẹ̀ 
 gbàgbé - gbà gbé 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Kinni - Kin ni 
 orúkọ - o rú kọ 
 baba - ba ba 
@@ -13892,11 +13892,11 @@ kan - kan
 té - té 
 jẹ - jẹ 
 ni - ni 
-agbẹ̀gbé - a gb̀ẹ gbé 
+agbẹ̀gbé - a gbẹ̀ gbé 
 Ògbòmòṣọ - Ò gbò mò ṣọ 
 láyé - lá yé 
 àtijọ - à ti jọ 
-Arẹ̀sà - A r̀ẹ sà 
+Arẹ̀sà - A rẹ̀ sà 
 Orúkọ - O rú kọ 
 oye - o ye 
 ilú - i lú 
@@ -13916,7 +13916,7 @@ pé - pé
 Í - Í 
 O - O 
 ròjò - rò jò 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 fin - fin 
 àwọn - à wọn 
 ọmọ - ọ mọ 
@@ -13942,7 +13942,7 @@ oún - o ú oún
 jẹ - jẹ 
 ní - ní 
 àwùjọ - à wù jọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Nnkan - N n kan 
 méjì - mé jì 
 wo - wo 
@@ -13967,7 +13967,7 @@ akéwì - a ké wì
 lérò - lé rò 
 pé - pé 
 ò - ò 
-lẹ̀ - l̀ẹ 
+lẹ̀ - lẹ̀ 
 tán - tán 
 ìṢòro - ì Ṣò ro 
 òwọn - ò wọn 
@@ -13975,7 +13975,7 @@ gògò - gò gò
 oún - o ú oún 
 jẹ - jẹ 
 láwújọ - lá wú jọ 
-rẹ̀ - r̀ẹ 
+rẹ̀ - rẹ̀ 
 Ṣàpòjúwe - Ṣà pò jú we 
 ìrísí - ì rí sí 
 àti - à ti 
