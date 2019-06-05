@@ -18,8 +18,9 @@ C = {'b', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'r', 's', 'ṣ', 't'
 D = {'gb', 'GB'}
 
 yo_to_la = {'̀ẹ': 'ḕ', '̀ọ': 'ṑ', '́ẹ': 'ḗ', '́ọ': 'ṓ', '̀m': 'ṁ', '-': '',
-            'ẹ̀': 'ḕ', 'ọ̀': 'ṑ', 'ẹ́': 'ḗ', 'ọ́ ': 'ṓ', 'm̀': 'ṁ'}
+            'ẹ̀': 'ḕ', 'ọ̀': 'ṑ', 'ẹ́': 'ḗ', 'ọ́': 'ṓ', 'm̀': 'ṁ'}
 la_to_ya = {'ḕ': '̀ẹ', 'ṑ': '̀ọ', 'ḗ': '́ẹ', 'ṓ': '́ọ'}
+# la_to_ya = {'ḕ': 'ẹ̀', 'ṑ': 'ọ̀', 'ḗ': 'ẹ́', 'ṓ': 'ọ́'}
 
 
 def syllabicate(word):
@@ -30,7 +31,7 @@ def syllabicate(word):
         if len(word) > 3:
             if word[-4:-2] in D and word[-2:] in Vn:  # DVn
                 syllable = word[-4:] + ' ' + syllable
-                word = word[0:4]
+                word = word[0:-4]
             else:
                 if word[-3:-1] in D and word[-1] in V:  # DV Structure
                     syllable = word[-3:] + ' ' + syllable
