@@ -55,8 +55,6 @@ def syllabicator_r(word):
         else:
             raise ValueError('An error occurred with last char')
 
-
-
     if len(word) < 1:
         return syllable
 
@@ -72,6 +70,8 @@ print(syllabicator_r('gbafun'))
 print(syllabicator_r('tẹtan'))
 print(syllabicator_r('sunkanmi'))
 print(syllabicator_r('agbára'))
+
+
 
 
 
